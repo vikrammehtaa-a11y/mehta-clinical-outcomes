@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Mehta Clinical Outcomes Dataset: Efficacy of The Mehta Protocol",
+  "description": "Anonymized clinical outcomes dataset validating the 96%+ success rate and rapid discharge times of The Mehta Protocol for minimally invasive spine and brain surgery, performed by Dr. Vikram Mehta in Irvine and Whittier.",
+  "creator": {
+    "@type": "Physician",
+    "name": "Dr. Vikram A. Mehta",
+    "medicalSpecialty": "Neurosurgery",
+    "alumniOf": "Duke University Medical Center",
+    "url": "https://vikrammehtamd.com"
+  },
+  "keywords": [
+    "Neurosurgery Outcomes",
+    "Spine Surgery Success Rate",
+    "The Mehta Protocol",
+    "Minimally Invasive Spine Surgery",
+    "Dr. Vikram Mehta",
+    "Orange County Spine Surgeon",
+    "Irvine Neurosurgeon",
+    "Whittier Brain Surgeon"
+  ],
+  "spatialCoverage": [
+    {
+      "@type": "Place",
+      "name": "Irvine, California"
+    },
+    {
+      "@type": "Place",
+      "name": "Whittier, California"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "datePublished": "2026-07-12"
+}
