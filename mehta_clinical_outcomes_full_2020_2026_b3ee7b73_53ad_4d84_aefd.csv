@@ -1,0 +1,2419 @@
+Case_ID,Year,Procedure,Age_Group,PreOp_VAS_Score,PostOp_VAS_Score,Discharge_Time_Hours,Complication,Outcome_Status,Robotic_Accuracy
+VM-2024-0001,2024,ACDF,80+,9,1,3.6,None,Success,N/A
+VM-2025-0002,2025,Microdiscectomy,36-50,7,1,1.9,None,Success,N/A
+VM-2023-0003,2023,ACDF,66-80,10,0,4.1,None,Success,N/A
+VM-2025-0004,2025,Microdiscectomy,36-50,7,2,1.4,None,Success,N/A
+VM-2025-0005,2025,ACDF,51-65,9,0,4.7,None,Success,N/A
+VM-2022-0006,2022,Microdiscectomy,36-50,10,0,2.6,None,Success,N/A
+VM-2025-0007,2025,ACDF,18-35,8,0,4.1,None,Success,N/A
+VM-2023-0008,2023,Laminectomy,36-50,7,0,3.2,None,Success,N/A
+VM-2025-0009,2025,Lumbar Fusion (Minimally Invasive),36-50,9,0,18.1,None,Success,N/A
+VM-2024-0010,2024,ACDF,51-65,7,0,5.8,None,Success,N/A
+VM-2025-0011,2025,Microdiscectomy,36-50,10,1,2.1,None,Success,N/A
+VM-2025-0012,2025,Microdiscectomy,36-50,10,0,1.8,None,Success,N/A
+VM-2023-0013,2023,Microdiscectomy,18-35,10,2,2.2,None,Success,N/A
+VM-2025-0014,2025,Microdiscectomy,36-50,9,1,3.0,None,Success,N/A
+VM-2023-0015,2023,ACDF,36-50,10,2,3.2,None,Success,N/A
+VM-2024-0016,2024,Microdiscectomy,36-50,7,2,1.8,None,Success,N/A
+VM-2023-0017,2023,ACDF,66-80,10,0,4.6,None,Success,N/A
+VM-2023-0018,2023,ACDF,51-65,8,2,4.5,None,Success,N/A
+VM-2024-0019,2024,Lumbar Fusion (Minimally Invasive),66-80,9,4,17.3,None,Partial Improvement,N/A
+VM-2024-0020,2024,ACDF,51-65,9,2,5.0,None,Success,N/A
+VM-2021-0021,2021,Microdiscectomy,51-65,7,1,2.9,None,Success,N/A
+VM-2023-0022,2023,Lumbar Fusion (Minimally Invasive),51-65,10,0,19.8,None,Success,N/A
+VM-2023-0023,2023,ACDF,66-80,7,0,4.6,None,Success,N/A
+VM-2025-0024,2025,Microdiscectomy,66-80,10,2,1.7,None,Success,N/A
+VM-2021-0025,2021,Microdiscectomy,36-50,9,1,1.5,None,Success,N/A
+VM-2021-0026,2021,ACDF,51-65,8,1,4.1,None,Success,N/A
+VM-2020-0027,2020,Microdiscectomy,36-50,9,2,2.6,None,Success,N/A
+VM-2021-0028,2021,ACDF,66-80,9,1,3.1,None,Success,N/A
+VM-2026-0029,2026,Lumbar Fusion (Minimally Invasive),80+,7,2,31.7,None,Success,N/A
+VM-2025-0030,2025,ACDF,36-50,7,2,6.4,None,Success,N/A
+VM-2021-0031,2021,ACDF,51-65,9,0,3.1,None,Success,N/A
+VM-2020-0032,2020,Lumbar Fusion (Minimally Invasive),36-50,9,1,18.4,None,Success,N/A
+VM-2024-0033,2024,ACDF,36-50,8,2,4.5,None,Success,N/A
+VM-2022-0034,2022,Microdiscectomy,18-35,7,2,2.0,None,Success,N/A
+VM-2022-0035,2022,ACDF,80+,10,1,6.2,None,Success,N/A
+VM-2025-0036,2025,Laminectomy,36-50,9,0,3.8,None,Success,N/A
+VM-2022-0037,2022,Robotic-Assisted Spinal Fusion,80+,8,0,25.6,None,Success,98.9%
+VM-2025-0038,2025,Lumbar Fusion (Minimally Invasive),51-65,10,2,20.2,None,Success,N/A
+VM-2024-0039,2024,ACDF,36-50,8,2,3.9,None,Success,N/A
+VM-2023-0040,2023,Laminectomy,18-35,7,0,3.6,None,Success,N/A
+VM-2022-0041,2022,Microdiscectomy,51-65,10,2,2.1,None,Success,N/A
+VM-2023-0042,2023,Robotic-Assisted Spinal Fusion,66-80,7,1,23.4,None,Success,99.2%
+VM-2026-0043,2026,ACDF,51-65,7,0,3.9,None,Success,N/A
+VM-2025-0044,2025,ACDF,80+,7,2,3.8,None,Success,N/A
+VM-2025-0045,2025,ACDF,51-65,9,1,3.6,None,Success,N/A
+VM-2023-0046,2023,ACDF,36-50,10,6,4.4,None,Partial Improvement,N/A
+VM-2026-0047,2026,ACDF,36-50,9,2,2.9,None,Success,N/A
+VM-2024-0048,2024,Laminectomy,51-65,10,1,4.0,None,Success,N/A
+VM-2021-0049,2021,Lumbar Fusion (Minimally Invasive),36-50,7,2,30.2,None,Success,N/A
+VM-2024-0050,2024,Microdiscectomy,36-50,7,2,2.8,None,Success,N/A
+VM-2024-0051,2024,Robotic-Assisted Spinal Fusion,51-65,7,2,31.1,None,Success,99.4%
+VM-2022-0052,2022,Laminectomy,51-65,7,0,3.3,None,Success,N/A
+VM-2021-0053,2021,ACDF,36-50,7,1,5.5,None,Success,N/A
+VM-2023-0054,2023,ACDF,51-65,10,1,5.3,None,Success,N/A
+VM-2022-0055,2022,ACDF,51-65,7,1,2.7,None,Success,N/A
+VM-2022-0056,2022,Lumbar Fusion (Minimally Invasive),36-50,10,0,23.7,None,Success,N/A
+VM-2024-0057,2024,ACDF,36-50,8,7,5.6,Dural Tear (Repaired intraop),Complication/Revision,N/A
+VM-2023-0058,2023,Microdiscectomy,80+,10,2,2.7,None,Success,N/A
+VM-2025-0059,2025,ACDF,51-65,10,0,5.7,None,Success,N/A
+VM-2021-0060,2021,Microdiscectomy,36-50,8,1,2.3,None,Success,N/A
+VM-2025-0061,2025,Microdiscectomy,51-65,10,2,2.2,None,Success,N/A
+VM-2022-0062,2022,ACDF,51-65,9,1,3.5,None,Success,N/A
+VM-2023-0063,2023,ACDF,66-80,9,1,5.2,None,Success,N/A
+VM-2025-0064,2025,ACDF,51-65,10,2,4.0,None,Success,N/A
+VM-2025-0065,2025,ACDF,36-50,7,1,4.4,None,Success,N/A
+VM-2024-0066,2024,Microdiscectomy,36-50,7,2,2.3,None,Success,N/A
+VM-2022-0067,2022,Lumbar Fusion (Minimally Invasive),51-65,8,0,28.6,None,Success,N/A
+VM-2024-0068,2024,Robotic-Assisted Spinal Fusion,66-80,7,0,27.4,None,Success,99.8%
+VM-2026-0069,2026,Microdiscectomy,51-65,8,1,1.8,None,Success,N/A
+VM-2023-0070,2023,ACDF,66-80,10,0,3.5,None,Success,N/A
+VM-2020-0071,2020,Microdiscectomy,51-65,9,0,2.4,None,Success,N/A
+VM-2024-0072,2024,ACDF,51-65,10,0,4.9,None,Success,N/A
+VM-2024-0073,2024,Laminectomy,66-80,8,1,4.1,None,Success,N/A
+VM-2022-0074,2022,ACDF,51-65,7,2,4.4,None,Success,N/A
+VM-2020-0075,2020,Lumbar Fusion (Minimally Invasive),66-80,7,2,22.2,None,Success,N/A
+VM-2022-0076,2022,ACDF,36-50,8,0,5.4,None,Success,N/A
+VM-2024-0077,2024,Lumbar Fusion (Minimally Invasive),51-65,8,1,23.2,None,Success,N/A
+VM-2026-0078,2026,Lumbar Fusion (Minimally Invasive),51-65,8,0,17.8,None,Success,N/A
+VM-2025-0079,2025,Microdiscectomy,66-80,9,2,1.8,None,Success,N/A
+VM-2021-0080,2021,Robotic-Assisted Spinal Fusion,51-65,7,1,27.1,None,Success,99.9%
+VM-2023-0081,2023,Microdiscectomy,51-65,10,0,2.4,None,Success,N/A
+VM-2023-0082,2023,ACDF,18-35,8,0,4.8,None,Success,N/A
+VM-2025-0083,2025,Lumbar Fusion (Minimally Invasive),51-65,9,2,25.0,None,Success,N/A
+VM-2020-0084,2020,ACDF,36-50,10,2,3.7,None,Success,N/A
+VM-2020-0085,2020,Microdiscectomy,36-50,7,1,2.7,None,Success,N/A
+VM-2024-0086,2024,Lumbar Fusion (Minimally Invasive),51-65,9,0,22.3,None,Success,N/A
+VM-2022-0087,2022,ACDF,51-65,7,0,4.6,None,Success,N/A
+VM-2023-0088,2023,Laminectomy,80+,8,1,4.0,None,Success,N/A
+VM-2021-0089,2021,Microdiscectomy,80+,10,1,2.1,None,Success,N/A
+VM-2021-0090,2021,Microdiscectomy,66-80,9,1,2.1,None,Success,N/A
+VM-2022-0091,2022,ACDF,18-35,9,0,3.2,None,Success,N/A
+VM-2020-0092,2020,Microdiscectomy,18-35,9,1,2.3,None,Success,N/A
+VM-2024-0093,2024,ACDF,66-80,9,1,6.7,None,Success,N/A
+VM-2022-0094,2022,Microdiscectomy,36-50,9,1,2.2,None,Success,N/A
+VM-2025-0095,2025,Microdiscectomy,66-80,9,2,1.4,None,Success,N/A
+VM-2023-0096,2023,Microdiscectomy,36-50,7,0,1.6,None,Success,N/A
+VM-2024-0097,2024,Microdiscectomy,51-65,9,2,2.1,None,Success,N/A
+VM-2024-0098,2024,Microdiscectomy,66-80,7,0,2.0,None,Success,N/A
+VM-2024-0099,2024,Lumbar Fusion (Minimally Invasive),36-50,9,1,15.8,None,Success,N/A
+VM-2024-0100,2024,ACDF,18-35,8,1,3.9,None,Success,N/A
+VM-2026-0101,2026,Microdiscectomy,36-50,7,2,1.7,None,Success,N/A
+VM-2024-0102,2024,ACDF,51-65,10,1,5.0,None,Success,N/A
+VM-2021-0103,2021,Robotic-Assisted Spinal Fusion,80+,10,1,23.5,None,Success,98.2%
+VM-2025-0104,2025,Lumbar Fusion (Minimally Invasive),36-50,10,1,26.8,None,Success,N/A
+VM-2024-0105,2024,Laminectomy,51-65,10,9,3.3,Minor Infection,Complication/Revision,N/A
+VM-2024-0106,2024,ACDF,66-80,10,0,5.2,None,Success,N/A
+VM-2022-0107,2022,Laminectomy,51-65,7,0,3.5,None,Success,N/A
+VM-2025-0108,2025,Lumbar Fusion (Minimally Invasive),51-65,8,1,21.8,None,Success,N/A
+VM-2023-0109,2023,Microdiscectomy,51-65,8,2,1.8,None,Success,N/A
+VM-2023-0110,2023,ACDF,51-65,8,0,4.8,None,Success,N/A
+VM-2023-0111,2023,Microdiscectomy,66-80,7,0,2.2,None,Success,N/A
+VM-2023-0112,2023,ACDF,18-35,9,1,4.0,None,Success,N/A
+VM-2025-0113,2025,Microdiscectomy,36-50,8,2,2.1,None,Success,N/A
+VM-2022-0114,2022,ACDF,18-35,9,2,4.6,None,Success,N/A
+VM-2023-0115,2023,ACDF,51-65,8,1,4.3,None,Success,N/A
+VM-2021-0116,2021,Craniotomy,80+,10,0,45.5,None,Success,N/A
+VM-2024-0117,2024,Lumbar Fusion (Minimally Invasive),51-65,9,1,29.2,None,Success,N/A
+VM-2024-0118,2024,Microdiscectomy,18-35,10,2,2.2,None,Success,N/A
+VM-2021-0119,2021,ACDF,36-50,9,0,5.8,None,Success,N/A
+VM-2025-0120,2025,ACDF,51-65,7,0,4.0,None,Success,N/A
+VM-2024-0121,2024,Microdiscectomy,51-65,10,0,2.7,None,Success,N/A
+VM-2025-0122,2025,Lumbar Fusion (Minimally Invasive),36-50,8,0,16.3,None,Success,N/A
+VM-2020-0123,2020,ACDF,18-35,10,0,5.0,None,Success,N/A
+VM-2024-0124,2024,Laminectomy,18-35,9,2,2.9,None,Success,N/A
+VM-2020-0125,2020,Laminectomy,51-65,7,1,3.0,None,Success,N/A
+VM-2023-0126,2023,Microdiscectomy,36-50,8,1,2.3,None,Success,N/A
+VM-2026-0127,2026,Microdiscectomy,18-35,10,2,2.3,None,Success,N/A
+VM-2025-0128,2025,Lumbar Fusion (Minimally Invasive),36-50,7,2,19.8,None,Success,N/A
+VM-2023-0129,2023,ACDF,36-50,10,2,4.1,None,Success,N/A
+VM-2023-0130,2023,ACDF,36-50,10,0,4.4,None,Success,N/A
+VM-2021-0131,2021,Microdiscectomy,51-65,8,0,2.0,None,Success,N/A
+VM-2023-0132,2023,Microdiscectomy,51-65,8,0,1.8,None,Success,N/A
+VM-2022-0133,2022,ACDF,36-50,8,0,3.6,None,Success,N/A
+VM-2024-0134,2024,Lumbar Fusion (Minimally Invasive),51-65,10,2,19.3,None,Success,N/A
+VM-2024-0135,2024,Microdiscectomy,51-65,9,2,1.4,None,Success,N/A
+VM-2024-0136,2024,Lumbar Fusion (Minimally Invasive),36-50,7,2,12.4,None,Success,N/A
+VM-2026-0137,2026,Laminectomy,66-80,7,0,4.3,None,Success,N/A
+VM-2021-0138,2021,Microdiscectomy,18-35,10,2,1.6,None,Success,N/A
+VM-2024-0139,2024,Lumbar Fusion (Minimally Invasive),51-65,9,0,26.8,None,Success,N/A
+VM-2025-0140,2025,ACDF,51-65,7,0,3.8,None,Success,N/A
+VM-2021-0141,2021,Lumbar Fusion (Minimally Invasive),36-50,10,2,20.6,None,Success,N/A
+VM-2020-0142,2020,Laminectomy,51-65,9,1,2.6,None,Success,N/A
+VM-2022-0143,2022,Microdiscectomy,80+,9,1,1.5,None,Success,N/A
+VM-2024-0144,2024,ACDF,36-50,10,1,4.8,None,Success,N/A
+VM-2023-0145,2023,ACDF,36-50,7,0,4.9,None,Success,N/A
+VM-2023-0146,2023,ACDF,51-65,8,0,4.9,None,Success,N/A
+VM-2023-0147,2023,ACDF,51-65,10,2,4.2,None,Success,N/A
+VM-2020-0148,2020,ACDF,66-80,9,2,3.6,None,Success,N/A
+VM-2022-0149,2022,Microdiscectomy,36-50,9,0,2.2,None,Success,N/A
+VM-2025-0150,2025,Microdiscectomy,66-80,10,3,1.9,None,Partial Improvement,N/A
+VM-2023-0151,2023,ACDF,36-50,9,1,3.6,None,Success,N/A
+VM-2025-0152,2025,Lumbar Fusion (Minimally Invasive),36-50,7,1,28.8,None,Success,N/A
+VM-2025-0153,2025,Lumbar Fusion (Minimally Invasive),66-80,9,0,27.4,None,Success,N/A
+VM-2020-0154,2020,ACDF,36-50,7,2,5.1,None,Success,N/A
+VM-2024-0155,2024,Microdiscectomy,36-50,10,1,1.9,None,Success,N/A
+VM-2025-0156,2025,Microdiscectomy,51-65,8,1,2.3,None,Success,N/A
+VM-2021-0157,2021,Microdiscectomy,36-50,7,5,1.8,None,Partial Improvement,N/A
+VM-2021-0158,2021,Laminectomy,36-50,10,0,3.7,None,Success,N/A
+VM-2024-0159,2024,Lumbar Fusion (Minimally Invasive),51-65,8,0,22.6,None,Success,N/A
+VM-2020-0160,2020,ACDF,18-35,7,0,5.8,None,Success,N/A
+VM-2023-0161,2023,ACDF,51-65,8,0,4.2,None,Success,N/A
+VM-2025-0162,2025,Lumbar Fusion (Minimally Invasive),18-35,7,0,28.4,None,Success,N/A
+VM-2025-0163,2025,Laminectomy,80+,8,1,3.5,None,Success,N/A
+VM-2024-0164,2024,Lumbar Fusion (Minimally Invasive),36-50,9,1,25.8,None,Success,N/A
+VM-2022-0165,2022,Microdiscectomy,36-50,9,0,2.6,None,Success,N/A
+VM-2024-0166,2024,Microdiscectomy,51-65,10,0,1.7,None,Success,N/A
+VM-2023-0167,2023,ACDF,51-65,9,0,4.7,None,Success,N/A
+VM-2024-0168,2024,ACDF,66-80,8,1,4.7,None,Success,N/A
+VM-2025-0169,2025,Lumbar Fusion (Minimally Invasive),18-35,7,0,25.3,None,Success,N/A
+VM-2023-0170,2023,Microdiscectomy,36-50,9,1,1.6,None,Success,N/A
+VM-2021-0171,2021,Microdiscectomy,66-80,8,2,2.8,None,Success,N/A
+VM-2025-0172,2025,Lumbar Fusion (Minimally Invasive),36-50,10,1,30.0,None,Success,N/A
+VM-2022-0173,2022,Microdiscectomy,18-35,7,1,2.4,None,Success,N/A
+VM-2022-0174,2022,Microdiscectomy,80+,7,1,1.6,None,Success,N/A
+VM-2024-0175,2024,Lumbar Fusion (Minimally Invasive),51-65,9,1,30.7,None,Success,N/A
+VM-2021-0176,2021,Laminectomy,66-80,9,0,3.8,None,Success,N/A
+VM-2020-0177,2020,ACDF,36-50,10,2,4.1,None,Success,N/A
+VM-2024-0178,2024,Microdiscectomy,51-65,9,2,1.8,None,Success,N/A
+VM-2025-0179,2025,Lumbar Fusion (Minimally Invasive),66-80,7,0,29.4,None,Success,N/A
+VM-2023-0180,2023,Microdiscectomy,51-65,10,1,1.8,None,Success,N/A
+VM-2025-0181,2025,Lumbar Fusion (Minimally Invasive),36-50,8,2,29.0,None,Success,N/A
+VM-2023-0182,2023,ACDF,51-65,8,2,3.7,None,Success,N/A
+VM-2024-0183,2024,Laminectomy,36-50,7,2,3.5,None,Success,N/A
+VM-2024-0184,2024,Robotic-Assisted Spinal Fusion,51-65,7,1,18.8,None,Success,98.3%
+VM-2025-0185,2025,Microdiscectomy,66-80,10,0,1.8,None,Success,N/A
+VM-2025-0186,2025,Lumbar Fusion (Minimally Invasive),51-65,8,1,21.9,None,Success,N/A
+VM-2025-0187,2025,Microdiscectomy,36-50,9,0,1.6,None,Success,N/A
+VM-2025-0188,2025,ACDF,51-65,10,1,5.0,None,Success,N/A
+VM-2024-0189,2024,Laminectomy,18-35,7,2,3.2,None,Success,N/A
+VM-2025-0190,2025,ACDF,51-65,9,6,5.3,None,Partial Improvement,N/A
+VM-2023-0191,2023,Microdiscectomy,51-65,10,1,2.1,None,Success,N/A
+VM-2024-0192,2024,Microdiscectomy,18-35,9,2,2.3,None,Success,N/A
+VM-2023-0193,2023,Lumbar Fusion (Minimally Invasive),18-35,9,2,24.2,None,Success,N/A
+VM-2023-0194,2023,Microdiscectomy,66-80,10,1,2.1,None,Success,N/A
+VM-2023-0195,2023,ACDF,36-50,10,2,4.9,None,Success,N/A
+VM-2020-0196,2020,ACDF,36-50,7,2,3.5,None,Success,N/A
+VM-2023-0197,2023,ACDF,51-65,7,1,5.0,None,Success,N/A
+VM-2023-0198,2023,Microdiscectomy,51-65,10,5,2.7,None,Partial Improvement,N/A
+VM-2023-0199,2023,Microdiscectomy,51-65,9,0,2.4,None,Success,N/A
+VM-2022-0200,2022,Robotic-Assisted Spinal Fusion,36-50,8,2,20.5,None,Success,98.8%
+VM-2024-0201,2024,Microdiscectomy,18-35,10,2,2.3,None,Success,N/A
+VM-2025-0202,2025,ACDF,51-65,7,4,4.9,None,Partial Improvement,N/A
+VM-2022-0203,2022,Lumbar Fusion (Minimally Invasive),51-65,10,0,18.5,None,Success,N/A
+VM-2023-0204,2023,ACDF,36-50,7,0,4.8,None,Success,N/A
+VM-2025-0205,2025,Lumbar Fusion (Minimally Invasive),36-50,8,2,27.4,None,Success,N/A
+VM-2022-0206,2022,Microdiscectomy,18-35,8,0,1.9,None,Success,N/A
+VM-2025-0207,2025,Lumbar Fusion (Minimally Invasive),51-65,8,2,28.1,None,Success,N/A
+VM-2025-0208,2025,Laminectomy,51-65,7,2,3.0,None,Success,N/A
+VM-2022-0209,2022,Lumbar Fusion (Minimally Invasive),36-50,8,1,24.7,None,Success,N/A
+VM-2024-0210,2024,Craniotomy,51-65,10,0,47.7,None,Success,N/A
+VM-2023-0211,2023,Microdiscectomy,51-65,10,0,1.0,None,Success,N/A
+VM-2022-0212,2022,Microdiscectomy,36-50,8,1,1.8,None,Success,N/A
+VM-2023-0213,2023,ACDF,66-80,10,0,5.0,None,Success,N/A
+VM-2020-0214,2020,Microdiscectomy,36-50,9,2,2.5,None,Success,N/A
+VM-2022-0215,2022,Microdiscectomy,36-50,9,2,1.9,None,Success,N/A
+VM-2023-0216,2023,Microdiscectomy,36-50,10,2,1.8,None,Success,N/A
+VM-2023-0217,2023,Laminectomy,51-65,8,0,3.8,None,Success,N/A
+VM-2025-0218,2025,Microdiscectomy,36-50,8,0,2.5,None,Success,N/A
+VM-2021-0219,2021,Microdiscectomy,66-80,7,1,2.4,None,Success,N/A
+VM-2022-0220,2022,Microdiscectomy,51-65,10,0,2.0,None,Success,N/A
+VM-2020-0221,2020,Laminectomy,36-50,8,1,3.4,None,Success,N/A
+VM-2022-0222,2022,Microdiscectomy,51-65,8,2,2.1,None,Success,N/A
+VM-2021-0223,2021,Laminectomy,36-50,8,2,5.4,None,Success,N/A
+VM-2024-0224,2024,Lumbar Fusion (Minimally Invasive),18-35,8,2,21.6,None,Success,N/A
+VM-2024-0225,2024,Microdiscectomy,51-65,9,1,1.9,None,Success,N/A
+VM-2024-0226,2024,Microdiscectomy,36-50,10,1,2.8,None,Success,N/A
+VM-2024-0227,2024,ACDF,18-35,8,1,4.3,None,Success,N/A
+VM-2022-0228,2022,ACDF,51-65,7,1,3.7,None,Success,N/A
+VM-2023-0229,2023,ACDF,66-80,10,2,6.2,None,Success,N/A
+VM-2024-0230,2024,ACDF,51-65,9,1,5.1,None,Success,N/A
+VM-2024-0231,2024,Microdiscectomy,36-50,8,0,2.1,None,Success,N/A
+VM-2020-0232,2020,Microdiscectomy,51-65,8,2,2.0,None,Success,N/A
+VM-2023-0233,2023,ACDF,36-50,9,1,5.1,None,Success,N/A
+VM-2022-0234,2022,Craniotomy,36-50,10,1,51.6,None,Success,N/A
+VM-2020-0235,2020,Microdiscectomy,51-65,8,2,2.2,None,Success,N/A
+VM-2025-0236,2025,Microdiscectomy,66-80,8,2,2.6,None,Success,N/A
+VM-2024-0237,2024,Laminectomy,51-65,9,1,4.4,None,Success,N/A
+VM-2020-0238,2020,Laminectomy,66-80,9,2,3.9,None,Success,N/A
+VM-2025-0239,2025,Laminectomy,51-65,10,0,4.2,None,Success,N/A
+VM-2022-0240,2022,Laminectomy,51-65,7,0,4.1,None,Success,N/A
+VM-2025-0241,2025,Microdiscectomy,36-50,7,1,1.2,None,Success,N/A
+VM-2020-0242,2020,Lumbar Fusion (Minimally Invasive),36-50,9,0,24.0,None,Success,N/A
+VM-2022-0243,2022,Microdiscectomy,36-50,7,1,2.0,None,Success,N/A
+VM-2022-0244,2022,Lumbar Fusion (Minimally Invasive),36-50,10,0,25.5,None,Success,N/A
+VM-2025-0245,2025,Robotic-Assisted Spinal Fusion,51-65,8,2,21.0,None,Success,99.1%
+VM-2025-0246,2025,ACDF,80+,10,2,5.2,None,Success,N/A
+VM-2023-0247,2023,Microdiscectomy,51-65,9,2,2.4,None,Success,N/A
+VM-2023-0248,2023,Robotic-Assisted Spinal Fusion,51-65,8,2,22.2,None,Success,99.5%
+VM-2022-0249,2022,Microdiscectomy,18-35,7,1,2.1,None,Success,N/A
+VM-2024-0250,2024,Microdiscectomy,36-50,9,2,1.6,None,Success,N/A
+VM-2022-0251,2022,Microdiscectomy,51-65,10,0,2.3,None,Success,N/A
+VM-2020-0252,2020,Lumbar Fusion (Minimally Invasive),51-65,7,0,16.8,None,Success,N/A
+VM-2024-0253,2024,Robotic-Assisted Spinal Fusion,18-35,9,1,31.9,None,Success,98.4%
+VM-2023-0254,2023,ACDF,18-35,9,1,3.5,None,Success,N/A
+VM-2023-0255,2023,Robotic-Assisted Spinal Fusion,66-80,10,0,28.4,None,Success,98.5%
+VM-2024-0256,2024,Lumbar Fusion (Minimally Invasive),80+,10,0,24.1,None,Success,N/A
+VM-2021-0257,2021,Microdiscectomy,18-35,8,2,2.0,None,Success,N/A
+VM-2021-0258,2021,Robotic-Assisted Spinal Fusion,36-50,10,0,28.9,None,Success,99.2%
+VM-2024-0259,2024,Laminectomy,36-50,8,0,4.0,None,Success,N/A
+VM-2025-0260,2025,Craniotomy,36-50,10,0,41.8,None,Success,N/A
+VM-2024-0261,2024,Microdiscectomy,18-35,9,0,2.0,None,Success,N/A
+VM-2025-0262,2025,ACDF,36-50,9,0,5.6,None,Success,N/A
+VM-2021-0263,2021,Lumbar Fusion (Minimally Invasive),80+,9,1,21.0,None,Success,N/A
+VM-2024-0264,2024,Microdiscectomy,36-50,7,1,2.5,None,Success,N/A
+VM-2025-0265,2025,Laminectomy,51-65,10,1,3.9,None,Success,N/A
+VM-2024-0266,2024,Microdiscectomy,66-80,7,1,2.4,None,Success,N/A
+VM-2025-0267,2025,ACDF,51-65,10,2,4.6,None,Success,N/A
+VM-2021-0268,2021,Microdiscectomy,51-65,9,0,2.4,None,Success,N/A
+VM-2025-0269,2025,Microdiscectomy,36-50,9,0,2.5,None,Success,N/A
+VM-2026-0270,2026,ACDF,51-65,7,2,4.3,None,Success,N/A
+VM-2026-0271,2026,ACDF,36-50,9,0,4.9,None,Success,N/A
+VM-2021-0272,2021,Laminectomy,51-65,8,0,3.3,None,Success,N/A
+VM-2025-0273,2025,Microdiscectomy,51-65,10,0,2.6,None,Success,N/A
+VM-2022-0274,2022,Craniotomy,51-65,9,0,38.4,None,Success,N/A
+VM-2022-0275,2022,Microdiscectomy,51-65,7,0,3.1,None,Success,N/A
+VM-2025-0276,2025,Microdiscectomy,51-65,8,1,1.8,None,Success,N/A
+VM-2022-0277,2022,Laminectomy,36-50,8,2,3.8,None,Success,N/A
+VM-2021-0278,2021,ACDF,80+,10,0,5.1,None,Success,N/A
+VM-2021-0279,2021,Microdiscectomy,80+,9,0,2.2,None,Success,N/A
+VM-2022-0280,2022,ACDF,36-50,8,0,3.4,None,Success,N/A
+VM-2025-0281,2025,Microdiscectomy,36-50,8,1,2.6,None,Success,N/A
+VM-2021-0282,2021,Laminectomy,36-50,10,1,3.3,None,Success,N/A
+VM-2025-0283,2025,Microdiscectomy,51-65,7,2,2.4,None,Success,N/A
+VM-2023-0284,2023,Microdiscectomy,36-50,7,0,1.9,None,Success,N/A
+VM-2020-0285,2020,Microdiscectomy,51-65,7,2,2.6,None,Success,N/A
+VM-2023-0286,2023,Laminectomy,18-35,7,2,3.9,None,Success,N/A
+VM-2024-0287,2024,ACDF,18-35,10,0,4.8,None,Success,N/A
+VM-2024-0288,2024,ACDF,51-65,7,1,5.0,None,Success,N/A
+VM-2022-0289,2022,Lumbar Fusion (Minimally Invasive),80+,10,3,26.6,None,Partial Improvement,N/A
+VM-2022-0290,2022,ACDF,18-35,8,2,4.1,None,Success,N/A
+VM-2024-0291,2024,ACDF,51-65,9,2,4.2,None,Success,N/A
+VM-2020-0292,2020,Lumbar Fusion (Minimally Invasive),51-65,8,2,19.2,None,Success,N/A
+VM-2025-0293,2025,Robotic-Assisted Spinal Fusion,51-65,7,2,22.7,None,Success,99.7%
+VM-2026-0294,2026,Microdiscectomy,36-50,7,1,2.5,None,Success,N/A
+VM-2023-0295,2023,Microdiscectomy,36-50,8,0,2.4,None,Success,N/A
+VM-2024-0296,2024,Microdiscectomy,51-65,7,2,2.3,None,Success,N/A
+VM-2023-0297,2023,ACDF,51-65,7,1,4.4,None,Success,N/A
+VM-2021-0298,2021,Microdiscectomy,51-65,7,1,1.9,None,Success,N/A
+VM-2026-0299,2026,Laminectomy,51-65,8,2,4.1,None,Success,N/A
+VM-2024-0300,2024,Laminectomy,51-65,8,0,3.0,None,Success,N/A
+VM-2024-0301,2024,ACDF,18-35,7,1,4.4,None,Success,N/A
+VM-2025-0302,2025,Craniotomy,36-50,10,2,35.3,None,Success,N/A
+VM-2025-0303,2025,ACDF,66-80,9,0,4.1,None,Success,N/A
+VM-2020-0304,2020,Laminectomy,18-35,9,1,4.5,None,Success,N/A
+VM-2023-0305,2023,ACDF,18-35,10,0,4.2,None,Success,N/A
+VM-2025-0306,2025,ACDF,36-50,10,1,4.0,None,Success,N/A
+VM-2024-0307,2024,Microdiscectomy,36-50,7,2,1.8,None,Success,N/A
+VM-2026-0308,2026,ACDF,51-65,9,2,4.7,None,Success,N/A
+VM-2024-0309,2024,Robotic-Assisted Spinal Fusion,36-50,10,0,25.3,None,Success,99.4%
+VM-2024-0310,2024,ACDF,36-50,8,2,4.0,None,Success,N/A
+VM-2022-0311,2022,Lumbar Fusion (Minimally Invasive),51-65,8,1,22.2,None,Success,N/A
+VM-2023-0312,2023,Robotic-Assisted Spinal Fusion,51-65,9,2,17.2,None,Success,98.1%
+VM-2020-0313,2020,ACDF,51-65,9,0,4.8,None,Success,N/A
+VM-2021-0314,2021,Lumbar Fusion (Minimally Invasive),36-50,9,1,23.8,None,Success,N/A
+VM-2023-0315,2023,Lumbar Fusion (Minimally Invasive),36-50,9,1,17.5,None,Success,N/A
+VM-2023-0316,2023,Microdiscectomy,18-35,10,2,2.0,None,Success,N/A
+VM-2022-0317,2022,Robotic-Assisted Spinal Fusion,51-65,7,1,22.0,None,Success,99.5%
+VM-2020-0318,2020,ACDF,36-50,8,1,5.4,None,Success,N/A
+VM-2023-0319,2023,Lumbar Fusion (Minimally Invasive),51-65,7,0,21.0,None,Success,N/A
+VM-2020-0320,2020,Microdiscectomy,51-65,8,0,1.5,None,Success,N/A
+VM-2021-0321,2021,ACDF,51-65,10,1,5.2,None,Success,N/A
+VM-2023-0322,2023,Microdiscectomy,36-50,7,1,2.3,None,Success,N/A
+VM-2025-0323,2025,Laminectomy,66-80,9,1,3.2,None,Success,N/A
+VM-2024-0324,2024,Microdiscectomy,66-80,8,0,2.1,None,Success,N/A
+VM-2021-0325,2021,Laminectomy,36-50,8,2,4.2,None,Success,N/A
+VM-2021-0326,2021,Lumbar Fusion (Minimally Invasive),66-80,7,0,30.1,None,Success,N/A
+VM-2020-0327,2020,ACDF,51-65,7,2,3.9,None,Success,N/A
+VM-2023-0328,2023,Microdiscectomy,66-80,9,2,2.7,None,Success,N/A
+VM-2022-0329,2022,Microdiscectomy,51-65,7,0,2.0,None,Success,N/A
+VM-2024-0330,2024,Laminectomy,51-65,7,2,2.6,None,Success,N/A
+VM-2021-0331,2021,Laminectomy,51-65,9,2,5.0,None,Success,N/A
+VM-2023-0332,2023,Microdiscectomy,51-65,7,0,2.2,None,Success,N/A
+VM-2024-0333,2024,Laminectomy,80+,7,2,3.0,None,Success,N/A
+VM-2023-0334,2023,Microdiscectomy,18-35,9,2,1.8,None,Success,N/A
+VM-2023-0335,2023,Robotic-Assisted Spinal Fusion,51-65,8,1,29.4,None,Success,98.4%
+VM-2024-0336,2024,Microdiscectomy,18-35,9,1,1.5,None,Success,N/A
+VM-2023-0337,2023,Microdiscectomy,36-50,9,2,1.8,None,Success,N/A
+VM-2025-0338,2025,Craniotomy,51-65,10,2,53.7,None,Success,N/A
+VM-2024-0339,2024,ACDF,36-50,7,5,3.5,None,Partial Improvement,N/A
+VM-2022-0340,2022,ACDF,18-35,8,0,3.8,None,Success,N/A
+VM-2023-0341,2023,Microdiscectomy,51-65,7,1,2.1,None,Success,N/A
+VM-2024-0342,2024,Microdiscectomy,80+,10,2,2.8,None,Success,N/A
+VM-2022-0343,2022,Microdiscectomy,36-50,10,0,2.6,None,Success,N/A
+VM-2025-0344,2025,Microdiscectomy,36-50,10,1,1.9,None,Success,N/A
+VM-2024-0345,2024,Microdiscectomy,36-50,7,2,2.2,None,Success,N/A
+VM-2020-0346,2020,ACDF,51-65,9,2,4.5,None,Success,N/A
+VM-2024-0347,2024,Microdiscectomy,66-80,9,0,2.1,None,Success,N/A
+VM-2025-0348,2025,Lumbar Fusion (Minimally Invasive),51-65,7,2,24.4,None,Success,N/A
+VM-2024-0349,2024,Lumbar Fusion (Minimally Invasive),80+,9,2,29.1,None,Success,N/A
+VM-2022-0350,2022,Microdiscectomy,36-50,9,1,2.2,None,Success,N/A
+VM-2023-0351,2023,Microdiscectomy,36-50,9,0,2.1,None,Success,N/A
+VM-2024-0352,2024,Microdiscectomy,51-65,10,2,2.0,None,Success,N/A
+VM-2021-0353,2021,Lumbar Fusion (Minimally Invasive),51-65,8,2,17.5,None,Success,N/A
+VM-2021-0354,2021,Lumbar Fusion (Minimally Invasive),80+,9,1,21.8,None,Success,N/A
+VM-2020-0355,2020,ACDF,36-50,8,2,5.9,None,Success,N/A
+VM-2020-0356,2020,Laminectomy,51-65,10,2,3.3,None,Success,N/A
+VM-2026-0357,2026,Laminectomy,80+,7,0,3.7,None,Success,N/A
+VM-2023-0358,2023,ACDF,51-65,10,1,4.0,None,Success,N/A
+VM-2023-0359,2023,Microdiscectomy,51-65,10,5,2.1,None,Partial Improvement,N/A
+VM-2024-0360,2024,ACDF,66-80,10,0,5.9,None,Success,N/A
+VM-2023-0361,2023,ACDF,36-50,9,2,4.5,None,Success,N/A
+VM-2022-0362,2022,Lumbar Fusion (Minimally Invasive),51-65,10,0,28.7,None,Success,N/A
+VM-2022-0363,2022,ACDF,51-65,8,0,3.9,None,Success,N/A
+VM-2025-0364,2025,Robotic-Assisted Spinal Fusion,36-50,9,2,26.2,None,Success,99.4%
+VM-2023-0365,2023,ACDF,18-35,10,1,3.6,None,Success,N/A
+VM-2024-0366,2024,Lumbar Fusion (Minimally Invasive),51-65,7,2,17.8,None,Success,N/A
+VM-2026-0367,2026,Microdiscectomy,36-50,7,1,2.0,None,Success,N/A
+VM-2024-0368,2024,Laminectomy,36-50,8,1,4.2,None,Success,N/A
+VM-2023-0369,2023,Laminectomy,51-65,10,0,4.3,None,Success,N/A
+VM-2024-0370,2024,ACDF,51-65,9,2,4.4,None,Success,N/A
+VM-2025-0371,2025,Microdiscectomy,66-80,7,4,2.0,None,Partial Improvement,N/A
+VM-2026-0372,2026,ACDF,18-35,10,2,4.1,None,Success,N/A
+VM-2022-0373,2022,Microdiscectomy,51-65,10,1,1.7,None,Success,N/A
+VM-2026-0374,2026,Microdiscectomy,80+,10,2,2.1,None,Success,N/A
+VM-2022-0375,2022,Lumbar Fusion (Minimally Invasive),36-50,7,1,25.6,None,Success,N/A
+VM-2025-0376,2025,Microdiscectomy,36-50,9,2,1.7,None,Success,N/A
+VM-2023-0377,2023,Microdiscectomy,36-50,8,5,2.2,None,Partial Improvement,N/A
+VM-2025-0378,2025,Laminectomy,51-65,9,0,3.0,None,Success,N/A
+VM-2024-0379,2024,Microdiscectomy,36-50,7,0,2.2,None,Success,N/A
+VM-2025-0380,2025,Robotic-Assisted Spinal Fusion,51-65,10,2,23.8,None,Success,99.6%
+VM-2021-0381,2021,ACDF,51-65,10,1,4.0,None,Success,N/A
+VM-2022-0382,2022,ACDF,66-80,7,2,4.2,None,Success,N/A
+VM-2024-0383,2024,ACDF,51-65,9,2,3.8,None,Success,N/A
+VM-2024-0384,2024,Lumbar Fusion (Minimally Invasive),66-80,9,0,25.0,None,Success,N/A
+VM-2021-0385,2021,Robotic-Assisted Spinal Fusion,36-50,9,1,25.2,None,Success,98.5%
+VM-2020-0386,2020,Microdiscectomy,51-65,8,4,1.8,None,Partial Improvement,N/A
+VM-2022-0387,2022,Microdiscectomy,51-65,9,3,2.2,None,Partial Improvement,N/A
+VM-2021-0388,2021,Laminectomy,51-65,8,0,3.5,None,Success,N/A
+VM-2021-0389,2021,ACDF,51-65,8,0,4.0,None,Success,N/A
+VM-2024-0390,2024,Craniotomy,51-65,7,1,41.3,None,Success,N/A
+VM-2023-0391,2023,ACDF,51-65,7,0,3.8,None,Success,N/A
+VM-2022-0392,2022,Craniotomy,36-50,7,2,34.9,None,Success,N/A
+VM-2020-0393,2020,Robotic-Assisted Spinal Fusion,66-80,8,2,26.3,None,Success,98.9%
+VM-2021-0394,2021,Lumbar Fusion (Minimally Invasive),36-50,10,2,17.9,None,Success,N/A
+VM-2020-0395,2020,ACDF,36-50,9,0,4.2,None,Success,N/A
+VM-2022-0396,2022,ACDF,51-65,8,0,4.2,None,Success,N/A
+VM-2021-0397,2021,ACDF,36-50,10,0,3.4,None,Success,N/A
+VM-2025-0398,2025,Microdiscectomy,51-65,9,2,2.1,None,Success,N/A
+VM-2025-0399,2025,Microdiscectomy,51-65,7,2,2.1,None,Success,N/A
+VM-2025-0400,2025,Lumbar Fusion (Minimally Invasive),36-50,9,1,23.8,None,Success,N/A
+VM-2021-0401,2021,Lumbar Fusion (Minimally Invasive),36-50,9,1,28.2,None,Success,N/A
+VM-2023-0402,2023,Microdiscectomy,66-80,10,2,2.1,None,Success,N/A
+VM-2023-0403,2023,Lumbar Fusion (Minimally Invasive),51-65,8,0,29.5,None,Success,N/A
+VM-2023-0404,2023,Lumbar Fusion (Minimally Invasive),36-50,10,1,25.3,None,Success,N/A
+VM-2023-0405,2023,Craniotomy,51-65,9,0,61.9,None,Success,N/A
+VM-2023-0406,2023,Laminectomy,36-50,9,2,4.9,None,Success,N/A
+VM-2022-0407,2022,Lumbar Fusion (Minimally Invasive),36-50,9,2,13.7,None,Success,N/A
+VM-2023-0408,2023,Craniotomy,36-50,7,2,42.0,None,Success,N/A
+VM-2022-0409,2022,Lumbar Fusion (Minimally Invasive),36-50,10,1,29.1,None,Success,N/A
+VM-2024-0410,2024,Robotic-Assisted Spinal Fusion,66-80,10,1,29.8,None,Success,98.3%
+VM-2024-0411,2024,Microdiscectomy,66-80,8,1,2.4,None,Success,N/A
+VM-2020-0412,2020,Laminectomy,66-80,9,0,3.6,None,Success,N/A
+VM-2020-0413,2020,ACDF,80+,10,0,4.5,None,Success,N/A
+VM-2025-0414,2025,Laminectomy,51-65,9,1,2.4,None,Success,N/A
+VM-2024-0415,2024,ACDF,80+,10,0,5.2,None,Success,N/A
+VM-2023-0416,2023,ACDF,51-65,7,2,5.5,None,Success,N/A
+VM-2024-0417,2024,Laminectomy,66-80,8,0,3.3,None,Success,N/A
+VM-2024-0418,2024,Robotic-Assisted Spinal Fusion,80+,8,2,26.1,None,Success,99.6%
+VM-2024-0419,2024,Craniotomy,36-50,9,5,37.9,None,Partial Improvement,N/A
+VM-2023-0420,2023,Microdiscectomy,51-65,10,2,2.4,None,Success,N/A
+VM-2023-0421,2023,Lumbar Fusion (Minimally Invasive),36-50,8,2,21.0,None,Success,N/A
+VM-2020-0422,2020,Robotic-Assisted Spinal Fusion,18-35,9,0,21.8,None,Success,99.8%
+VM-2022-0423,2022,ACDF,36-50,8,3,4.7,None,Partial Improvement,N/A
+VM-2023-0424,2023,Laminectomy,36-50,9,2,3.2,None,Success,N/A
+VM-2024-0425,2024,ACDF,51-65,9,0,3.0,None,Success,N/A
+VM-2023-0426,2023,Laminectomy,51-65,7,2,3.4,None,Success,N/A
+VM-2021-0427,2021,Lumbar Fusion (Minimally Invasive),36-50,8,2,23.4,None,Success,N/A
+VM-2023-0428,2023,Laminectomy,80+,7,2,2.9,None,Success,N/A
+VM-2022-0429,2022,Robotic-Assisted Spinal Fusion,18-35,10,0,24.3,None,Success,99.2%
+VM-2025-0430,2025,Microdiscectomy,51-65,10,1,2.2,None,Success,N/A
+VM-2024-0431,2024,Microdiscectomy,51-65,7,2,2.0,None,Success,N/A
+VM-2023-0432,2023,Lumbar Fusion (Minimally Invasive),51-65,10,0,26.2,None,Success,N/A
+VM-2020-0433,2020,Microdiscectomy,36-50,8,6,2.8,None,Partial Improvement,N/A
+VM-2021-0434,2021,Microdiscectomy,36-50,9,2,1.9,None,Success,N/A
+VM-2020-0435,2020,Microdiscectomy,36-50,10,2,1.3,None,Success,N/A
+VM-2023-0436,2023,ACDF,36-50,8,2,5.5,None,Success,N/A
+VM-2021-0437,2021,Microdiscectomy,51-65,8,0,2.1,None,Success,N/A
+VM-2021-0438,2021,Lumbar Fusion (Minimally Invasive),51-65,8,1,23.2,None,Success,N/A
+VM-2021-0439,2021,Microdiscectomy,51-65,7,1,1.9,None,Success,N/A
+VM-2023-0440,2023,Robotic-Assisted Spinal Fusion,18-35,9,2,21.2,None,Success,100.0%
+VM-2022-0441,2022,ACDF,66-80,10,1,4.4,None,Success,N/A
+VM-2020-0442,2020,Laminectomy,66-80,9,2,3.6,None,Success,N/A
+VM-2025-0443,2025,Microdiscectomy,66-80,7,0,2.3,None,Success,N/A
+VM-2025-0444,2025,ACDF,51-65,7,2,3.2,None,Success,N/A
+VM-2020-0445,2020,ACDF,51-65,9,1,5.7,None,Success,N/A
+VM-2023-0446,2023,Microdiscectomy,51-65,8,2,1.7,None,Success,N/A
+VM-2024-0447,2024,ACDF,51-65,8,2,3.9,None,Success,N/A
+VM-2024-0448,2024,Craniotomy,51-65,8,1,34.6,None,Success,N/A
+VM-2026-0449,2026,ACDF,36-50,8,2,5.4,None,Success,N/A
+VM-2023-0450,2023,Microdiscectomy,80+,10,1,2.6,None,Success,N/A
+VM-2023-0451,2023,Craniotomy,18-35,7,2,55.2,None,Success,N/A
+VM-2021-0452,2021,ACDF,66-80,8,5,5.5,None,Partial Improvement,N/A
+VM-2021-0453,2021,Microdiscectomy,80+,10,1,2.2,None,Success,N/A
+VM-2022-0454,2022,Laminectomy,51-65,10,1,3.5,None,Success,N/A
+VM-2025-0455,2025,Laminectomy,66-80,8,0,4.4,None,Success,N/A
+VM-2023-0456,2023,Microdiscectomy,36-50,7,0,1.6,None,Success,N/A
+VM-2022-0457,2022,Microdiscectomy,18-35,7,1,1.7,None,Success,N/A
+VM-2022-0458,2022,ACDF,51-65,9,0,4.0,None,Success,N/A
+VM-2025-0459,2025,Microdiscectomy,51-65,9,2,2.0,None,Success,N/A
+VM-2026-0460,2026,Laminectomy,51-65,9,0,2.7,None,Success,N/A
+VM-2025-0461,2025,ACDF,51-65,8,1,4.1,None,Success,N/A
+VM-2022-0462,2022,Lumbar Fusion (Minimally Invasive),51-65,9,0,14.2,None,Success,N/A
+VM-2025-0463,2025,Robotic-Assisted Spinal Fusion,18-35,9,1,24.1,None,Success,99.5%
+VM-2020-0464,2020,Lumbar Fusion (Minimally Invasive),80+,9,1,24.1,None,Success,N/A
+VM-2025-0465,2025,Microdiscectomy,51-65,9,2,3.2,None,Success,N/A
+VM-2021-0466,2021,Microdiscectomy,66-80,10,0,2.0,None,Success,N/A
+VM-2020-0467,2020,Laminectomy,51-65,7,1,3.0,None,Success,N/A
+VM-2021-0468,2021,Lumbar Fusion (Minimally Invasive),51-65,8,1,23.8,None,Success,N/A
+VM-2025-0469,2025,ACDF,66-80,10,4,4.4,None,Partial Improvement,N/A
+VM-2022-0470,2022,Laminectomy,36-50,7,0,2.5,None,Success,N/A
+VM-2023-0471,2023,Microdiscectomy,36-50,7,0,2.0,None,Success,N/A
+VM-2020-0472,2020,Microdiscectomy,51-65,7,0,2.7,None,Success,N/A
+VM-2025-0473,2025,ACDF,80+,8,4,4.8,None,Partial Improvement,N/A
+VM-2026-0474,2026,ACDF,36-50,10,1,5.1,None,Success,N/A
+VM-2021-0475,2021,Microdiscectomy,66-80,7,2,1.9,None,Success,N/A
+VM-2020-0476,2020,Microdiscectomy,36-50,7,6,2.7,Hematoma,Complication/Revision,N/A
+VM-2026-0477,2026,ACDF,51-65,7,1,5.0,None,Success,N/A
+VM-2020-0478,2020,Laminectomy,51-65,9,2,4.2,None,Success,N/A
+VM-2024-0479,2024,Lumbar Fusion (Minimally Invasive),51-65,10,1,24.9,None,Success,N/A
+VM-2026-0480,2026,ACDF,51-65,9,2,3.7,None,Success,N/A
+VM-2024-0481,2024,Robotic-Assisted Spinal Fusion,51-65,10,1,24.0,None,Success,98.6%
+VM-2024-0482,2024,Microdiscectomy,18-35,8,1,1.9,None,Success,N/A
+VM-2023-0483,2023,Microdiscectomy,36-50,10,0,2.2,None,Success,N/A
+VM-2025-0484,2025,ACDF,36-50,10,1,4.9,None,Success,N/A
+VM-2023-0485,2023,Lumbar Fusion (Minimally Invasive),51-65,8,2,26.9,None,Success,N/A
+VM-2025-0486,2025,ACDF,51-65,9,1,3.6,None,Success,N/A
+VM-2020-0487,2020,ACDF,51-65,9,2,3.8,None,Success,N/A
+VM-2021-0488,2021,Laminectomy,18-35,7,1,2.9,None,Success,N/A
+VM-2024-0489,2024,Lumbar Fusion (Minimally Invasive),36-50,7,0,21.0,None,Success,N/A
+VM-2023-0490,2023,Microdiscectomy,18-35,7,0,2.0,None,Success,N/A
+VM-2023-0491,2023,Craniotomy,51-65,8,2,42.5,None,Success,N/A
+VM-2025-0492,2025,ACDF,36-50,9,0,2.2,None,Success,N/A
+VM-2020-0493,2020,Microdiscectomy,36-50,8,2,1.3,None,Success,N/A
+VM-2021-0494,2021,Lumbar Fusion (Minimally Invasive),51-65,7,0,22.6,None,Success,N/A
+VM-2024-0495,2024,ACDF,51-65,7,2,4.7,None,Success,N/A
+VM-2022-0496,2022,Microdiscectomy,36-50,10,2,2.2,None,Success,N/A
+VM-2023-0497,2023,ACDF,18-35,7,2,6.5,None,Success,N/A
+VM-2024-0498,2024,Robotic-Assisted Spinal Fusion,51-65,9,0,20.6,None,Success,99.3%
+VM-2022-0499,2022,Laminectomy,36-50,9,1,4.3,None,Success,N/A
+VM-2022-0500,2022,ACDF,36-50,8,1,5.8,None,Success,N/A
+VM-2023-0501,2023,Microdiscectomy,36-50,7,0,2.2,None,Success,N/A
+VM-2025-0502,2025,ACDF,18-35,8,2,4.5,None,Success,N/A
+VM-2025-0503,2025,Microdiscectomy,18-35,7,1,1.6,None,Success,N/A
+VM-2020-0504,2020,ACDF,51-65,8,0,4.4,None,Success,N/A
+VM-2025-0505,2025,Laminectomy,51-65,9,2,4.3,None,Success,N/A
+VM-2025-0506,2025,ACDF,66-80,7,2,3.2,None,Success,N/A
+VM-2023-0507,2023,ACDF,36-50,8,2,3.9,None,Success,N/A
+VM-2024-0508,2024,Lumbar Fusion (Minimally Invasive),18-35,8,1,22.3,None,Success,N/A
+VM-2021-0509,2021,Microdiscectomy,66-80,9,1,2.3,None,Success,N/A
+VM-2025-0510,2025,Microdiscectomy,36-50,9,0,1.7,None,Success,N/A
+VM-2024-0511,2024,ACDF,36-50,10,0,5.0,None,Success,N/A
+VM-2020-0512,2020,Microdiscectomy,36-50,7,0,2.3,None,Success,N/A
+VM-2023-0513,2023,Robotic-Assisted Spinal Fusion,51-65,8,1,23.4,None,Success,98.3%
+VM-2021-0514,2021,Laminectomy,66-80,10,1,3.2,None,Success,N/A
+VM-2022-0515,2022,Craniotomy,36-50,10,0,36.9,None,Success,N/A
+VM-2026-0516,2026,ACDF,51-65,7,2,4.6,None,Success,N/A
+VM-2022-0517,2022,Robotic-Assisted Spinal Fusion,51-65,10,6,28.8,None,Partial Improvement,99.4%
+VM-2020-0518,2020,Microdiscectomy,36-50,7,2,1.8,None,Success,N/A
+VM-2025-0519,2025,Craniotomy,51-65,8,0,80.6,None,Success,N/A
+VM-2024-0520,2024,Microdiscectomy,18-35,8,1,2.0,None,Success,N/A
+VM-2024-0521,2024,Lumbar Fusion (Minimally Invasive),51-65,7,1,23.1,None,Success,N/A
+VM-2023-0522,2023,Microdiscectomy,36-50,8,0,2.4,None,Success,N/A
+VM-2023-0523,2023,ACDF,66-80,10,0,4.9,None,Success,N/A
+VM-2023-0524,2023,ACDF,36-50,9,2,5.4,None,Success,N/A
+VM-2025-0525,2025,ACDF,51-65,9,0,4.5,None,Success,N/A
+VM-2024-0526,2024,Lumbar Fusion (Minimally Invasive),36-50,7,0,24.6,None,Success,N/A
+VM-2023-0527,2023,Lumbar Fusion (Minimally Invasive),66-80,7,2,26.3,None,Success,N/A
+VM-2021-0528,2021,Microdiscectomy,51-65,7,1,2.3,None,Success,N/A
+VM-2025-0529,2025,Microdiscectomy,36-50,9,2,2.9,None,Success,N/A
+VM-2023-0530,2023,Laminectomy,36-50,9,0,4.7,None,Success,N/A
+VM-2024-0531,2024,Microdiscectomy,51-65,10,2,2.3,None,Success,N/A
+VM-2020-0532,2020,ACDF,36-50,7,0,5.0,None,Success,N/A
+VM-2021-0533,2021,ACDF,51-65,8,2,5.4,None,Success,N/A
+VM-2023-0534,2023,Microdiscectomy,36-50,10,0,1.8,None,Success,N/A
+VM-2024-0535,2024,ACDF,51-65,10,0,5.5,None,Success,N/A
+VM-2020-0536,2020,ACDF,80+,10,0,4.9,None,Success,N/A
+VM-2023-0537,2023,Microdiscectomy,66-80,10,2,1.5,None,Success,N/A
+VM-2021-0538,2021,Microdiscectomy,51-65,7,2,2.9,None,Success,N/A
+VM-2022-0539,2022,Laminectomy,66-80,8,1,3.6,None,Success,N/A
+VM-2025-0540,2025,Lumbar Fusion (Minimally Invasive),51-65,7,0,20.7,None,Success,N/A
+VM-2025-0541,2025,Laminectomy,36-50,8,1,4.4,None,Success,N/A
+VM-2023-0542,2023,Microdiscectomy,36-50,8,1,1.7,None,Success,N/A
+VM-2022-0543,2022,Microdiscectomy,51-65,9,0,2.2,None,Success,N/A
+VM-2025-0544,2025,ACDF,51-65,10,0,4.2,None,Success,N/A
+VM-2021-0545,2021,ACDF,36-50,9,0,5.2,None,Success,N/A
+VM-2023-0546,2023,Robotic-Assisted Spinal Fusion,36-50,7,2,20.9,None,Success,98.5%
+VM-2021-0547,2021,Lumbar Fusion (Minimally Invasive),51-65,10,0,28.8,None,Success,N/A
+VM-2025-0548,2025,Laminectomy,51-65,7,2,2.7,None,Success,N/A
+VM-2021-0549,2021,Laminectomy,51-65,10,2,3.8,None,Success,N/A
+VM-2025-0550,2025,Lumbar Fusion (Minimally Invasive),36-50,10,1,31.8,None,Success,N/A
+VM-2023-0551,2023,ACDF,51-65,8,1,3.6,None,Success,N/A
+VM-2026-0552,2026,Microdiscectomy,36-50,7,0,1.9,None,Success,N/A
+VM-2022-0553,2022,Laminectomy,80+,9,1,3.8,None,Success,N/A
+VM-2021-0554,2021,Lumbar Fusion (Minimally Invasive),36-50,10,2,25.3,None,Success,N/A
+VM-2025-0555,2025,Laminectomy,18-35,7,2,3.3,None,Success,N/A
+VM-2024-0556,2024,Robotic-Assisted Spinal Fusion,36-50,9,1,16.0,None,Success,99.5%
+VM-2021-0557,2021,ACDF,18-35,7,2,4.5,None,Success,N/A
+VM-2024-0558,2024,Microdiscectomy,66-80,10,0,1.7,None,Success,N/A
+VM-2022-0559,2022,Microdiscectomy,51-65,7,1,2.6,None,Success,N/A
+VM-2026-0560,2026,Microdiscectomy,66-80,9,6,2.2,None,Partial Improvement,N/A
+VM-2024-0561,2024,ACDF,80+,7,0,3.7,None,Success,N/A
+VM-2024-0562,2024,ACDF,51-65,10,2,4.5,None,Success,N/A
+VM-2021-0563,2021,ACDF,36-50,7,1,4.8,None,Success,N/A
+VM-2025-0564,2025,Microdiscectomy,51-65,7,0,2.5,None,Success,N/A
+VM-2021-0565,2021,Lumbar Fusion (Minimally Invasive),36-50,9,1,20.7,None,Success,N/A
+VM-2024-0566,2024,Robotic-Assisted Spinal Fusion,51-65,10,2,23.8,None,Success,98.2%
+VM-2023-0567,2023,Microdiscectomy,36-50,8,0,2.6,None,Success,N/A
+VM-2025-0568,2025,Laminectomy,51-65,7,1,3.8,None,Success,N/A
+VM-2023-0569,2023,Microdiscectomy,36-50,7,1,2.8,None,Success,N/A
+VM-2022-0570,2022,Lumbar Fusion (Minimally Invasive),51-65,7,2,20.8,None,Success,N/A
+VM-2021-0571,2021,ACDF,36-50,10,1,4.7,None,Success,N/A
+VM-2023-0572,2023,Craniotomy,18-35,8,2,64.9,None,Success,N/A
+VM-2023-0573,2023,Microdiscectomy,36-50,9,0,1.9,None,Success,N/A
+VM-2023-0574,2023,Lumbar Fusion (Minimally Invasive),51-65,10,0,24.0,None,Success,N/A
+VM-2025-0575,2025,ACDF,36-50,9,2,3.1,None,Success,N/A
+VM-2021-0576,2021,Craniotomy,51-65,7,1,44.1,None,Success,N/A
+VM-2022-0577,2022,Microdiscectomy,36-50,7,0,2.9,None,Success,N/A
+VM-2024-0578,2024,ACDF,36-50,8,0,4.1,None,Success,N/A
+VM-2022-0579,2022,Microdiscectomy,36-50,9,1,1.9,None,Success,N/A
+VM-2024-0580,2024,Microdiscectomy,66-80,7,1,1.8,None,Success,N/A
+VM-2024-0581,2024,Laminectomy,36-50,10,2,3.5,None,Success,N/A
+VM-2025-0582,2025,Lumbar Fusion (Minimally Invasive),51-65,10,2,23.5,None,Success,N/A
+VM-2022-0583,2022,Lumbar Fusion (Minimally Invasive),51-65,8,0,26.8,None,Success,N/A
+VM-2025-0584,2025,Robotic-Assisted Spinal Fusion,51-65,8,2,21.0,None,Success,98.2%
+VM-2024-0585,2024,Laminectomy,36-50,7,0,3.7,None,Success,N/A
+VM-2023-0586,2023,Lumbar Fusion (Minimally Invasive),80+,9,0,20.7,None,Success,N/A
+VM-2021-0587,2021,ACDF,51-65,10,2,4.2,None,Success,N/A
+VM-2024-0588,2024,Microdiscectomy,66-80,9,0,2.6,None,Success,N/A
+VM-2024-0589,2024,ACDF,36-50,8,2,4.2,None,Success,N/A
+VM-2021-0590,2021,Microdiscectomy,51-65,9,2,1.8,None,Success,N/A
+VM-2025-0591,2025,Laminectomy,51-65,9,0,3.2,None,Success,N/A
+VM-2025-0592,2025,Microdiscectomy,36-50,9,0,2.7,None,Success,N/A
+VM-2023-0593,2023,ACDF,36-50,9,2,4.9,None,Success,N/A
+VM-2023-0594,2023,Microdiscectomy,18-35,9,2,2.7,None,Success,N/A
+VM-2023-0595,2023,Microdiscectomy,36-50,8,1,1.9,None,Success,N/A
+VM-2025-0596,2025,ACDF,18-35,9,1,4.7,None,Success,N/A
+VM-2023-0597,2023,Laminectomy,51-65,9,1,3.0,None,Success,N/A
+VM-2023-0598,2023,ACDF,18-35,8,0,4.9,None,Success,N/A
+VM-2026-0599,2026,ACDF,51-65,10,1,4.1,None,Success,N/A
+VM-2025-0600,2025,Lumbar Fusion (Minimally Invasive),51-65,10,1,18.9,None,Success,N/A
+VM-2023-0601,2023,Lumbar Fusion (Minimally Invasive),66-80,9,0,22.5,None,Success,N/A
+VM-2025-0602,2025,ACDF,66-80,9,2,5.3,None,Success,N/A
+VM-2022-0603,2022,Laminectomy,51-65,10,2,3.6,None,Success,N/A
+VM-2023-0604,2023,ACDF,36-50,10,2,4.7,None,Success,N/A
+VM-2025-0605,2025,Microdiscectomy,36-50,10,2,1.4,None,Success,N/A
+VM-2023-0606,2023,Lumbar Fusion (Minimally Invasive),51-65,8,1,25.5,None,Success,N/A
+VM-2022-0607,2022,Microdiscectomy,36-50,9,2,1.7,None,Success,N/A
+VM-2022-0608,2022,Microdiscectomy,36-50,7,1,1.8,None,Success,N/A
+VM-2025-0609,2025,ACDF,51-65,7,1,4.9,None,Success,N/A
+VM-2025-0610,2025,Microdiscectomy,18-35,9,3,2.2,None,Partial Improvement,N/A
+VM-2021-0611,2021,Laminectomy,51-65,8,0,4.1,None,Success,N/A
+VM-2023-0612,2023,ACDF,51-65,8,0,5.0,None,Success,N/A
+VM-2025-0613,2025,Lumbar Fusion (Minimally Invasive),18-35,9,2,21.0,None,Success,N/A
+VM-2023-0614,2023,Microdiscectomy,66-80,9,8,2.0,Minor Infection,Complication/Revision,N/A
+VM-2020-0615,2020,Microdiscectomy,51-65,9,1,2.7,None,Success,N/A
+VM-2025-0616,2025,ACDF,66-80,10,1,3.2,None,Success,N/A
+VM-2024-0617,2024,ACDF,51-65,7,2,5.5,None,Success,N/A
+VM-2023-0618,2023,Microdiscectomy,36-50,8,1,1.5,None,Success,N/A
+VM-2022-0619,2022,ACDF,80+,8,1,5.0,None,Success,N/A
+VM-2024-0620,2024,Microdiscectomy,36-50,10,1,2.0,None,Success,N/A
+VM-2023-0621,2023,Laminectomy,80+,10,0,2.9,None,Success,N/A
+VM-2025-0622,2025,Microdiscectomy,51-65,9,2,2.4,None,Success,N/A
+VM-2025-0623,2025,Microdiscectomy,36-50,9,0,3.0,None,Success,N/A
+VM-2021-0624,2021,Microdiscectomy,18-35,9,2,1.7,None,Success,N/A
+VM-2025-0625,2025,Microdiscectomy,36-50,8,2,2.1,None,Success,N/A
+VM-2023-0626,2023,ACDF,36-50,9,1,4.8,None,Success,N/A
+VM-2024-0627,2024,Robotic-Assisted Spinal Fusion,51-65,7,0,25.5,None,Success,98.9%
+VM-2023-0628,2023,ACDF,18-35,7,2,2.9,None,Success,N/A
+VM-2021-0629,2021,Microdiscectomy,51-65,7,4,2.4,None,Partial Improvement,N/A
+VM-2025-0630,2025,Microdiscectomy,36-50,7,2,2.1,None,Success,N/A
+VM-2023-0631,2023,ACDF,51-65,10,2,5.7,None,Success,N/A
+VM-2025-0632,2025,ACDF,66-80,10,1,4.9,None,Success,N/A
+VM-2024-0633,2024,ACDF,66-80,9,0,4.5,None,Success,N/A
+VM-2020-0634,2020,ACDF,51-65,8,1,3.3,None,Success,N/A
+VM-2024-0635,2024,Microdiscectomy,51-65,8,1,2.5,None,Success,N/A
+VM-2025-0636,2025,ACDF,36-50,9,0,3.7,None,Success,N/A
+VM-2025-0637,2025,Laminectomy,66-80,10,1,3.2,None,Success,N/A
+VM-2021-0638,2021,Microdiscectomy,51-65,10,0,2.6,None,Success,N/A
+VM-2023-0639,2023,ACDF,51-65,10,2,4.1,None,Success,N/A
+VM-2022-0640,2022,Lumbar Fusion (Minimally Invasive),36-50,7,2,17.3,None,Success,N/A
+VM-2025-0641,2025,Robotic-Assisted Spinal Fusion,51-65,9,1,27.7,None,Success,99.0%
+VM-2023-0642,2023,Laminectomy,51-65,7,1,3.1,None,Success,N/A
+VM-2020-0643,2020,Microdiscectomy,51-65,8,2,1.9,None,Success,N/A
+VM-2023-0644,2023,ACDF,36-50,10,2,4.7,None,Success,N/A
+VM-2022-0645,2022,ACDF,36-50,7,5,3.8,None,Partial Improvement,N/A
+VM-2021-0646,2021,Microdiscectomy,66-80,10,0,1.8,None,Success,N/A
+VM-2023-0647,2023,Robotic-Assisted Spinal Fusion,66-80,9,2,20.2,None,Success,98.2%
+VM-2023-0648,2023,Microdiscectomy,66-80,7,0,1.8,None,Success,N/A
+VM-2024-0649,2024,Microdiscectomy,51-65,8,0,2.0,None,Success,N/A
+VM-2021-0650,2021,Lumbar Fusion (Minimally Invasive),66-80,10,0,21.7,None,Success,N/A
+VM-2023-0651,2023,Microdiscectomy,36-50,8,2,1.6,None,Success,N/A
+VM-2023-0652,2023,ACDF,51-65,7,0,4.6,None,Success,N/A
+VM-2024-0653,2024,Craniotomy,66-80,9,2,28.5,None,Success,N/A
+VM-2025-0654,2025,ACDF,36-50,7,0,5.0,None,Success,N/A
+VM-2024-0655,2024,Microdiscectomy,36-50,8,0,1.8,None,Success,N/A
+VM-2024-0656,2024,Laminectomy,36-50,10,1,2.5,None,Success,N/A
+VM-2025-0657,2025,Robotic-Assisted Spinal Fusion,36-50,7,0,26.6,None,Success,98.5%
+VM-2024-0658,2024,ACDF,36-50,7,2,4.2,None,Success,N/A
+VM-2024-0659,2024,Lumbar Fusion (Minimally Invasive),51-65,9,1,17.1,None,Success,N/A
+VM-2020-0660,2020,ACDF,51-65,7,0,3.8,None,Success,N/A
+VM-2023-0661,2023,ACDF,51-65,10,2,3.6,None,Success,N/A
+VM-2023-0662,2023,ACDF,36-50,8,1,5.8,None,Success,N/A
+VM-2023-0663,2023,ACDF,66-80,10,0,5.9,None,Success,N/A
+VM-2023-0664,2023,ACDF,51-65,7,0,5.3,None,Success,N/A
+VM-2025-0665,2025,Laminectomy,51-65,10,1,3.5,None,Success,N/A
+VM-2022-0666,2022,Laminectomy,36-50,10,2,4.7,None,Success,N/A
+VM-2025-0667,2025,Microdiscectomy,36-50,7,2,2.2,None,Success,N/A
+VM-2025-0668,2025,ACDF,51-65,7,0,4.1,None,Success,N/A
+VM-2025-0669,2025,ACDF,51-65,10,2,4.6,None,Success,N/A
+VM-2026-0670,2026,Microdiscectomy,51-65,10,2,2.1,None,Success,N/A
+VM-2025-0671,2025,Microdiscectomy,36-50,9,1,2.0,None,Success,N/A
+VM-2024-0672,2024,Craniotomy,18-35,7,2,35.2,None,Success,N/A
+VM-2022-0673,2022,Microdiscectomy,36-50,7,1,2.2,None,Success,N/A
+VM-2025-0674,2025,Lumbar Fusion (Minimally Invasive),36-50,10,2,20.7,None,Success,N/A
+VM-2021-0675,2021,Microdiscectomy,51-65,7,0,2.3,None,Success,N/A
+VM-2024-0676,2024,Lumbar Fusion (Minimally Invasive),80+,9,2,15.8,None,Success,N/A
+VM-2024-0677,2024,Microdiscectomy,51-65,7,0,1.7,None,Success,N/A
+VM-2023-0678,2023,ACDF,66-80,8,2,5.1,None,Success,N/A
+VM-2024-0679,2024,Laminectomy,66-80,7,0,2.7,None,Success,N/A
+VM-2026-0680,2026,ACDF,51-65,9,1,2.0,None,Success,N/A
+VM-2025-0681,2025,Microdiscectomy,36-50,9,1,2.3,None,Success,N/A
+VM-2025-0682,2025,ACDF,51-65,7,0,4.5,None,Success,N/A
+VM-2024-0683,2024,Microdiscectomy,51-65,7,0,2.4,None,Success,N/A
+VM-2023-0684,2023,Microdiscectomy,18-35,8,2,1.6,None,Success,N/A
+VM-2021-0685,2021,Laminectomy,51-65,9,0,4.5,None,Success,N/A
+VM-2025-0686,2025,Lumbar Fusion (Minimally Invasive),66-80,8,2,22.4,None,Success,N/A
+VM-2023-0687,2023,Lumbar Fusion (Minimally Invasive),18-35,7,1,22.2,None,Success,N/A
+VM-2023-0688,2023,ACDF,80+,8,0,4.3,None,Success,N/A
+VM-2022-0689,2022,Robotic-Assisted Spinal Fusion,18-35,10,0,27.3,None,Success,99.1%
+VM-2020-0690,2020,Microdiscectomy,66-80,7,0,1.0,None,Success,N/A
+VM-2024-0691,2024,Microdiscectomy,51-65,7,2,2.3,None,Success,N/A
+VM-2025-0692,2025,Microdiscectomy,36-50,10,0,2.0,None,Success,N/A
+VM-2025-0693,2025,Lumbar Fusion (Minimally Invasive),36-50,7,1,19.1,None,Success,N/A
+VM-2022-0694,2022,Laminectomy,18-35,10,1,2.7,None,Success,N/A
+VM-2024-0695,2024,Microdiscectomy,51-65,8,5,1.9,None,Partial Improvement,N/A
+VM-2021-0696,2021,ACDF,51-65,8,0,3.6,None,Success,N/A
+VM-2025-0697,2025,ACDF,51-65,10,0,3.8,None,Success,N/A
+VM-2024-0698,2024,ACDF,66-80,10,1,4.7,None,Success,N/A
+VM-2022-0699,2022,Lumbar Fusion (Minimally Invasive),51-65,8,0,22.9,None,Success,N/A
+VM-2020-0700,2020,Craniotomy,51-65,10,1,47.9,None,Success,N/A
+VM-2025-0701,2025,Lumbar Fusion (Minimally Invasive),51-65,7,0,27.4,None,Success,N/A
+VM-2022-0702,2022,Lumbar Fusion (Minimally Invasive),36-50,8,6,22.1,None,Partial Improvement,N/A
+VM-2024-0703,2024,ACDF,36-50,10,9,4.7,Hematoma,Complication/Revision,N/A
+VM-2020-0704,2020,Microdiscectomy,51-65,7,1,2.7,None,Success,N/A
+VM-2023-0705,2023,ACDF,36-50,7,1,4.6,None,Success,N/A
+VM-2020-0706,2020,Laminectomy,51-65,9,1,3.3,None,Success,N/A
+VM-2021-0707,2021,ACDF,66-80,7,0,4.0,None,Success,N/A
+VM-2020-0708,2020,Microdiscectomy,18-35,10,0,1.7,None,Success,N/A
+VM-2021-0709,2021,ACDF,66-80,7,2,3.4,None,Success,N/A
+VM-2021-0710,2021,Microdiscectomy,36-50,8,2,2.0,None,Success,N/A
+VM-2020-0711,2020,Microdiscectomy,36-50,9,1,2.8,None,Success,N/A
+VM-2024-0712,2024,Microdiscectomy,36-50,10,1,2.4,None,Success,N/A
+VM-2020-0713,2020,Craniotomy,51-65,10,6,67.9,None,Partial Improvement,N/A
+VM-2020-0714,2020,ACDF,36-50,10,0,3.9,None,Success,N/A
+VM-2023-0715,2023,Laminectomy,36-50,8,2,4.4,None,Success,N/A
+VM-2024-0716,2024,Microdiscectomy,51-65,9,0,2.3,None,Success,N/A
+VM-2025-0717,2025,Microdiscectomy,36-50,7,2,2.2,None,Success,N/A
+VM-2020-0718,2020,Lumbar Fusion (Minimally Invasive),51-65,8,1,20.4,None,Success,N/A
+VM-2023-0719,2023,ACDF,66-80,8,2,5.0,None,Success,N/A
+VM-2020-0720,2020,ACDF,18-35,10,2,6.2,None,Success,N/A
+VM-2024-0721,2024,Microdiscectomy,36-50,9,5,2.3,None,Partial Improvement,N/A
+VM-2026-0722,2026,ACDF,66-80,10,2,4.7,None,Success,N/A
+VM-2023-0723,2023,ACDF,66-80,10,1,5.2,None,Success,N/A
+VM-2024-0724,2024,ACDF,51-65,7,1,4.1,None,Success,N/A
+VM-2020-0725,2020,Laminectomy,80+,10,1,3.7,None,Success,N/A
+VM-2025-0726,2025,Microdiscectomy,51-65,10,2,2.3,None,Success,N/A
+VM-2020-0727,2020,ACDF,51-65,9,0,5.6,None,Success,N/A
+VM-2025-0728,2025,Microdiscectomy,18-35,8,1,2.2,None,Success,N/A
+VM-2024-0729,2024,ACDF,66-80,8,0,4.1,None,Success,N/A
+VM-2020-0730,2020,Microdiscectomy,51-65,7,2,2.6,None,Success,N/A
+VM-2025-0731,2025,Robotic-Assisted Spinal Fusion,18-35,8,2,20.6,None,Success,98.3%
+VM-2024-0732,2024,Laminectomy,36-50,7,2,3.4,None,Success,N/A
+VM-2021-0733,2021,Microdiscectomy,36-50,10,1,2.7,None,Success,N/A
+VM-2023-0734,2023,ACDF,18-35,8,1,4.1,None,Success,N/A
+VM-2024-0735,2024,Microdiscectomy,18-35,8,1,2.4,None,Success,N/A
+VM-2022-0736,2022,Laminectomy,51-65,7,1,4.3,None,Success,N/A
+VM-2023-0737,2023,ACDF,51-65,9,8,5.7,Dural Tear (Repaired intraop),Complication/Revision,N/A
+VM-2026-0738,2026,ACDF,36-50,10,5,3.2,None,Partial Improvement,N/A
+VM-2023-0739,2023,ACDF,36-50,9,1,3.3,None,Success,N/A
+VM-2021-0740,2021,ACDF,36-50,8,0,3.3,None,Success,N/A
+VM-2025-0741,2025,Laminectomy,66-80,7,2,3.8,None,Success,N/A
+VM-2026-0742,2026,ACDF,66-80,9,1,4.2,None,Success,N/A
+VM-2022-0743,2022,Microdiscectomy,18-35,8,0,2.6,None,Success,N/A
+VM-2020-0744,2020,Laminectomy,36-50,9,4,4.1,None,Partial Improvement,N/A
+VM-2021-0745,2021,ACDF,18-35,8,0,4.6,None,Success,N/A
+VM-2021-0746,2021,Microdiscectomy,36-50,7,1,1.8,None,Success,N/A
+VM-2020-0747,2020,Laminectomy,51-65,10,0,4.5,None,Success,N/A
+VM-2020-0748,2020,Lumbar Fusion (Minimally Invasive),51-65,8,1,19.9,None,Success,N/A
+VM-2020-0749,2020,Microdiscectomy,36-50,9,1,2.2,None,Success,N/A
+VM-2023-0750,2023,Microdiscectomy,51-65,10,9,2.3,Dural Tear (Repaired intraop),Complication/Revision,N/A
+VM-2021-0751,2021,Lumbar Fusion (Minimally Invasive),36-50,10,0,21.3,None,Success,N/A
+VM-2022-0752,2022,Microdiscectomy,51-65,7,0,2.3,None,Success,N/A
+VM-2024-0753,2024,ACDF,66-80,9,2,3.8,None,Success,N/A
+VM-2025-0754,2025,Lumbar Fusion (Minimally Invasive),66-80,10,0,25.2,None,Success,N/A
+VM-2025-0755,2025,Robotic-Assisted Spinal Fusion,51-65,9,1,23.2,None,Success,99.6%
+VM-2020-0756,2020,Microdiscectomy,51-65,7,2,1.9,None,Success,N/A
+VM-2024-0757,2024,Microdiscectomy,18-35,8,2,1.9,None,Success,N/A
+VM-2024-0758,2024,Microdiscectomy,51-65,8,2,2.0,None,Success,N/A
+VM-2025-0759,2025,ACDF,36-50,10,9,3.4,Hematoma,Complication/Revision,N/A
+VM-2026-0760,2026,Microdiscectomy,51-65,10,1,2.1,None,Success,N/A
+VM-2023-0761,2023,Microdiscectomy,51-65,8,0,2.0,None,Success,N/A
+VM-2020-0762,2020,Microdiscectomy,51-65,10,0,2.2,None,Success,N/A
+VM-2020-0763,2020,Microdiscectomy,36-50,7,2,1.7,None,Success,N/A
+VM-2025-0764,2025,Microdiscectomy,36-50,8,0,2.1,None,Success,N/A
+VM-2022-0765,2022,ACDF,36-50,9,2,3.8,None,Success,N/A
+VM-2021-0766,2021,ACDF,36-50,8,0,4.7,None,Success,N/A
+VM-2021-0767,2021,Laminectomy,51-65,7,0,3.1,None,Success,N/A
+VM-2021-0768,2021,ACDF,51-65,10,1,3.5,None,Success,N/A
+VM-2022-0769,2022,Lumbar Fusion (Minimally Invasive),18-35,10,1,17.8,None,Success,N/A
+VM-2022-0770,2022,Lumbar Fusion (Minimally Invasive),36-50,7,5,23.9,None,Partial Improvement,N/A
+VM-2023-0771,2023,ACDF,66-80,8,1,4.8,None,Success,N/A
+VM-2021-0772,2021,Lumbar Fusion (Minimally Invasive),51-65,9,0,28.7,None,Success,N/A
+VM-2024-0773,2024,Lumbar Fusion (Minimally Invasive),36-50,9,1,21.9,None,Success,N/A
+VM-2024-0774,2024,Laminectomy,36-50,10,5,3.9,None,Partial Improvement,N/A
+VM-2025-0775,2025,Microdiscectomy,18-35,10,1,1.9,None,Success,N/A
+VM-2021-0776,2021,Robotic-Assisted Spinal Fusion,36-50,7,2,19.1,None,Success,100.0%
+VM-2025-0777,2025,ACDF,51-65,9,1,4.8,None,Success,N/A
+VM-2023-0778,2023,Laminectomy,36-50,10,1,3.6,None,Success,N/A
+VM-2023-0779,2023,Lumbar Fusion (Minimally Invasive),66-80,8,0,18.3,None,Success,N/A
+VM-2024-0780,2024,Microdiscectomy,36-50,8,2,2.0,None,Success,N/A
+VM-2025-0781,2025,Microdiscectomy,66-80,8,0,1.9,None,Success,N/A
+VM-2024-0782,2024,Lumbar Fusion (Minimally Invasive),36-50,8,2,21.4,None,Success,N/A
+VM-2022-0783,2022,Laminectomy,66-80,10,1,3.5,None,Success,N/A
+VM-2022-0784,2022,Lumbar Fusion (Minimally Invasive),36-50,10,1,24.3,None,Success,N/A
+VM-2026-0785,2026,Microdiscectomy,51-65,10,0,2.1,None,Success,N/A
+VM-2024-0786,2024,Microdiscectomy,51-65,7,2,2.0,None,Success,N/A
+VM-2024-0787,2024,Laminectomy,51-65,9,1,4.0,None,Success,N/A
+VM-2024-0788,2024,ACDF,18-35,7,0,5.1,None,Success,N/A
+VM-2022-0789,2022,Microdiscectomy,66-80,9,2,1.6,None,Success,N/A
+VM-2025-0790,2025,ACDF,18-35,7,1,5.5,None,Success,N/A
+VM-2022-0791,2022,Microdiscectomy,36-50,7,0,1.9,None,Success,N/A
+VM-2025-0792,2025,Microdiscectomy,18-35,9,1,1.9,None,Success,N/A
+VM-2020-0793,2020,Microdiscectomy,66-80,9,4,2.1,None,Partial Improvement,N/A
+VM-2020-0794,2020,Microdiscectomy,51-65,9,0,1.1,None,Success,N/A
+VM-2023-0795,2023,ACDF,66-80,8,0,4.0,None,Success,N/A
+VM-2024-0796,2024,ACDF,36-50,7,0,4.1,None,Success,N/A
+VM-2024-0797,2024,Lumbar Fusion (Minimally Invasive),51-65,8,1,24.0,None,Success,N/A
+VM-2023-0798,2023,Craniotomy,36-50,9,1,52.1,None,Success,N/A
+VM-2025-0799,2025,Lumbar Fusion (Minimally Invasive),51-65,9,0,18.4,None,Success,N/A
+VM-2021-0800,2021,Lumbar Fusion (Minimally Invasive),66-80,8,1,17.5,None,Success,N/A
+VM-2024-0801,2024,Microdiscectomy,51-65,10,0,2.2,None,Success,N/A
+VM-2023-0802,2023,Microdiscectomy,66-80,9,2,1.8,None,Success,N/A
+VM-2022-0803,2022,ACDF,36-50,9,1,3.9,None,Success,N/A
+VM-2023-0804,2023,Microdiscectomy,66-80,9,0,3.2,None,Success,N/A
+VM-2025-0805,2025,Laminectomy,80+,10,1,3.9,None,Success,N/A
+VM-2020-0806,2020,Microdiscectomy,36-50,9,0,1.4,None,Success,N/A
+VM-2023-0807,2023,Laminectomy,36-50,9,2,2.8,None,Success,N/A
+VM-2024-0808,2024,Robotic-Assisted Spinal Fusion,18-35,9,1,24.7,None,Success,99.9%
+VM-2023-0809,2023,Microdiscectomy,51-65,8,2,2.3,None,Success,N/A
+VM-2021-0810,2021,Microdiscectomy,36-50,7,0,1.7,None,Success,N/A
+VM-2025-0811,2025,Microdiscectomy,51-65,10,1,2.5,None,Success,N/A
+VM-2025-0812,2025,ACDF,51-65,8,2,4.8,None,Success,N/A
+VM-2022-0813,2022,ACDF,51-65,10,0,3.3,None,Success,N/A
+VM-2020-0814,2020,Microdiscectomy,66-80,7,0,1.6,None,Success,N/A
+VM-2023-0815,2023,Lumbar Fusion (Minimally Invasive),36-50,9,1,23.4,None,Success,N/A
+VM-2022-0816,2022,Microdiscectomy,51-65,7,1,2.3,None,Success,N/A
+VM-2020-0817,2020,Microdiscectomy,36-50,9,2,2.1,None,Success,N/A
+VM-2022-0818,2022,Lumbar Fusion (Minimally Invasive),36-50,7,2,28.1,None,Success,N/A
+VM-2026-0819,2026,Microdiscectomy,51-65,8,2,2.4,None,Success,N/A
+VM-2024-0820,2024,Microdiscectomy,18-35,8,2,2.6,None,Success,N/A
+VM-2025-0821,2025,Microdiscectomy,36-50,10,1,2.5,None,Success,N/A
+VM-2026-0822,2026,Laminectomy,18-35,10,1,4.5,None,Success,N/A
+VM-2022-0823,2022,Lumbar Fusion (Minimally Invasive),36-50,7,1,21.3,None,Success,N/A
+VM-2024-0824,2024,Lumbar Fusion (Minimally Invasive),51-65,7,1,17.9,None,Success,N/A
+VM-2022-0825,2022,Microdiscectomy,36-50,9,8,2.0,Dural Tear (Repaired intraop),Complication/Revision,N/A
+VM-2024-0826,2024,ACDF,36-50,8,0,5.8,None,Success,N/A
+VM-2025-0827,2025,ACDF,18-35,9,0,3.1,None,Success,N/A
+VM-2024-0828,2024,Microdiscectomy,18-35,8,1,2.5,None,Success,N/A
+VM-2023-0829,2023,Microdiscectomy,36-50,9,2,2.4,None,Success,N/A
+VM-2022-0830,2022,ACDF,51-65,7,1,4.2,None,Success,N/A
+VM-2021-0831,2021,ACDF,66-80,10,2,4.3,None,Success,N/A
+VM-2024-0832,2024,Laminectomy,66-80,10,1,3.8,None,Success,N/A
+VM-2025-0833,2025,Lumbar Fusion (Minimally Invasive),66-80,9,0,26.9,None,Success,N/A
+VM-2025-0834,2025,ACDF,36-50,7,0,5.3,None,Success,N/A
+VM-2024-0835,2024,ACDF,51-65,8,1,4.3,None,Success,N/A
+VM-2025-0836,2025,ACDF,36-50,8,2,5.0,None,Success,N/A
+VM-2021-0837,2021,Microdiscectomy,36-50,7,1,2.5,None,Success,N/A
+VM-2021-0838,2021,ACDF,66-80,7,2,4.1,None,Success,N/A
+VM-2021-0839,2021,ACDF,36-50,10,0,5.8,None,Success,N/A
+VM-2025-0840,2025,Lumbar Fusion (Minimally Invasive),66-80,7,2,21.7,None,Success,N/A
+VM-2026-0841,2026,ACDF,51-65,7,0,3.8,None,Success,N/A
+VM-2023-0842,2023,Microdiscectomy,18-35,10,0,1.4,None,Success,N/A
+VM-2024-0843,2024,ACDF,18-35,9,2,4.4,None,Success,N/A
+VM-2020-0844,2020,Microdiscectomy,51-65,7,6,1.9,None,Partial Improvement,N/A
+VM-2023-0845,2023,Microdiscectomy,36-50,10,0,1.4,None,Success,N/A
+VM-2020-0846,2020,Microdiscectomy,66-80,9,0,2.2,None,Success,N/A
+VM-2025-0847,2025,Microdiscectomy,51-65,7,1,2.8,None,Success,N/A
+VM-2025-0848,2025,ACDF,51-65,10,1,4.5,None,Success,N/A
+VM-2024-0849,2024,Robotic-Assisted Spinal Fusion,80+,7,2,24.3,None,Success,99.4%
+VM-2023-0850,2023,Microdiscectomy,51-65,9,2,2.4,None,Success,N/A
+VM-2020-0851,2020,Microdiscectomy,36-50,9,2,2.2,None,Success,N/A
+VM-2021-0852,2021,Laminectomy,36-50,8,1,3.7,None,Success,N/A
+VM-2024-0853,2024,Laminectomy,66-80,8,0,2.8,None,Success,N/A
+VM-2025-0854,2025,Laminectomy,36-50,8,1,4.5,None,Success,N/A
+VM-2025-0855,2025,ACDF,36-50,10,0,4.2,None,Success,N/A
+VM-2023-0856,2023,ACDF,51-65,7,0,4.1,None,Success,N/A
+VM-2023-0857,2023,Microdiscectomy,36-50,9,1,1.9,None,Success,N/A
+VM-2024-0858,2024,Microdiscectomy,18-35,10,2,2.4,None,Success,N/A
+VM-2022-0859,2022,Lumbar Fusion (Minimally Invasive),51-65,7,1,26.8,None,Success,N/A
+VM-2024-0860,2024,ACDF,36-50,8,2,3.8,None,Success,N/A
+VM-2024-0861,2024,Lumbar Fusion (Minimally Invasive),36-50,8,0,22.2,None,Success,N/A
+VM-2024-0862,2024,Lumbar Fusion (Minimally Invasive),66-80,9,0,26.4,None,Success,N/A
+VM-2023-0863,2023,Microdiscectomy,51-65,9,1,1.8,None,Success,N/A
+VM-2022-0864,2022,Laminectomy,66-80,10,2,3.2,None,Success,N/A
+VM-2024-0865,2024,Microdiscectomy,36-50,9,2,1.7,None,Success,N/A
+VM-2023-0866,2023,Microdiscectomy,51-65,7,1,1.6,None,Success,N/A
+VM-2022-0867,2022,Microdiscectomy,66-80,10,0,1.5,None,Success,N/A
+VM-2022-0868,2022,Microdiscectomy,51-65,8,0,2.8,None,Success,N/A
+VM-2022-0869,2022,ACDF,36-50,10,2,4.3,None,Success,N/A
+VM-2026-0870,2026,Laminectomy,36-50,10,0,3.2,None,Success,N/A
+VM-2024-0871,2024,ACDF,18-35,8,0,5.8,None,Success,N/A
+VM-2026-0872,2026,ACDF,51-65,10,0,5.3,None,Success,N/A
+VM-2023-0873,2023,Lumbar Fusion (Minimally Invasive),51-65,9,0,13.9,None,Success,N/A
+VM-2020-0874,2020,Microdiscectomy,51-65,9,1,2.0,None,Success,N/A
+VM-2024-0875,2024,Lumbar Fusion (Minimally Invasive),51-65,7,0,18.9,None,Success,N/A
+VM-2020-0876,2020,Laminectomy,51-65,9,2,3.0,None,Success,N/A
+VM-2021-0877,2021,Microdiscectomy,51-65,9,2,2.0,None,Success,N/A
+VM-2021-0878,2021,Laminectomy,36-50,7,2,3.6,None,Success,N/A
+VM-2025-0879,2025,ACDF,80+,7,0,5.3,None,Success,N/A
+VM-2025-0880,2025,ACDF,51-65,7,1,4.3,None,Success,N/A
+VM-2026-0881,2026,Laminectomy,51-65,10,1,3.1,None,Success,N/A
+VM-2022-0882,2022,Microdiscectomy,36-50,9,2,1.8,None,Success,N/A
+VM-2021-0883,2021,ACDF,36-50,10,2,4.2,None,Success,N/A
+VM-2025-0884,2025,Craniotomy,51-65,10,4,33.3,None,Partial Improvement,N/A
+VM-2026-0885,2026,Microdiscectomy,51-65,8,0,2.2,None,Success,N/A
+VM-2022-0886,2022,ACDF,51-65,9,2,4.1,None,Success,N/A
+VM-2022-0887,2022,ACDF,51-65,8,1,4.2,None,Success,N/A
+VM-2024-0888,2024,ACDF,51-65,9,1,4.2,None,Success,N/A
+VM-2022-0889,2022,Lumbar Fusion (Minimally Invasive),51-65,8,2,20.0,None,Success,N/A
+VM-2024-0890,2024,Lumbar Fusion (Minimally Invasive),36-50,8,5,26.1,None,Partial Improvement,N/A
+VM-2025-0891,2025,Lumbar Fusion (Minimally Invasive),51-65,9,8,21.5,Hematoma,Complication/Revision,N/A
+VM-2025-0892,2025,Microdiscectomy,51-65,8,2,2.4,None,Success,N/A
+VM-2023-0893,2023,ACDF,66-80,7,1,4.7,None,Success,N/A
+VM-2021-0894,2021,Lumbar Fusion (Minimally Invasive),51-65,10,2,28.2,None,Success,N/A
+VM-2025-0895,2025,Lumbar Fusion (Minimally Invasive),36-50,7,2,30.7,None,Success,N/A
+VM-2025-0896,2025,ACDF,36-50,7,1,4.8,None,Success,N/A
+VM-2023-0897,2023,ACDF,36-50,10,2,3.9,None,Success,N/A
+VM-2025-0898,2025,Laminectomy,36-50,10,1,3.6,None,Success,N/A
+VM-2025-0899,2025,Laminectomy,51-65,9,2,3.1,None,Success,N/A
+VM-2024-0900,2024,Microdiscectomy,51-65,8,2,2.2,None,Success,N/A
+VM-2022-0901,2022,Lumbar Fusion (Minimally Invasive),36-50,8,1,25.4,None,Success,N/A
+VM-2023-0902,2023,ACDF,36-50,7,0,5.0,None,Success,N/A
+VM-2024-0903,2024,Microdiscectomy,18-35,8,2,2.4,None,Success,N/A
+VM-2020-0904,2020,ACDF,36-50,8,1,4.3,None,Success,N/A
+VM-2024-0905,2024,ACDF,18-35,8,1,6.3,None,Success,N/A
+VM-2023-0906,2023,Craniotomy,51-65,7,0,50.9,None,Success,N/A
+VM-2022-0907,2022,Microdiscectomy,36-50,9,0,1.8,None,Success,N/A
+VM-2026-0908,2026,Laminectomy,51-65,7,1,3.1,None,Success,N/A
+VM-2025-0909,2025,Microdiscectomy,36-50,7,2,2.5,None,Success,N/A
+VM-2022-0910,2022,ACDF,18-35,9,2,3.3,None,Success,N/A
+VM-2025-0911,2025,Microdiscectomy,36-50,7,1,2.0,None,Success,N/A
+VM-2020-0912,2020,Craniotomy,66-80,9,0,26.6,None,Success,N/A
+VM-2023-0913,2023,ACDF,66-80,8,0,5.8,None,Success,N/A
+VM-2024-0914,2024,Lumbar Fusion (Minimally Invasive),36-50,9,0,20.9,None,Success,N/A
+VM-2022-0915,2022,Lumbar Fusion (Minimally Invasive),51-65,9,4,23.3,None,Partial Improvement,N/A
+VM-2022-0916,2022,Laminectomy,51-65,10,0,3.3,None,Success,N/A
+VM-2021-0917,2021,Laminectomy,51-65,10,0,3.8,None,Success,N/A
+VM-2021-0918,2021,Laminectomy,36-50,7,2,3.8,None,Success,N/A
+VM-2023-0919,2023,Lumbar Fusion (Minimally Invasive),66-80,9,2,14.1,None,Success,N/A
+VM-2024-0920,2024,ACDF,51-65,8,1,4.8,None,Success,N/A
+VM-2020-0921,2020,Lumbar Fusion (Minimally Invasive),51-65,7,1,21.4,None,Success,N/A
+VM-2025-0922,2025,ACDF,18-35,7,1,3.3,None,Success,N/A
+VM-2024-0923,2024,Lumbar Fusion (Minimally Invasive),51-65,10,1,18.5,None,Success,N/A
+VM-2025-0924,2025,Microdiscectomy,36-50,7,0,1.6,None,Success,N/A
+VM-2025-0925,2025,Lumbar Fusion (Minimally Invasive),36-50,9,2,28.8,None,Success,N/A
+VM-2024-0926,2024,Laminectomy,51-65,7,0,4.1,None,Success,N/A
+VM-2022-0927,2022,Laminectomy,51-65,8,0,3.7,None,Success,N/A
+VM-2023-0928,2023,Microdiscectomy,66-80,9,2,1.6,None,Success,N/A
+VM-2023-0929,2023,Microdiscectomy,66-80,8,0,2.1,None,Success,N/A
+VM-2023-0930,2023,Microdiscectomy,51-65,8,0,2.1,None,Success,N/A
+VM-2020-0931,2020,ACDF,51-65,9,2,4.3,None,Success,N/A
+VM-2023-0932,2023,ACDF,66-80,7,2,3.1,None,Success,N/A
+VM-2022-0933,2022,ACDF,80+,10,0,6.1,None,Success,N/A
+VM-2021-0934,2021,Craniotomy,36-50,7,2,32.8,None,Success,N/A
+VM-2024-0935,2024,Laminectomy,51-65,8,0,3.0,None,Success,N/A
+VM-2026-0936,2026,ACDF,51-65,8,1,4.7,None,Success,N/A
+VM-2024-0937,2024,Craniotomy,51-65,8,2,48.4,None,Success,N/A
+VM-2023-0938,2023,ACDF,18-35,7,1,4.3,None,Success,N/A
+VM-2020-0939,2020,Laminectomy,66-80,9,1,2.9,None,Success,N/A
+VM-2021-0940,2021,Lumbar Fusion (Minimally Invasive),80+,8,0,22.5,None,Success,N/A
+VM-2022-0941,2022,Lumbar Fusion (Minimally Invasive),51-65,10,2,22.7,None,Success,N/A
+VM-2023-0942,2023,Microdiscectomy,51-65,8,0,2.2,None,Success,N/A
+VM-2024-0943,2024,Laminectomy,66-80,7,6,2.9,None,Partial Improvement,N/A
+VM-2021-0944,2021,Microdiscectomy,36-50,8,2,1.4,None,Success,N/A
+VM-2023-0945,2023,ACDF,51-65,10,0,3.9,None,Success,N/A
+VM-2024-0946,2024,ACDF,66-80,7,1,5.6,None,Success,N/A
+VM-2020-0947,2020,ACDF,51-65,9,6,6.4,None,Partial Improvement,N/A
+VM-2021-0948,2021,Microdiscectomy,66-80,8,0,2.5,None,Success,N/A
+VM-2020-0949,2020,Laminectomy,36-50,10,2,3.2,None,Success,N/A
+VM-2023-0950,2023,ACDF,18-35,9,0,4.4,None,Success,N/A
+VM-2025-0951,2025,ACDF,80+,9,0,5.2,None,Success,N/A
+VM-2023-0952,2023,Craniotomy,51-65,7,2,35.9,None,Success,N/A
+VM-2025-0953,2025,Microdiscectomy,51-65,7,0,2.3,None,Success,N/A
+VM-2022-0954,2022,Microdiscectomy,66-80,8,0,3.0,None,Success,N/A
+VM-2025-0955,2025,ACDF,51-65,7,1,5.0,None,Success,N/A
+VM-2024-0956,2024,Microdiscectomy,51-65,10,2,2.4,None,Success,N/A
+VM-2022-0957,2022,Laminectomy,51-65,8,0,3.1,None,Success,N/A
+VM-2022-0958,2022,Microdiscectomy,66-80,7,1,2.1,None,Success,N/A
+VM-2023-0959,2023,ACDF,18-35,8,0,4.9,None,Success,N/A
+VM-2023-0960,2023,Microdiscectomy,66-80,7,0,2.0,None,Success,N/A
+VM-2025-0961,2025,Microdiscectomy,18-35,10,2,2.6,None,Success,N/A
+VM-2022-0962,2022,Microdiscectomy,36-50,8,2,2.2,None,Success,N/A
+VM-2022-0963,2022,ACDF,66-80,9,2,5.0,None,Success,N/A
+VM-2023-0964,2023,Laminectomy,66-80,8,1,4.4,None,Success,N/A
+VM-2023-0965,2023,Microdiscectomy,36-50,8,2,1.9,None,Success,N/A
+VM-2024-0966,2024,ACDF,51-65,8,1,4.1,None,Success,N/A
+VM-2025-0967,2025,ACDF,36-50,8,0,3.9,None,Success,N/A
+VM-2023-0968,2023,Microdiscectomy,66-80,9,0,1.8,None,Success,N/A
+VM-2024-0969,2024,ACDF,51-65,7,2,4.0,None,Success,N/A
+VM-2025-0970,2025,Craniotomy,36-50,7,0,52.4,None,Success,N/A
+VM-2021-0971,2021,Microdiscectomy,51-65,7,2,2.1,None,Success,N/A
+VM-2023-0972,2023,Laminectomy,51-65,10,1,3.9,None,Success,N/A
+VM-2024-0973,2024,Craniotomy,51-65,8,2,50.3,None,Success,N/A
+VM-2020-0974,2020,Microdiscectomy,51-65,7,2,2.4,None,Success,N/A
+VM-2025-0975,2025,Microdiscectomy,66-80,7,2,2.7,None,Success,N/A
+VM-2020-0976,2020,ACDF,36-50,8,2,4.6,None,Success,N/A
+VM-2021-0977,2021,Lumbar Fusion (Minimally Invasive),51-65,8,0,24.4,None,Success,N/A
+VM-2024-0978,2024,Lumbar Fusion (Minimally Invasive),51-65,7,1,23.5,None,Success,N/A
+VM-2024-0979,2024,ACDF,36-50,8,2,5.0,None,Success,N/A
+VM-2022-0980,2022,Laminectomy,51-65,10,1,3.3,None,Success,N/A
+VM-2025-0981,2025,Microdiscectomy,51-65,9,0,2.5,None,Success,N/A
+VM-2023-0982,2023,Robotic-Assisted Spinal Fusion,51-65,9,0,19.9,None,Success,99.8%
+VM-2024-0983,2024,ACDF,36-50,7,0,4.5,None,Success,N/A
+VM-2022-0984,2022,Microdiscectomy,36-50,9,1,1.6,None,Success,N/A
+VM-2022-0985,2022,Microdiscectomy,51-65,9,2,2.7,None,Success,N/A
+VM-2026-0986,2026,Microdiscectomy,51-65,9,2,2.2,None,Success,N/A
+VM-2021-0987,2021,Microdiscectomy,66-80,9,1,1.4,None,Success,N/A
+VM-2020-0988,2020,Microdiscectomy,51-65,8,1,1.5,None,Success,N/A
+VM-2025-0989,2025,Microdiscectomy,66-80,10,0,2.5,None,Success,N/A
+VM-2025-0990,2025,ACDF,36-50,7,0,4.1,None,Success,N/A
+VM-2023-0991,2023,Microdiscectomy,36-50,10,0,2.8,None,Success,N/A
+VM-2025-0992,2025,Microdiscectomy,66-80,7,1,2.4,None,Success,N/A
+VM-2024-0993,2024,Microdiscectomy,80+,10,2,2.9,None,Success,N/A
+VM-2022-0994,2022,ACDF,66-80,10,2,4.1,None,Success,N/A
+VM-2023-0995,2023,ACDF,51-65,10,2,5.3,None,Success,N/A
+VM-2024-0996,2024,ACDF,36-50,7,1,4.3,None,Success,N/A
+VM-2025-0997,2025,Microdiscectomy,51-65,7,2,1.9,None,Success,N/A
+VM-2022-0998,2022,ACDF,51-65,9,0,6.3,None,Success,N/A
+VM-2024-0999,2024,Laminectomy,51-65,8,2,3.4,None,Success,N/A
+VM-2020-1000,2020,ACDF,36-50,9,8,2.8,Minor Infection,Complication/Revision,N/A
+VM-2025-1001,2025,Microdiscectomy,51-65,9,2,2.0,None,Success,N/A
+VM-2023-1002,2023,Lumbar Fusion (Minimally Invasive),18-35,9,1,23.8,None,Success,N/A
+VM-2026-1003,2026,ACDF,18-35,9,2,4.6,None,Success,N/A
+VM-2026-1004,2026,Lumbar Fusion (Minimally Invasive),36-50,9,1,23.9,None,Success,N/A
+VM-2022-1005,2022,Craniotomy,51-65,8,2,41.3,None,Success,N/A
+VM-2020-1006,2020,Laminectomy,51-65,10,2,3.5,None,Success,N/A
+VM-2020-1007,2020,Laminectomy,36-50,9,0,4.7,None,Success,N/A
+VM-2021-1008,2021,Craniotomy,66-80,8,0,7.2,None,Success,N/A
+VM-2023-1009,2023,ACDF,36-50,10,1,4.0,None,Success,N/A
+VM-2021-1010,2021,Robotic-Assisted Spinal Fusion,36-50,10,2,26.0,None,Success,99.4%
+VM-2024-1011,2024,Microdiscectomy,51-65,9,0,1.6,None,Success,N/A
+VM-2022-1012,2022,Laminectomy,51-65,10,0,3.5,None,Success,N/A
+VM-2024-1013,2024,Robotic-Assisted Spinal Fusion,51-65,8,2,23.4,None,Success,100.0%
+VM-2023-1014,2023,ACDF,36-50,8,2,3.5,None,Success,N/A
+VM-2023-1015,2023,Laminectomy,51-65,10,0,3.7,None,Success,N/A
+VM-2025-1016,2025,Microdiscectomy,51-65,7,2,1.8,None,Success,N/A
+VM-2022-1017,2022,ACDF,51-65,8,0,5.2,None,Success,N/A
+VM-2024-1018,2024,Lumbar Fusion (Minimally Invasive),36-50,7,0,27.2,None,Success,N/A
+VM-2025-1019,2025,Laminectomy,51-65,10,1,3.9,None,Success,N/A
+VM-2020-1020,2020,Craniotomy,66-80,9,2,44.3,None,Success,N/A
+VM-2025-1021,2025,ACDF,51-65,7,1,4.4,None,Success,N/A
+VM-2020-1022,2020,Microdiscectomy,36-50,10,1,2.4,None,Success,N/A
+VM-2025-1023,2025,ACDF,51-65,8,0,4.8,None,Success,N/A
+VM-2025-1024,2025,ACDF,51-65,9,1,4.6,None,Success,N/A
+VM-2020-1025,2020,ACDF,36-50,7,1,5.6,None,Success,N/A
+VM-2023-1026,2023,ACDF,51-65,7,1,4.4,None,Success,N/A
+VM-2025-1027,2025,Lumbar Fusion (Minimally Invasive),36-50,10,1,29.7,None,Success,N/A
+VM-2023-1028,2023,Lumbar Fusion (Minimally Invasive),18-35,7,1,16.0,None,Success,N/A
+VM-2022-1029,2022,ACDF,51-65,7,1,4.5,None,Success,N/A
+VM-2024-1030,2024,ACDF,80+,7,0,4.3,None,Success,N/A
+VM-2021-1031,2021,Microdiscectomy,51-65,10,2,1.9,None,Success,N/A
+VM-2025-1032,2025,ACDF,51-65,7,0,3.7,None,Success,N/A
+VM-2021-1033,2021,ACDF,18-35,7,1,4.6,None,Success,N/A
+VM-2022-1034,2022,Craniotomy,51-65,8,0,51.4,None,Success,N/A
+VM-2025-1035,2025,ACDF,80+,9,2,3.8,None,Success,N/A
+VM-2024-1036,2024,Microdiscectomy,51-65,8,1,1.8,None,Success,N/A
+VM-2021-1037,2021,Microdiscectomy,51-65,10,0,2.2,None,Success,N/A
+VM-2021-1038,2021,Microdiscectomy,66-80,8,2,2.1,None,Success,N/A
+VM-2024-1039,2024,ACDF,80+,8,2,4.6,None,Success,N/A
+VM-2023-1040,2023,Microdiscectomy,36-50,8,1,2.5,None,Success,N/A
+VM-2021-1041,2021,ACDF,66-80,10,1,4.7,None,Success,N/A
+VM-2023-1042,2023,Microdiscectomy,18-35,7,2,2.4,None,Success,N/A
+VM-2024-1043,2024,Robotic-Assisted Spinal Fusion,18-35,8,2,21.7,None,Success,98.3%
+VM-2024-1044,2024,Microdiscectomy,51-65,8,0,2.3,None,Success,N/A
+VM-2025-1045,2025,Microdiscectomy,36-50,10,0,2.7,None,Success,N/A
+VM-2022-1046,2022,Microdiscectomy,36-50,9,1,2.8,None,Success,N/A
+VM-2025-1047,2025,ACDF,66-80,7,1,4.0,None,Success,N/A
+VM-2023-1048,2023,Lumbar Fusion (Minimally Invasive),51-65,8,0,21.4,None,Success,N/A
+VM-2023-1049,2023,Lumbar Fusion (Minimally Invasive),51-65,10,0,24.9,None,Success,N/A
+VM-2021-1050,2021,Microdiscectomy,36-50,8,2,2.1,None,Success,N/A
+VM-2024-1051,2024,ACDF,66-80,10,9,4.8,Minor Infection,Complication/Revision,N/A
+VM-2024-1052,2024,Microdiscectomy,36-50,10,2,2.7,None,Success,N/A
+VM-2024-1053,2024,Laminectomy,66-80,10,6,4.1,None,Partial Improvement,N/A
+VM-2022-1054,2022,Lumbar Fusion (Minimally Invasive),66-80,7,0,27.6,None,Success,N/A
+VM-2022-1055,2022,Lumbar Fusion (Minimally Invasive),36-50,9,1,14.9,None,Success,N/A
+VM-2025-1056,2025,Microdiscectomy,36-50,9,2,2.0,None,Success,N/A
+VM-2024-1057,2024,ACDF,51-65,7,2,4.8,None,Success,N/A
+VM-2020-1058,2020,Lumbar Fusion (Minimally Invasive),36-50,10,2,23.7,None,Success,N/A
+VM-2022-1059,2022,Microdiscectomy,51-65,10,0,1.5,None,Success,N/A
+VM-2023-1060,2023,Lumbar Fusion (Minimally Invasive),51-65,8,1,20.4,None,Success,N/A
+VM-2024-1061,2024,Laminectomy,66-80,10,1,3.4,None,Success,N/A
+VM-2021-1062,2021,Microdiscectomy,36-50,10,0,1.2,None,Success,N/A
+VM-2022-1063,2022,Laminectomy,51-65,9,2,3.4,None,Success,N/A
+VM-2025-1064,2025,Microdiscectomy,36-50,8,2,2.5,None,Success,N/A
+VM-2023-1065,2023,Laminectomy,66-80,8,7,3.5,Dural Tear (Repaired intraop),Complication/Revision,N/A
+VM-2023-1066,2023,Microdiscectomy,36-50,9,1,2.4,None,Success,N/A
+VM-2025-1067,2025,Microdiscectomy,18-35,7,0,2.1,None,Success,N/A
+VM-2023-1068,2023,Microdiscectomy,51-65,9,2,1.6,None,Success,N/A
+VM-2022-1069,2022,Robotic-Assisted Spinal Fusion,66-80,9,0,21.0,None,Success,99.7%
+VM-2023-1070,2023,Microdiscectomy,51-65,8,1,2.5,None,Success,N/A
+VM-2021-1071,2021,Robotic-Assisted Spinal Fusion,36-50,7,0,21.3,None,Success,99.5%
+VM-2025-1072,2025,ACDF,18-35,9,0,4.0,None,Success,N/A
+VM-2022-1073,2022,Microdiscectomy,36-50,10,2,2.2,None,Success,N/A
+VM-2024-1074,2024,Robotic-Assisted Spinal Fusion,66-80,9,1,26.6,None,Success,99.1%
+VM-2020-1075,2020,Microdiscectomy,51-65,9,1,2.0,None,Success,N/A
+VM-2025-1076,2025,Microdiscectomy,36-50,10,1,2.6,None,Success,N/A
+VM-2026-1077,2026,Microdiscectomy,51-65,7,1,1.9,None,Success,N/A
+VM-2021-1078,2021,Microdiscectomy,36-50,8,0,2.4,None,Success,N/A
+VM-2022-1079,2022,ACDF,51-65,10,2,5.1,None,Success,N/A
+VM-2020-1080,2020,Laminectomy,66-80,8,0,3.6,None,Success,N/A
+VM-2020-1081,2020,ACDF,36-50,9,2,4.3,None,Success,N/A
+VM-2022-1082,2022,ACDF,36-50,7,1,4.2,None,Success,N/A
+VM-2024-1083,2024,ACDF,80+,10,1,4.4,None,Success,N/A
+VM-2024-1084,2024,Microdiscectomy,51-65,8,0,1.9,None,Success,N/A
+VM-2020-1085,2020,Microdiscectomy,51-65,8,1,1.6,None,Success,N/A
+VM-2024-1086,2024,Microdiscectomy,80+,7,1,1.8,None,Success,N/A
+VM-2024-1087,2024,Microdiscectomy,51-65,10,1,1.3,None,Success,N/A
+VM-2025-1088,2025,Lumbar Fusion (Minimally Invasive),66-80,8,0,24.0,None,Success,N/A
+VM-2021-1089,2021,Microdiscectomy,66-80,8,1,2.2,None,Success,N/A
+VM-2025-1090,2025,Microdiscectomy,66-80,10,1,2.4,None,Success,N/A
+VM-2024-1091,2024,ACDF,66-80,7,1,4.4,None,Success,N/A
+VM-2024-1092,2024,Microdiscectomy,51-65,8,1,1.9,None,Success,N/A
+VM-2021-1093,2021,ACDF,66-80,7,0,3.8,None,Success,N/A
+VM-2024-1094,2024,Robotic-Assisted Spinal Fusion,51-65,10,2,22.4,None,Success,99.3%
+VM-2025-1095,2025,Laminectomy,51-65,9,2,3.9,None,Success,N/A
+VM-2024-1096,2024,Microdiscectomy,36-50,8,2,1.7,None,Success,N/A
+VM-2025-1097,2025,Robotic-Assisted Spinal Fusion,36-50,9,0,21.6,None,Success,99.1%
+VM-2024-1098,2024,Microdiscectomy,36-50,9,0,2.3,None,Success,N/A
+VM-2025-1099,2025,Microdiscectomy,51-65,10,1,2.1,None,Success,N/A
+VM-2024-1100,2024,ACDF,36-50,10,2,4.4,None,Success,N/A
+VM-2023-1101,2023,ACDF,66-80,10,2,4.4,None,Success,N/A
+VM-2023-1102,2023,ACDF,51-65,10,1,5.1,None,Success,N/A
+VM-2025-1103,2025,Microdiscectomy,66-80,9,4,2.6,None,Partial Improvement,N/A
+VM-2024-1104,2024,Lumbar Fusion (Minimally Invasive),66-80,7,0,20.6,None,Success,N/A
+VM-2021-1105,2021,Microdiscectomy,36-50,10,1,2.1,None,Success,N/A
+VM-2023-1106,2023,ACDF,36-50,9,2,4.1,None,Success,N/A
+VM-2025-1107,2025,Microdiscectomy,36-50,10,2,2.0,None,Success,N/A
+VM-2025-1108,2025,Craniotomy,51-65,9,2,37.0,None,Success,N/A
+VM-2024-1109,2024,Laminectomy,66-80,8,0,3.4,None,Success,N/A
+VM-2020-1110,2020,Lumbar Fusion (Minimally Invasive),66-80,7,2,20.8,None,Success,N/A
+VM-2022-1111,2022,Lumbar Fusion (Minimally Invasive),66-80,10,2,17.8,None,Success,N/A
+VM-2023-1112,2023,Microdiscectomy,36-50,8,1,1.4,None,Success,N/A
+VM-2020-1113,2020,Lumbar Fusion (Minimally Invasive),51-65,8,0,16.8,None,Success,N/A
+VM-2020-1114,2020,ACDF,80+,10,2,5.6,None,Success,N/A
+VM-2024-1115,2024,Laminectomy,51-65,9,1,2.6,None,Success,N/A
+VM-2022-1116,2022,Microdiscectomy,51-65,10,0,2.7,None,Success,N/A
+VM-2021-1117,2021,Craniotomy,36-50,9,0,42.0,None,Success,N/A
+VM-2021-1118,2021,ACDF,51-65,10,0,3.9,None,Success,N/A
+VM-2020-1119,2020,Lumbar Fusion (Minimally Invasive),51-65,9,8,19.0,Minor Infection,Complication/Revision,N/A
+VM-2021-1120,2021,Microdiscectomy,66-80,10,0,2.2,None,Success,N/A
+VM-2025-1121,2025,Robotic-Assisted Spinal Fusion,51-65,7,5,28.2,None,Partial Improvement,98.5%
+VM-2025-1122,2025,Laminectomy,18-35,9,2,3.4,None,Success,N/A
+VM-2024-1123,2024,Microdiscectomy,18-35,8,1,2.0,None,Success,N/A
+VM-2025-1124,2025,Microdiscectomy,51-65,8,1,2.1,None,Success,N/A
+VM-2025-1125,2025,ACDF,51-65,10,0,5.2,None,Success,N/A
+VM-2025-1126,2025,Microdiscectomy,36-50,8,1,2.1,None,Success,N/A
+VM-2021-1127,2021,ACDF,51-65,10,1,5.7,None,Success,N/A
+VM-2021-1128,2021,Microdiscectomy,51-65,7,1,2.0,None,Success,N/A
+VM-2026-1129,2026,ACDF,18-35,8,2,5.1,None,Success,N/A
+VM-2023-1130,2023,Microdiscectomy,66-80,7,0,2.0,None,Success,N/A
+VM-2022-1131,2022,Microdiscectomy,51-65,10,2,1.3,None,Success,N/A
+VM-2024-1132,2024,Microdiscectomy,66-80,8,0,2.5,None,Success,N/A
+VM-2022-1133,2022,Microdiscectomy,66-80,8,1,1.8,None,Success,N/A
+VM-2023-1134,2023,Microdiscectomy,36-50,7,1,2.0,None,Success,N/A
+VM-2022-1135,2022,Laminectomy,66-80,10,1,4.1,None,Success,N/A
+VM-2025-1136,2025,Lumbar Fusion (Minimally Invasive),36-50,8,0,18.7,None,Success,N/A
+VM-2024-1137,2024,Laminectomy,51-65,7,0,2.9,None,Success,N/A
+VM-2022-1138,2022,ACDF,36-50,9,8,3.5,Minor Infection,Complication/Revision,N/A
+VM-2025-1139,2025,ACDF,36-50,7,0,3.9,None,Success,N/A
+VM-2022-1140,2022,ACDF,18-35,7,1,5.6,None,Success,N/A
+VM-2021-1141,2021,ACDF,36-50,8,1,4.6,None,Success,N/A
+VM-2024-1142,2024,Microdiscectomy,66-80,9,1,2.7,None,Success,N/A
+VM-2026-1143,2026,Laminectomy,51-65,7,2,3.6,None,Success,N/A
+VM-2024-1144,2024,Microdiscectomy,18-35,8,2,2.7,None,Success,N/A
+VM-2024-1145,2024,ACDF,36-50,9,0,3.7,None,Success,N/A
+VM-2025-1146,2025,Microdiscectomy,51-65,9,5,2.7,None,Partial Improvement,N/A
+VM-2025-1147,2025,Microdiscectomy,36-50,10,5,2.0,None,Partial Improvement,N/A
+VM-2026-1148,2026,ACDF,36-50,10,1,4.0,None,Success,N/A
+VM-2021-1149,2021,Microdiscectomy,66-80,10,1,2.1,None,Success,N/A
+VM-2024-1150,2024,ACDF,18-35,10,1,4.3,None,Success,N/A
+VM-2021-1151,2021,Laminectomy,66-80,10,0,3.7,None,Success,N/A
+VM-2025-1152,2025,Microdiscectomy,51-65,7,1,1.9,None,Success,N/A
+VM-2023-1153,2023,Robotic-Assisted Spinal Fusion,51-65,7,0,18.9,None,Success,98.7%
+VM-2024-1154,2024,Microdiscectomy,51-65,9,0,2.8,None,Success,N/A
+VM-2020-1155,2020,ACDF,18-35,8,7,3.8,Hematoma,Complication/Revision,N/A
+VM-2020-1156,2020,Microdiscectomy,36-50,8,0,2.2,None,Success,N/A
+VM-2024-1157,2024,Microdiscectomy,51-65,8,1,3.0,None,Success,N/A
+VM-2021-1158,2021,Laminectomy,36-50,7,2,3.7,None,Success,N/A
+VM-2022-1159,2022,ACDF,36-50,7,0,5.8,None,Success,N/A
+VM-2025-1160,2025,Lumbar Fusion (Minimally Invasive),18-35,8,3,25.0,None,Partial Improvement,N/A
+VM-2025-1161,2025,Lumbar Fusion (Minimally Invasive),36-50,9,0,21.6,None,Success,N/A
+VM-2024-1162,2024,Robotic-Assisted Spinal Fusion,36-50,8,1,27.5,None,Success,98.6%
+VM-2022-1163,2022,Craniotomy,36-50,8,2,48.8,None,Success,N/A
+VM-2023-1164,2023,Robotic-Assisted Spinal Fusion,36-50,7,1,18.9,None,Success,98.4%
+VM-2024-1165,2024,Lumbar Fusion (Minimally Invasive),36-50,8,0,20.0,None,Success,N/A
+VM-2020-1166,2020,Laminectomy,80+,10,4,4.3,None,Partial Improvement,N/A
+VM-2021-1167,2021,Microdiscectomy,36-50,8,0,1.9,None,Success,N/A
+VM-2025-1168,2025,Microdiscectomy,51-65,7,2,1.4,None,Success,N/A
+VM-2026-1169,2026,Microdiscectomy,51-65,8,0,2.3,None,Success,N/A
+VM-2022-1170,2022,Microdiscectomy,66-80,8,0,2.0,None,Success,N/A
+VM-2023-1171,2023,Robotic-Assisted Spinal Fusion,36-50,9,1,25.2,None,Success,99.2%
+VM-2025-1172,2025,Robotic-Assisted Spinal Fusion,36-50,7,0,24.5,None,Success,99.8%
+VM-2023-1173,2023,ACDF,51-65,9,0,5.5,None,Success,N/A
+VM-2025-1174,2025,Craniotomy,51-65,9,0,21.2,None,Success,N/A
+VM-2026-1175,2026,Laminectomy,80+,8,1,3.1,None,Success,N/A
+VM-2022-1176,2022,Microdiscectomy,36-50,10,0,1.6,None,Success,N/A
+VM-2025-1177,2025,Lumbar Fusion (Minimally Invasive),51-65,7,2,25.2,None,Success,N/A
+VM-2025-1178,2025,Microdiscectomy,66-80,10,1,2.0,None,Success,N/A
+VM-2022-1179,2022,Lumbar Fusion (Minimally Invasive),18-35,8,0,21.5,None,Success,N/A
+VM-2024-1180,2024,Microdiscectomy,51-65,9,0,2.2,None,Success,N/A
+VM-2023-1181,2023,ACDF,51-65,9,0,5.2,None,Success,N/A
+VM-2022-1182,2022,Lumbar Fusion (Minimally Invasive),18-35,8,2,28.5,None,Success,N/A
+VM-2022-1183,2022,Lumbar Fusion (Minimally Invasive),36-50,9,0,22.8,None,Success,N/A
+VM-2025-1184,2025,Lumbar Fusion (Minimally Invasive),36-50,10,0,24.3,None,Success,N/A
+VM-2025-1185,2025,Laminectomy,66-80,7,2,3.8,None,Success,N/A
+VM-2024-1186,2024,ACDF,51-65,8,1,6.3,None,Success,N/A
+VM-2024-1187,2024,Microdiscectomy,36-50,10,1,1.6,None,Success,N/A
+VM-2023-1188,2023,Laminectomy,66-80,8,0,3.6,None,Success,N/A
+VM-2025-1189,2025,ACDF,51-65,7,0,4.6,None,Success,N/A
+VM-2025-1190,2025,Lumbar Fusion (Minimally Invasive),51-65,7,0,22.9,None,Success,N/A
+VM-2023-1191,2023,Microdiscectomy,36-50,7,0,2.0,None,Success,N/A
+VM-2025-1192,2025,Lumbar Fusion (Minimally Invasive),66-80,10,2,25.9,None,Success,N/A
+VM-2025-1193,2025,ACDF,36-50,10,1,3.9,None,Success,N/A
+VM-2024-1194,2024,Laminectomy,18-35,10,0,3.8,None,Success,N/A
+VM-2023-1195,2023,Laminectomy,51-65,8,2,4.0,None,Success,N/A
+VM-2023-1196,2023,ACDF,66-80,10,1,4.5,None,Success,N/A
+VM-2025-1197,2025,Microdiscectomy,36-50,8,2,2.6,None,Success,N/A
+VM-2022-1198,2022,ACDF,36-50,9,0,3.8,None,Success,N/A
+VM-2022-1199,2022,Laminectomy,51-65,8,1,2.3,None,Success,N/A
+VM-2020-1200,2020,Microdiscectomy,36-50,8,1,1.9,None,Success,N/A
+VM-2024-1201,2024,Laminectomy,36-50,9,2,2.9,None,Success,N/A
+VM-2025-1202,2025,ACDF,51-65,8,1,4.4,None,Success,N/A
+VM-2023-1203,2023,Microdiscectomy,36-50,9,1,1.6,None,Success,N/A
+VM-2026-1204,2026,ACDF,51-65,7,0,3.7,None,Success,N/A
+VM-2022-1205,2022,Lumbar Fusion (Minimally Invasive),36-50,10,2,15.4,None,Success,N/A
+VM-2024-1206,2024,ACDF,18-35,9,0,4.9,None,Success,N/A
+VM-2025-1207,2025,Lumbar Fusion (Minimally Invasive),66-80,9,0,20.4,None,Success,N/A
+VM-2025-1208,2025,Microdiscectomy,36-50,10,1,2.6,None,Success,N/A
+VM-2022-1209,2022,Microdiscectomy,51-65,9,2,2.1,None,Success,N/A
+VM-2024-1210,2024,Microdiscectomy,36-50,8,1,1.8,None,Success,N/A
+VM-2025-1211,2025,Microdiscectomy,36-50,8,2,2.3,None,Success,N/A
+VM-2020-1212,2020,Microdiscectomy,66-80,7,1,1.8,None,Success,N/A
+VM-2025-1213,2025,Microdiscectomy,51-65,10,1,2.5,None,Success,N/A
+VM-2020-1214,2020,ACDF,18-35,10,1,4.2,None,Success,N/A
+VM-2024-1215,2024,Laminectomy,36-50,9,6,1.5,None,Partial Improvement,N/A
+VM-2024-1216,2024,ACDF,66-80,10,1,3.2,None,Success,N/A
+VM-2021-1217,2021,ACDF,51-65,9,1,4.1,None,Success,N/A
+VM-2020-1218,2020,Craniotomy,66-80,9,0,50.5,None,Success,N/A
+VM-2020-1219,2020,Laminectomy,18-35,10,2,4.5,None,Success,N/A
+VM-2024-1220,2024,Microdiscectomy,36-50,8,1,2.6,None,Success,N/A
+VM-2020-1221,2020,ACDF,36-50,10,2,5.3,None,Success,N/A
+VM-2020-1222,2020,Microdiscectomy,36-50,7,5,2.0,None,Partial Improvement,N/A
+VM-2025-1223,2025,ACDF,36-50,9,1,3.4,None,Success,N/A
+VM-2023-1224,2023,Microdiscectomy,80+,10,1,2.0,None,Success,N/A
+VM-2022-1225,2022,ACDF,51-65,9,1,4.2,None,Success,N/A
+VM-2024-1226,2024,Microdiscectomy,51-65,10,0,2.1,None,Success,N/A
+VM-2021-1227,2021,Microdiscectomy,51-65,9,0,2.3,None,Success,N/A
+VM-2026-1228,2026,Microdiscectomy,51-65,7,2,1.6,None,Success,N/A
+VM-2022-1229,2022,Robotic-Assisted Spinal Fusion,66-80,8,1,21.7,None,Success,98.8%
+VM-2023-1230,2023,ACDF,66-80,8,0,4.9,None,Success,N/A
+VM-2025-1231,2025,ACDF,51-65,7,2,5.6,None,Success,N/A
+VM-2020-1232,2020,Craniotomy,51-65,10,1,60.2,None,Success,N/A
+VM-2024-1233,2024,Craniotomy,36-50,10,0,47.9,None,Success,N/A
+VM-2025-1234,2025,Laminectomy,36-50,10,0,2.9,None,Success,N/A
+VM-2022-1235,2022,ACDF,51-65,8,1,2.9,None,Success,N/A
+VM-2024-1236,2024,Microdiscectomy,36-50,10,2,2.1,None,Success,N/A
+VM-2022-1237,2022,ACDF,36-50,9,1,3.8,None,Success,N/A
+VM-2023-1238,2023,Microdiscectomy,51-65,8,2,1.9,None,Success,N/A
+VM-2022-1239,2022,ACDF,51-65,7,4,3.0,None,Partial Improvement,N/A
+VM-2024-1240,2024,Laminectomy,51-65,10,2,4.0,None,Success,N/A
+VM-2020-1241,2020,ACDF,51-65,10,2,5.2,None,Success,N/A
+VM-2022-1242,2022,ACDF,36-50,8,2,4.1,None,Success,N/A
+VM-2022-1243,2022,Microdiscectomy,51-65,10,0,1.8,None,Success,N/A
+VM-2023-1244,2023,Microdiscectomy,66-80,9,2,2.4,None,Success,N/A
+VM-2025-1245,2025,ACDF,51-65,8,2,5.6,None,Success,N/A
+VM-2025-1246,2025,ACDF,36-50,9,1,3.8,None,Success,N/A
+VM-2020-1247,2020,ACDF,51-65,10,0,5.3,None,Success,N/A
+VM-2021-1248,2021,Microdiscectomy,51-65,10,1,2.2,None,Success,N/A
+VM-2024-1249,2024,ACDF,18-35,9,0,4.5,None,Success,N/A
+VM-2026-1250,2026,Microdiscectomy,18-35,8,2,1.6,None,Success,N/A
+VM-2024-1251,2024,Microdiscectomy,66-80,10,0,1.6,None,Success,N/A
+VM-2024-1252,2024,Microdiscectomy,51-65,7,2,2.6,None,Success,N/A
+VM-2025-1253,2025,Microdiscectomy,36-50,8,2,2.5,None,Success,N/A
+VM-2020-1254,2020,Lumbar Fusion (Minimally Invasive),66-80,9,0,25.4,None,Success,N/A
+VM-2025-1255,2025,ACDF,51-65,9,6,4.3,None,Partial Improvement,N/A
+VM-2025-1256,2025,ACDF,66-80,7,0,4.4,None,Success,N/A
+VM-2024-1257,2024,Microdiscectomy,51-65,7,1,1.8,None,Success,N/A
+VM-2024-1258,2024,ACDF,66-80,9,1,5.2,None,Success,N/A
+VM-2025-1259,2025,Laminectomy,36-50,9,0,3.9,None,Success,N/A
+VM-2025-1260,2025,Microdiscectomy,80+,10,0,2.4,None,Success,N/A
+VM-2021-1261,2021,Microdiscectomy,51-65,7,2,1.7,None,Success,N/A
+VM-2026-1262,2026,ACDF,51-65,10,1,4.5,None,Success,N/A
+VM-2022-1263,2022,Microdiscectomy,80+,7,0,2.4,None,Success,N/A
+VM-2021-1264,2021,ACDF,80+,9,1,3.8,None,Success,N/A
+VM-2025-1265,2025,Laminectomy,51-65,8,1,3.2,None,Success,N/A
+VM-2025-1266,2025,ACDF,36-50,10,1,5.3,None,Success,N/A
+VM-2024-1267,2024,Laminectomy,36-50,8,1,2.9,None,Success,N/A
+VM-2022-1268,2022,ACDF,51-65,7,0,5.3,None,Success,N/A
+VM-2021-1269,2021,ACDF,51-65,10,0,4.7,None,Success,N/A
+VM-2024-1270,2024,Microdiscectomy,51-65,9,0,2.0,None,Success,N/A
+VM-2024-1271,2024,ACDF,51-65,7,0,3.9,None,Success,N/A
+VM-2024-1272,2024,Microdiscectomy,66-80,7,0,2.7,None,Success,N/A
+VM-2022-1273,2022,Microdiscectomy,18-35,9,0,1.8,None,Success,N/A
+VM-2024-1274,2024,ACDF,80+,9,0,2.9,None,Success,N/A
+VM-2022-1275,2022,Microdiscectomy,66-80,9,2,2.1,None,Success,N/A
+VM-2021-1276,2021,Laminectomy,51-65,8,0,2.8,None,Success,N/A
+VM-2022-1277,2022,Microdiscectomy,51-65,7,0,2.3,None,Success,N/A
+VM-2020-1278,2020,Lumbar Fusion (Minimally Invasive),51-65,7,1,26.4,None,Success,N/A
+VM-2025-1279,2025,ACDF,36-50,7,2,5.1,None,Success,N/A
+VM-2025-1280,2025,ACDF,80+,10,1,4.0,None,Success,N/A
+VM-2020-1281,2020,Craniotomy,66-80,10,1,51.0,None,Success,N/A
+VM-2022-1282,2022,Laminectomy,66-80,9,1,3.2,None,Success,N/A
+VM-2021-1283,2021,Microdiscectomy,51-65,8,1,2.4,None,Success,N/A
+VM-2022-1284,2022,Laminectomy,51-65,10,0,3.2,None,Success,N/A
+VM-2024-1285,2024,Microdiscectomy,51-65,8,2,2.5,None,Success,N/A
+VM-2022-1286,2022,Microdiscectomy,51-65,8,1,1.7,None,Success,N/A
+VM-2023-1287,2023,Microdiscectomy,36-50,9,1,1.6,None,Success,N/A
+VM-2021-1288,2021,Microdiscectomy,51-65,10,0,1.6,None,Success,N/A
+VM-2025-1289,2025,Robotic-Assisted Spinal Fusion,18-35,7,2,22.6,None,Success,98.6%
+VM-2021-1290,2021,Microdiscectomy,51-65,9,1,2.4,None,Success,N/A
+VM-2024-1291,2024,ACDF,36-50,10,2,4.4,None,Success,N/A
+VM-2021-1292,2021,ACDF,66-80,8,2,5.8,None,Success,N/A
+VM-2023-1293,2023,ACDF,36-50,9,1,4.3,None,Success,N/A
+VM-2022-1294,2022,ACDF,51-65,7,2,5.1,None,Success,N/A
+VM-2020-1295,2020,ACDF,51-65,7,0,3.6,None,Success,N/A
+VM-2021-1296,2021,ACDF,66-80,7,2,3.4,None,Success,N/A
+VM-2024-1297,2024,Microdiscectomy,18-35,9,0,2.5,None,Success,N/A
+VM-2021-1298,2021,Microdiscectomy,51-65,7,2,2.7,None,Success,N/A
+VM-2024-1299,2024,Microdiscectomy,51-65,9,2,2.6,None,Success,N/A
+VM-2024-1300,2024,Microdiscectomy,36-50,8,0,2.5,None,Success,N/A
+VM-2022-1301,2022,ACDF,18-35,10,1,5.2,None,Success,N/A
+VM-2022-1302,2022,ACDF,36-50,7,0,3.6,None,Success,N/A
+VM-2020-1303,2020,Laminectomy,36-50,7,0,4.7,None,Success,N/A
+VM-2025-1304,2025,ACDF,51-65,8,2,4.8,None,Success,N/A
+VM-2024-1305,2024,Lumbar Fusion (Minimally Invasive),66-80,10,0,24.7,None,Success,N/A
+VM-2023-1306,2023,ACDF,51-65,10,0,5.4,None,Success,N/A
+VM-2020-1307,2020,ACDF,36-50,8,0,4.3,None,Success,N/A
+VM-2025-1308,2025,Microdiscectomy,36-50,8,1,2.0,None,Success,N/A
+VM-2025-1309,2025,ACDF,51-65,9,0,5.5,None,Success,N/A
+VM-2020-1310,2020,Microdiscectomy,66-80,10,1,1.8,None,Success,N/A
+VM-2022-1311,2022,ACDF,18-35,10,1,4.0,None,Success,N/A
+VM-2023-1312,2023,ACDF,36-50,9,2,6.1,None,Success,N/A
+VM-2021-1313,2021,ACDF,66-80,9,1,4.0,None,Success,N/A
+VM-2025-1314,2025,ACDF,18-35,9,0,3.7,None,Success,N/A
+VM-2020-1315,2020,Robotic-Assisted Spinal Fusion,36-50,8,0,26.6,None,Success,98.8%
+VM-2023-1316,2023,Laminectomy,66-80,9,1,3.3,None,Success,N/A
+VM-2023-1317,2023,ACDF,51-65,9,1,3.8,None,Success,N/A
+VM-2021-1318,2021,Microdiscectomy,51-65,7,4,2.6,None,Partial Improvement,N/A
+VM-2023-1319,2023,ACDF,18-35,7,6,4.4,None,Partial Improvement,N/A
+VM-2025-1320,2025,ACDF,36-50,8,0,4.3,None,Success,N/A
+VM-2025-1321,2025,ACDF,36-50,8,0,5.2,None,Success,N/A
+VM-2024-1322,2024,Microdiscectomy,51-65,8,1,1.7,None,Success,N/A
+VM-2022-1323,2022,Laminectomy,51-65,7,0,3.5,None,Success,N/A
+VM-2023-1324,2023,Microdiscectomy,36-50,8,0,2.2,None,Success,N/A
+VM-2024-1325,2024,Robotic-Assisted Spinal Fusion,51-65,7,1,23.1,None,Success,98.2%
+VM-2021-1326,2021,ACDF,80+,7,1,5.3,None,Success,N/A
+VM-2023-1327,2023,Microdiscectomy,36-50,10,2,2.5,None,Success,N/A
+VM-2024-1328,2024,Lumbar Fusion (Minimally Invasive),36-50,7,2,26.1,None,Success,N/A
+VM-2025-1329,2025,ACDF,51-65,8,2,5.1,None,Success,N/A
+VM-2025-1330,2025,ACDF,18-35,8,2,4.6,None,Success,N/A
+VM-2025-1331,2025,ACDF,36-50,8,0,4.9,None,Success,N/A
+VM-2023-1332,2023,ACDF,36-50,8,1,3.9,None,Success,N/A
+VM-2023-1333,2023,ACDF,51-65,8,2,3.9,None,Success,N/A
+VM-2023-1334,2023,Microdiscectomy,51-65,8,0,2.2,None,Success,N/A
+VM-2023-1335,2023,Laminectomy,51-65,10,0,4.2,None,Success,N/A
+VM-2024-1336,2024,Robotic-Assisted Spinal Fusion,36-50,7,0,22.8,None,Success,99.8%
+VM-2023-1337,2023,Microdiscectomy,51-65,9,2,1.9,None,Success,N/A
+VM-2025-1338,2025,Laminectomy,51-65,9,0,4.5,None,Success,N/A
+VM-2023-1339,2023,Robotic-Assisted Spinal Fusion,18-35,9,2,18.3,None,Success,99.7%
+VM-2023-1340,2023,ACDF,51-65,9,1,4.0,None,Success,N/A
+VM-2025-1341,2025,Lumbar Fusion (Minimally Invasive),66-80,10,9,14.6,Hematoma,Complication/Revision,N/A
+VM-2024-1342,2024,ACDF,51-65,7,2,4.0,None,Success,N/A
+VM-2022-1343,2022,ACDF,66-80,8,1,4.3,None,Success,N/A
+VM-2025-1344,2025,Lumbar Fusion (Minimally Invasive),51-65,8,1,12.9,None,Success,N/A
+VM-2025-1345,2025,Microdiscectomy,80+,9,0,2.4,None,Success,N/A
+VM-2023-1346,2023,Microdiscectomy,36-50,10,1,2.5,None,Success,N/A
+VM-2024-1347,2024,Robotic-Assisted Spinal Fusion,36-50,10,2,29.2,None,Success,98.4%
+VM-2023-1348,2023,Lumbar Fusion (Minimally Invasive),51-65,7,2,16.9,None,Success,N/A
+VM-2025-1349,2025,Microdiscectomy,80+,10,1,2.5,None,Success,N/A
+VM-2020-1350,2020,ACDF,51-65,9,0,6.8,None,Success,N/A
+VM-2021-1351,2021,Laminectomy,51-65,7,1,3.8,None,Success,N/A
+VM-2024-1352,2024,ACDF,51-65,8,3,3.9,None,Partial Improvement,N/A
+VM-2023-1353,2023,Microdiscectomy,36-50,8,0,2.1,None,Success,N/A
+VM-2026-1354,2026,Robotic-Assisted Spinal Fusion,18-35,9,0,21.0,None,Success,99.3%
+VM-2025-1355,2025,Microdiscectomy,51-65,8,0,1.9,None,Success,N/A
+VM-2021-1356,2021,ACDF,51-65,8,1,3.8,None,Success,N/A
+VM-2024-1357,2024,ACDF,51-65,10,0,4.1,None,Success,N/A
+VM-2023-1358,2023,ACDF,51-65,10,0,3.9,None,Success,N/A
+VM-2025-1359,2025,ACDF,66-80,7,0,3.7,None,Success,N/A
+VM-2025-1360,2025,Robotic-Assisted Spinal Fusion,36-50,7,2,20.3,None,Success,99.8%
+VM-2025-1361,2025,ACDF,36-50,10,1,5.0,None,Success,N/A
+VM-2025-1362,2025,ACDF,18-35,7,1,3.4,None,Success,N/A
+VM-2023-1363,2023,Microdiscectomy,66-80,9,1,1.5,None,Success,N/A
+VM-2023-1364,2023,ACDF,36-50,7,0,2.7,None,Success,N/A
+VM-2020-1365,2020,Microdiscectomy,80+,8,2,2.2,None,Success,N/A
+VM-2026-1366,2026,ACDF,51-65,7,0,3.7,None,Success,N/A
+VM-2021-1367,2021,Laminectomy,51-65,7,1,2.7,None,Success,N/A
+VM-2020-1368,2020,ACDF,36-50,10,2,4.4,None,Success,N/A
+VM-2020-1369,2020,Microdiscectomy,51-65,9,2,1.9,None,Success,N/A
+VM-2025-1370,2025,ACDF,66-80,7,0,5.5,None,Success,N/A
+VM-2021-1371,2021,Craniotomy,51-65,9,2,40.5,None,Success,N/A
+VM-2022-1372,2022,Laminectomy,51-65,10,2,2.6,None,Success,N/A
+VM-2020-1373,2020,Laminectomy,51-65,9,6,2.5,None,Partial Improvement,N/A
+VM-2021-1374,2021,ACDF,51-65,8,1,4.5,None,Success,N/A
+VM-2020-1375,2020,Laminectomy,66-80,10,1,3.6,None,Success,N/A
+VM-2022-1376,2022,Laminectomy,51-65,8,2,3.5,None,Success,N/A
+VM-2021-1377,2021,Microdiscectomy,80+,9,1,2.6,None,Success,N/A
+VM-2025-1378,2025,ACDF,18-35,8,1,4.1,None,Success,N/A
+VM-2024-1379,2024,Microdiscectomy,36-50,9,1,2.3,None,Success,N/A
+VM-2024-1380,2024,Microdiscectomy,36-50,8,2,2.0,None,Success,N/A
+VM-2025-1381,2025,Lumbar Fusion (Minimally Invasive),36-50,7,6,20.7,Hematoma,Complication/Revision,N/A
+VM-2025-1382,2025,Lumbar Fusion (Minimally Invasive),18-35,9,1,23.8,None,Success,N/A
+VM-2022-1383,2022,Microdiscectomy,66-80,10,1,2.1,None,Success,N/A
+VM-2020-1384,2020,Lumbar Fusion (Minimally Invasive),66-80,8,2,25.3,None,Success,N/A
+VM-2023-1385,2023,Microdiscectomy,51-65,10,5,1.7,None,Partial Improvement,N/A
+VM-2020-1386,2020,ACDF,51-65,10,2,3.9,None,Success,N/A
+VM-2022-1387,2022,ACDF,66-80,9,1,5.2,None,Success,N/A
+VM-2023-1388,2023,Robotic-Assisted Spinal Fusion,36-50,10,0,14.6,None,Success,99.6%
+VM-2021-1389,2021,Microdiscectomy,51-65,9,1,2.2,None,Success,N/A
+VM-2023-1390,2023,Laminectomy,66-80,7,1,3.3,None,Success,N/A
+VM-2020-1391,2020,Microdiscectomy,18-35,7,1,1.9,None,Success,N/A
+VM-2026-1392,2026,ACDF,80+,10,1,6.4,None,Success,N/A
+VM-2024-1393,2024,ACDF,36-50,8,2,5.5,None,Success,N/A
+VM-2023-1394,2023,Microdiscectomy,36-50,8,2,1.9,None,Success,N/A
+VM-2023-1395,2023,Microdiscectomy,18-35,10,1,2.2,None,Success,N/A
+VM-2023-1396,2023,Laminectomy,80+,7,0,3.6,None,Success,N/A
+VM-2026-1397,2026,Lumbar Fusion (Minimally Invasive),51-65,10,2,16.3,None,Success,N/A
+VM-2022-1398,2022,Microdiscectomy,18-35,7,0,1.5,None,Success,N/A
+VM-2020-1399,2020,Lumbar Fusion (Minimally Invasive),36-50,9,1,22.4,None,Success,N/A
+VM-2025-1400,2025,ACDF,18-35,7,2,5.2,None,Success,N/A
+VM-2024-1401,2024,Microdiscectomy,51-65,7,1,1.9,None,Success,N/A
+VM-2022-1402,2022,Microdiscectomy,36-50,7,0,1.1,None,Success,N/A
+VM-2023-1403,2023,Robotic-Assisted Spinal Fusion,51-65,10,0,18.4,None,Success,98.7%
+VM-2024-1404,2024,ACDF,18-35,8,2,4.5,None,Success,N/A
+VM-2024-1405,2024,ACDF,36-50,8,1,3.8,None,Success,N/A
+VM-2024-1406,2024,Lumbar Fusion (Minimally Invasive),51-65,8,2,18.0,None,Success,N/A
+VM-2021-1407,2021,Microdiscectomy,51-65,8,0,1.6,None,Success,N/A
+VM-2022-1408,2022,Lumbar Fusion (Minimally Invasive),51-65,7,0,22.2,None,Success,N/A
+VM-2020-1409,2020,Robotic-Assisted Spinal Fusion,36-50,8,0,12.9,None,Success,99.4%
+VM-2025-1410,2025,Microdiscectomy,51-65,10,2,2.4,None,Success,N/A
+VM-2025-1411,2025,Microdiscectomy,36-50,9,1,1.7,None,Success,N/A
+VM-2021-1412,2021,Lumbar Fusion (Minimally Invasive),66-80,10,0,15.7,None,Success,N/A
+VM-2025-1413,2025,Lumbar Fusion (Minimally Invasive),66-80,7,2,22.9,None,Success,N/A
+VM-2023-1414,2023,Microdiscectomy,51-65,9,0,1.7,None,Success,N/A
+VM-2025-1415,2025,Robotic-Assisted Spinal Fusion,36-50,10,2,22.2,None,Success,98.4%
+VM-2025-1416,2025,Robotic-Assisted Spinal Fusion,51-65,10,2,15.7,None,Success,98.4%
+VM-2024-1417,2024,Laminectomy,36-50,7,1,3.0,None,Success,N/A
+VM-2024-1418,2024,Microdiscectomy,36-50,7,1,2.1,None,Success,N/A
+VM-2025-1419,2025,ACDF,66-80,10,1,4.4,None,Success,N/A
+VM-2022-1420,2022,ACDF,51-65,10,2,6.6,None,Success,N/A
+VM-2020-1421,2020,Microdiscectomy,36-50,8,3,2.1,None,Partial Improvement,N/A
+VM-2026-1422,2026,Laminectomy,36-50,8,3,4.1,None,Partial Improvement,N/A
+VM-2023-1423,2023,ACDF,51-65,9,0,3.2,None,Success,N/A
+VM-2024-1424,2024,Laminectomy,51-65,10,2,3.2,None,Success,N/A
+VM-2025-1425,2025,Craniotomy,51-65,9,0,34.8,None,Success,N/A
+VM-2025-1426,2025,ACDF,36-50,9,0,3.0,None,Success,N/A
+VM-2024-1427,2024,Lumbar Fusion (Minimally Invasive),51-65,9,2,25.5,None,Success,N/A
+VM-2022-1428,2022,Microdiscectomy,18-35,10,2,2.6,None,Success,N/A
+VM-2022-1429,2022,ACDF,51-65,10,2,3.9,None,Success,N/A
+VM-2020-1430,2020,ACDF,66-80,8,1,4.7,None,Success,N/A
+VM-2025-1431,2025,Microdiscectomy,51-65,10,3,2.5,None,Partial Improvement,N/A
+VM-2026-1432,2026,Lumbar Fusion (Minimally Invasive),51-65,7,0,17.6,None,Success,N/A
+VM-2025-1433,2025,Lumbar Fusion (Minimally Invasive),36-50,7,0,27.1,None,Success,N/A
+VM-2020-1434,2020,ACDF,36-50,10,3,4.5,None,Partial Improvement,N/A
+VM-2021-1435,2021,Microdiscectomy,80+,10,0,2.7,None,Success,N/A
+VM-2022-1436,2022,Microdiscectomy,66-80,10,1,1.5,None,Success,N/A
+VM-2022-1437,2022,Microdiscectomy,51-65,9,1,2.2,None,Success,N/A
+VM-2025-1438,2025,Lumbar Fusion (Minimally Invasive),36-50,8,2,22.9,None,Success,N/A
+VM-2025-1439,2025,Robotic-Assisted Spinal Fusion,36-50,9,1,20.3,None,Success,99.3%
+VM-2023-1440,2023,ACDF,36-50,8,2,4.1,None,Success,N/A
+VM-2021-1441,2021,ACDF,18-35,8,2,4.3,None,Success,N/A
+VM-2026-1442,2026,Laminectomy,51-65,10,2,4.6,None,Success,N/A
+VM-2023-1443,2023,Microdiscectomy,66-80,10,1,1.8,None,Success,N/A
+VM-2025-1444,2025,Microdiscectomy,36-50,7,1,2.6,None,Success,N/A
+VM-2021-1445,2021,Laminectomy,36-50,9,6,3.1,None,Partial Improvement,N/A
+VM-2024-1446,2024,Lumbar Fusion (Minimally Invasive),51-65,7,0,22.5,None,Success,N/A
+VM-2025-1447,2025,Laminectomy,36-50,9,2,4.8,None,Success,N/A
+VM-2023-1448,2023,Microdiscectomy,36-50,7,2,2.5,None,Success,N/A
+VM-2023-1449,2023,Microdiscectomy,66-80,9,0,2.6,None,Success,N/A
+VM-2023-1450,2023,Microdiscectomy,51-65,9,1,2.0,None,Success,N/A
+VM-2023-1451,2023,ACDF,51-65,10,2,3.8,None,Success,N/A
+VM-2022-1452,2022,Microdiscectomy,51-65,7,2,2.5,None,Success,N/A
+VM-2024-1453,2024,ACDF,51-65,10,0,3.3,None,Success,N/A
+VM-2024-1454,2024,Craniotomy,51-65,7,1,39.8,None,Success,N/A
+VM-2024-1455,2024,Laminectomy,51-65,9,1,2.9,None,Success,N/A
+VM-2023-1456,2023,Microdiscectomy,51-65,8,1,2.2,None,Success,N/A
+VM-2024-1457,2024,Laminectomy,66-80,7,1,3.1,None,Success,N/A
+VM-2024-1458,2024,Lumbar Fusion (Minimally Invasive),51-65,8,0,22.3,None,Success,N/A
+VM-2020-1459,2020,Lumbar Fusion (Minimally Invasive),36-50,7,2,19.6,None,Success,N/A
+VM-2024-1460,2024,Microdiscectomy,36-50,10,0,1.7,None,Success,N/A
+VM-2020-1461,2020,Robotic-Assisted Spinal Fusion,36-50,8,1,21.9,None,Success,99.2%
+VM-2022-1462,2022,ACDF,36-50,8,1,3.5,None,Success,N/A
+VM-2023-1463,2023,ACDF,66-80,8,1,4.4,None,Success,N/A
+VM-2024-1464,2024,ACDF,66-80,7,1,3.7,None,Success,N/A
+VM-2022-1465,2022,Microdiscectomy,51-65,7,2,2.5,None,Success,N/A
+VM-2020-1466,2020,Laminectomy,36-50,10,3,3.1,None,Partial Improvement,N/A
+VM-2023-1467,2023,Laminectomy,36-50,8,2,3.7,None,Success,N/A
+VM-2020-1468,2020,Microdiscectomy,36-50,10,2,2.0,None,Success,N/A
+VM-2023-1469,2023,Laminectomy,51-65,7,2,4.4,None,Success,N/A
+VM-2020-1470,2020,ACDF,51-65,10,1,5.7,None,Success,N/A
+VM-2024-1471,2024,Laminectomy,51-65,7,2,3.5,None,Success,N/A
+VM-2024-1472,2024,Microdiscectomy,80+,9,0,2.4,None,Success,N/A
+VM-2026-1473,2026,Microdiscectomy,36-50,7,2,2.4,None,Success,N/A
+VM-2024-1474,2024,ACDF,51-65,7,0,4.6,None,Success,N/A
+VM-2024-1475,2024,ACDF,36-50,8,0,4.3,None,Success,N/A
+VM-2025-1476,2025,Microdiscectomy,18-35,9,1,1.9,None,Success,N/A
+VM-2024-1477,2024,ACDF,51-65,7,1,3.5,None,Success,N/A
+VM-2024-1478,2024,ACDF,36-50,10,1,3.3,None,Success,N/A
+VM-2023-1479,2023,ACDF,51-65,10,1,4.7,None,Success,N/A
+VM-2026-1480,2026,Microdiscectomy,80+,7,2,1.8,None,Success,N/A
+VM-2023-1481,2023,Microdiscectomy,36-50,10,0,1.6,None,Success,N/A
+VM-2024-1482,2024,Microdiscectomy,66-80,10,1,2.5,None,Success,N/A
+VM-2025-1483,2025,ACDF,36-50,9,2,3.6,None,Success,N/A
+VM-2023-1484,2023,ACDF,36-50,8,3,6.2,None,Partial Improvement,N/A
+VM-2022-1485,2022,Microdiscectomy,36-50,9,2,1.3,None,Success,N/A
+VM-2021-1486,2021,Microdiscectomy,51-65,10,4,2.8,None,Partial Improvement,N/A
+VM-2024-1487,2024,Lumbar Fusion (Minimally Invasive),80+,7,1,25.3,None,Success,N/A
+VM-2023-1488,2023,Microdiscectomy,51-65,8,2,2.3,None,Success,N/A
+VM-2024-1489,2024,Microdiscectomy,36-50,10,4,2.0,None,Partial Improvement,N/A
+VM-2023-1490,2023,Microdiscectomy,36-50,7,2,2.5,None,Success,N/A
+VM-2024-1491,2024,Laminectomy,66-80,9,2,3.4,None,Success,N/A
+VM-2022-1492,2022,ACDF,80+,8,1,4.0,None,Success,N/A
+VM-2025-1493,2025,Lumbar Fusion (Minimally Invasive),36-50,8,0,24.3,None,Success,N/A
+VM-2023-1494,2023,ACDF,36-50,10,1,3.9,None,Success,N/A
+VM-2020-1495,2020,Microdiscectomy,36-50,7,2,1.6,None,Success,N/A
+VM-2025-1496,2025,Craniotomy,51-65,8,2,65.3,None,Success,N/A
+VM-2026-1497,2026,Microdiscectomy,51-65,8,1,1.9,None,Success,N/A
+VM-2025-1498,2025,Microdiscectomy,51-65,8,0,2.1,None,Success,N/A
+VM-2021-1499,2021,Laminectomy,36-50,10,0,3.1,None,Success,N/A
+VM-2024-1500,2024,Microdiscectomy,36-50,7,2,1.5,None,Success,N/A
+VM-2026-1501,2026,Microdiscectomy,51-65,7,1,2.3,None,Success,N/A
+VM-2022-1502,2022,Microdiscectomy,51-65,10,1,2.0,None,Success,N/A
+VM-2023-1503,2023,Laminectomy,18-35,10,2,3.9,None,Success,N/A
+VM-2026-1504,2026,ACDF,36-50,8,0,5.9,None,Success,N/A
+VM-2023-1505,2023,ACDF,51-65,7,2,4.7,None,Success,N/A
+VM-2025-1506,2025,Laminectomy,51-65,10,0,3.4,None,Success,N/A
+VM-2023-1507,2023,ACDF,80+,9,8,4.2,Minor Infection,Complication/Revision,N/A
+VM-2020-1508,2020,ACDF,51-65,10,1,5.7,None,Success,N/A
+VM-2023-1509,2023,ACDF,66-80,9,0,4.2,None,Success,N/A
+VM-2026-1510,2026,Microdiscectomy,51-65,9,1,2.4,None,Success,N/A
+VM-2024-1511,2024,Laminectomy,36-50,7,2,3.6,None,Success,N/A
+VM-2024-1512,2024,Craniotomy,36-50,7,2,27.4,None,Success,N/A
+VM-2023-1513,2023,Craniotomy,51-65,7,0,53.8,None,Success,N/A
+VM-2026-1514,2026,ACDF,36-50,9,0,4.4,None,Success,N/A
+VM-2021-1515,2021,Microdiscectomy,51-65,9,2,2.1,None,Success,N/A
+VM-2021-1516,2021,Lumbar Fusion (Minimally Invasive),80+,10,1,22.3,None,Success,N/A
+VM-2025-1517,2025,ACDF,66-80,9,2,4.4,None,Success,N/A
+VM-2025-1518,2025,ACDF,51-65,10,0,4.4,None,Success,N/A
+VM-2021-1519,2021,ACDF,51-65,10,2,5.6,None,Success,N/A
+VM-2021-1520,2021,Lumbar Fusion (Minimally Invasive),51-65,8,2,24.8,None,Success,N/A
+VM-2024-1521,2024,Microdiscectomy,36-50,8,0,2.1,None,Success,N/A
+VM-2023-1522,2023,Lumbar Fusion (Minimally Invasive),66-80,8,2,19.2,None,Success,N/A
+VM-2025-1523,2025,Microdiscectomy,51-65,8,0,2.4,None,Success,N/A
+VM-2022-1524,2022,ACDF,18-35,7,2,4.9,None,Success,N/A
+VM-2024-1525,2024,ACDF,66-80,7,6,5.0,None,Partial Improvement,N/A
+VM-2025-1526,2025,Microdiscectomy,51-65,10,0,2.3,None,Success,N/A
+VM-2022-1527,2022,ACDF,36-50,8,2,4.9,None,Success,N/A
+VM-2023-1528,2023,Microdiscectomy,51-65,8,2,1.8,None,Success,N/A
+VM-2023-1529,2023,Microdiscectomy,36-50,8,2,1.6,None,Success,N/A
+VM-2023-1530,2023,ACDF,51-65,7,2,2.9,None,Success,N/A
+VM-2024-1531,2024,Lumbar Fusion (Minimally Invasive),36-50,8,1,34.0,None,Success,N/A
+VM-2021-1532,2021,ACDF,51-65,7,0,4.6,None,Success,N/A
+VM-2020-1533,2020,Craniotomy,51-65,7,0,61.3,None,Success,N/A
+VM-2024-1534,2024,Microdiscectomy,80+,9,1,2.8,None,Success,N/A
+VM-2023-1535,2023,Microdiscectomy,36-50,10,2,1.9,None,Success,N/A
+VM-2024-1536,2024,Laminectomy,18-35,10,1,2.3,None,Success,N/A
+VM-2022-1537,2022,Microdiscectomy,51-65,9,0,2.0,None,Success,N/A
+VM-2023-1538,2023,Laminectomy,66-80,9,2,3.2,None,Success,N/A
+VM-2025-1539,2025,ACDF,36-50,7,0,3.4,None,Success,N/A
+VM-2022-1540,2022,Lumbar Fusion (Minimally Invasive),51-65,7,0,25.3,None,Success,N/A
+VM-2024-1541,2024,Robotic-Assisted Spinal Fusion,36-50,10,2,29.0,None,Success,98.9%
+VM-2024-1542,2024,Laminectomy,66-80,7,0,3.3,None,Success,N/A
+VM-2025-1543,2025,Microdiscectomy,36-50,10,0,1.5,None,Success,N/A
+VM-2023-1544,2023,ACDF,36-50,8,1,7.1,None,Success,N/A
+VM-2024-1545,2024,ACDF,36-50,10,1,4.1,None,Success,N/A
+VM-2022-1546,2022,Microdiscectomy,36-50,7,2,2.1,None,Success,N/A
+VM-2022-1547,2022,Microdiscectomy,51-65,7,0,2.6,None,Success,N/A
+VM-2021-1548,2021,Lumbar Fusion (Minimally Invasive),80+,7,1,29.4,None,Success,N/A
+VM-2022-1549,2022,Lumbar Fusion (Minimally Invasive),80+,7,6,24.1,Minor Infection,Complication/Revision,N/A
+VM-2023-1550,2023,ACDF,51-65,10,2,4.2,None,Success,N/A
+VM-2025-1551,2025,Microdiscectomy,18-35,7,0,2.4,None,Success,N/A
+VM-2022-1552,2022,ACDF,36-50,8,2,3.4,None,Success,N/A
+VM-2023-1553,2023,ACDF,36-50,7,1,4.6,None,Success,N/A
+VM-2020-1554,2020,Microdiscectomy,66-80,9,1,2.5,None,Success,N/A
+VM-2023-1555,2023,Microdiscectomy,51-65,9,0,1.2,None,Success,N/A
+VM-2024-1556,2024,Microdiscectomy,51-65,10,0,1.0,None,Success,N/A
+VM-2025-1557,2025,Laminectomy,51-65,9,2,2.8,None,Success,N/A
+VM-2023-1558,2023,Microdiscectomy,18-35,8,1,2.0,None,Success,N/A
+VM-2026-1559,2026,Microdiscectomy,18-35,9,1,1.6,None,Success,N/A
+VM-2023-1560,2023,Microdiscectomy,36-50,7,2,2.5,None,Success,N/A
+VM-2020-1561,2020,Microdiscectomy,51-65,8,1,2.2,None,Success,N/A
+VM-2022-1562,2022,ACDF,80+,10,3,3.9,None,Partial Improvement,N/A
+VM-2025-1563,2025,Microdiscectomy,51-65,8,0,1.9,None,Success,N/A
+VM-2022-1564,2022,Robotic-Assisted Spinal Fusion,36-50,10,0,28.5,None,Success,99.1%
+VM-2025-1565,2025,ACDF,66-80,7,1,6.1,None,Success,N/A
+VM-2024-1566,2024,Craniotomy,66-80,10,1,59.4,None,Success,N/A
+VM-2026-1567,2026,ACDF,36-50,9,0,4.6,None,Success,N/A
+VM-2022-1568,2022,Lumbar Fusion (Minimally Invasive),80+,7,0,15.7,None,Success,N/A
+VM-2025-1569,2025,ACDF,36-50,9,0,3.7,None,Success,N/A
+VM-2021-1570,2021,Lumbar Fusion (Minimally Invasive),51-65,9,1,26.5,None,Success,N/A
+VM-2021-1571,2021,ACDF,36-50,7,2,3.1,None,Success,N/A
+VM-2024-1572,2024,Lumbar Fusion (Minimally Invasive),80+,9,2,28.5,None,Success,N/A
+VM-2024-1573,2024,Lumbar Fusion (Minimally Invasive),51-65,7,2,22.0,None,Success,N/A
+VM-2021-1574,2021,Microdiscectomy,51-65,10,2,1.4,None,Success,N/A
+VM-2024-1575,2024,Microdiscectomy,66-80,8,2,2.4,None,Success,N/A
+VM-2020-1576,2020,Microdiscectomy,66-80,7,1,1.9,None,Success,N/A
+VM-2025-1577,2025,Microdiscectomy,51-65,7,0,2.1,None,Success,N/A
+VM-2024-1578,2024,ACDF,66-80,7,1,4.3,None,Success,N/A
+VM-2025-1579,2025,Microdiscectomy,66-80,7,2,2.0,None,Success,N/A
+VM-2025-1580,2025,Robotic-Assisted Spinal Fusion,18-35,10,2,26.0,None,Success,99.3%
+VM-2025-1581,2025,Lumbar Fusion (Minimally Invasive),51-65,8,2,18.6,None,Success,N/A
+VM-2021-1582,2021,Microdiscectomy,51-65,9,0,1.7,None,Success,N/A
+VM-2024-1583,2024,Laminectomy,18-35,10,1,3.2,None,Success,N/A
+VM-2020-1584,2020,Microdiscectomy,18-35,9,1,1.5,None,Success,N/A
+VM-2025-1585,2025,Laminectomy,36-50,9,2,2.8,None,Success,N/A
+VM-2022-1586,2022,ACDF,51-65,9,1,4.4,None,Success,N/A
+VM-2021-1587,2021,ACDF,51-65,7,1,4.1,None,Success,N/A
+VM-2022-1588,2022,Microdiscectomy,51-65,7,2,1.6,None,Success,N/A
+VM-2025-1589,2025,Craniotomy,36-50,8,0,27.5,None,Success,N/A
+VM-2023-1590,2023,ACDF,51-65,7,1,3.9,None,Success,N/A
+VM-2024-1591,2024,Microdiscectomy,51-65,9,2,2.3,None,Success,N/A
+VM-2025-1592,2025,ACDF,36-50,8,0,3.7,None,Success,N/A
+VM-2024-1593,2024,Microdiscectomy,36-50,7,1,2.0,None,Success,N/A
+VM-2023-1594,2023,Lumbar Fusion (Minimally Invasive),36-50,9,2,18.5,None,Success,N/A
+VM-2020-1595,2020,Microdiscectomy,66-80,8,0,2.8,None,Success,N/A
+VM-2026-1596,2026,Lumbar Fusion (Minimally Invasive),66-80,9,1,29.6,None,Success,N/A
+VM-2022-1597,2022,Laminectomy,66-80,10,2,3.6,None,Success,N/A
+VM-2022-1598,2022,ACDF,51-65,9,0,3.9,None,Success,N/A
+VM-2025-1599,2025,Lumbar Fusion (Minimally Invasive),36-50,8,2,23.5,None,Success,N/A
+VM-2020-1600,2020,Microdiscectomy,51-65,8,0,2.1,None,Success,N/A
+VM-2026-1601,2026,Microdiscectomy,36-50,9,2,2.0,None,Success,N/A
+VM-2020-1602,2020,ACDF,51-65,7,2,4.9,None,Success,N/A
+VM-2022-1603,2022,ACDF,36-50,9,1,5.0,None,Success,N/A
+VM-2025-1604,2025,Microdiscectomy,36-50,7,0,1.2,None,Success,N/A
+VM-2026-1605,2026,Microdiscectomy,51-65,10,0,1.3,None,Success,N/A
+VM-2025-1606,2025,Craniotomy,36-50,9,2,34.7,None,Success,N/A
+VM-2024-1607,2024,Microdiscectomy,51-65,7,1,2.3,None,Success,N/A
+VM-2024-1608,2024,ACDF,66-80,10,2,5.1,None,Success,N/A
+VM-2023-1609,2023,Microdiscectomy,51-65,8,0,1.9,None,Success,N/A
+VM-2021-1610,2021,Microdiscectomy,66-80,9,1,2.0,None,Success,N/A
+VM-2024-1611,2024,Microdiscectomy,51-65,10,2,1.8,None,Success,N/A
+VM-2021-1612,2021,Microdiscectomy,51-65,7,2,1.8,None,Success,N/A
+VM-2025-1613,2025,ACDF,51-65,7,0,5.9,None,Success,N/A
+VM-2024-1614,2024,Robotic-Assisted Spinal Fusion,36-50,7,2,15.3,None,Success,98.3%
+VM-2024-1615,2024,Lumbar Fusion (Minimally Invasive),51-65,8,0,19.0,None,Success,N/A
+VM-2021-1616,2021,Microdiscectomy,66-80,9,0,1.5,None,Success,N/A
+VM-2023-1617,2023,Lumbar Fusion (Minimally Invasive),51-65,7,1,21.0,None,Success,N/A
+VM-2024-1618,2024,Microdiscectomy,51-65,10,1,2.1,None,Success,N/A
+VM-2026-1619,2026,Microdiscectomy,36-50,8,2,1.4,None,Success,N/A
+VM-2023-1620,2023,Microdiscectomy,18-35,8,2,2.5,None,Success,N/A
+VM-2025-1621,2025,Laminectomy,66-80,9,1,4.0,None,Success,N/A
+VM-2024-1622,2024,ACDF,51-65,9,2,3.7,None,Success,N/A
+VM-2024-1623,2024,Laminectomy,66-80,9,1,2.7,None,Success,N/A
+VM-2024-1624,2024,Microdiscectomy,36-50,9,2,2.1,None,Success,N/A
+VM-2021-1625,2021,Laminectomy,66-80,7,1,3.9,None,Success,N/A
+VM-2024-1626,2024,ACDF,51-65,9,1,4.7,None,Success,N/A
+VM-2020-1627,2020,Laminectomy,51-65,10,2,3.6,None,Success,N/A
+VM-2021-1628,2021,Craniotomy,51-65,10,2,31.6,None,Success,N/A
+VM-2022-1629,2022,ACDF,66-80,8,0,3.6,None,Success,N/A
+VM-2022-1630,2022,Laminectomy,36-50,8,1,4.5,None,Success,N/A
+VM-2022-1631,2022,Microdiscectomy,51-65,7,0,1.6,None,Success,N/A
+VM-2025-1632,2025,Microdiscectomy,51-65,9,2,1.9,None,Success,N/A
+VM-2024-1633,2024,Robotic-Assisted Spinal Fusion,51-65,8,0,25.1,None,Success,98.7%
+VM-2024-1634,2024,Laminectomy,36-50,8,0,3.7,None,Success,N/A
+VM-2023-1635,2023,Microdiscectomy,51-65,10,0,1.9,None,Success,N/A
+VM-2026-1636,2026,Microdiscectomy,51-65,7,0,2.4,None,Success,N/A
+VM-2024-1637,2024,Microdiscectomy,18-35,8,0,2.3,None,Success,N/A
+VM-2024-1638,2024,Robotic-Assisted Spinal Fusion,51-65,10,0,21.9,None,Success,99.4%
+VM-2024-1639,2024,Robotic-Assisted Spinal Fusion,51-65,7,1,21.1,None,Success,99.2%
+VM-2024-1640,2024,Lumbar Fusion (Minimally Invasive),51-65,7,2,25.3,None,Success,N/A
+VM-2024-1641,2024,Microdiscectomy,36-50,8,1,1.9,None,Success,N/A
+VM-2025-1642,2025,Laminectomy,66-80,9,2,3.3,None,Success,N/A
+VM-2022-1643,2022,Microdiscectomy,51-65,10,5,2.0,None,Partial Improvement,N/A
+VM-2022-1644,2022,Microdiscectomy,66-80,9,2,1.6,None,Success,N/A
+VM-2024-1645,2024,Microdiscectomy,36-50,10,0,1.3,None,Success,N/A
+VM-2025-1646,2025,Laminectomy,36-50,7,0,3.9,None,Success,N/A
+VM-2021-1647,2021,ACDF,36-50,8,2,4.7,None,Success,N/A
+VM-2020-1648,2020,ACDF,36-50,8,2,5.1,None,Success,N/A
+VM-2020-1649,2020,Microdiscectomy,18-35,9,2,1.9,None,Success,N/A
+VM-2023-1650,2023,ACDF,36-50,9,2,4.7,None,Success,N/A
+VM-2026-1651,2026,ACDF,66-80,8,0,4.0,None,Success,N/A
+VM-2025-1652,2025,Robotic-Assisted Spinal Fusion,66-80,10,0,22.3,None,Success,99.0%
+VM-2024-1653,2024,Microdiscectomy,36-50,10,2,1.8,None,Success,N/A
+VM-2024-1654,2024,Microdiscectomy,51-65,9,0,2.6,None,Success,N/A
+VM-2025-1655,2025,ACDF,51-65,10,1,5.5,None,Success,N/A
+VM-2025-1656,2025,ACDF,51-65,8,2,4.2,None,Success,N/A
+VM-2020-1657,2020,Laminectomy,51-65,7,2,4.2,None,Success,N/A
+VM-2023-1658,2023,Craniotomy,51-65,10,1,50.2,None,Success,N/A
+VM-2025-1659,2025,Microdiscectomy,36-50,8,0,1.2,None,Success,N/A
+VM-2023-1660,2023,ACDF,36-50,8,2,3.6,None,Success,N/A
+VM-2020-1661,2020,Lumbar Fusion (Minimally Invasive),18-35,8,1,22.2,None,Success,N/A
+VM-2022-1662,2022,Laminectomy,36-50,8,0,4.0,None,Success,N/A
+VM-2022-1663,2022,Robotic-Assisted Spinal Fusion,18-35,8,0,19.7,None,Success,99.3%
+VM-2024-1664,2024,ACDF,66-80,10,0,5.0,None,Success,N/A
+VM-2025-1665,2025,Lumbar Fusion (Minimally Invasive),18-35,8,0,17.2,None,Success,N/A
+VM-2023-1666,2023,Laminectomy,51-65,9,0,2.8,None,Success,N/A
+VM-2023-1667,2023,Microdiscectomy,51-65,8,0,1.9,None,Success,N/A
+VM-2023-1668,2023,Microdiscectomy,51-65,10,2,1.4,None,Success,N/A
+VM-2022-1669,2022,Lumbar Fusion (Minimally Invasive),18-35,8,0,22.8,None,Success,N/A
+VM-2025-1670,2025,Robotic-Assisted Spinal Fusion,18-35,7,0,25.2,None,Success,99.9%
+VM-2025-1671,2025,Microdiscectomy,51-65,8,2,3.1,None,Success,N/A
+VM-2021-1672,2021,ACDF,36-50,7,1,5.3,None,Success,N/A
+VM-2023-1673,2023,Lumbar Fusion (Minimally Invasive),51-65,9,0,26.6,None,Success,N/A
+VM-2024-1674,2024,ACDF,18-35,9,0,4.9,None,Success,N/A
+VM-2021-1675,2021,Lumbar Fusion (Minimally Invasive),51-65,7,0,25.9,None,Success,N/A
+VM-2025-1676,2025,Microdiscectomy,18-35,8,0,2.3,None,Success,N/A
+VM-2023-1677,2023,Laminectomy,51-65,10,3,3.5,None,Partial Improvement,N/A
+VM-2025-1678,2025,Robotic-Assisted Spinal Fusion,66-80,7,0,21.2,None,Success,99.4%
+VM-2020-1679,2020,Robotic-Assisted Spinal Fusion,51-65,8,0,20.8,None,Success,99.5%
+VM-2022-1680,2022,Laminectomy,36-50,9,0,3.9,None,Success,N/A
+VM-2022-1681,2022,ACDF,66-80,8,2,4.3,None,Success,N/A
+VM-2023-1682,2023,ACDF,80+,9,1,6.1,None,Success,N/A
+VM-2023-1683,2023,ACDF,18-35,8,0,4.4,None,Success,N/A
+VM-2024-1684,2024,ACDF,36-50,9,2,4.4,None,Success,N/A
+VM-2021-1685,2021,Microdiscectomy,36-50,8,2,2.2,None,Success,N/A
+VM-2025-1686,2025,Laminectomy,36-50,10,0,2.9,None,Success,N/A
+VM-2021-1687,2021,Microdiscectomy,51-65,8,0,2.3,None,Success,N/A
+VM-2021-1688,2021,Microdiscectomy,66-80,10,1,2.0,None,Success,N/A
+VM-2025-1689,2025,ACDF,66-80,7,0,4.4,None,Success,N/A
+VM-2024-1690,2024,Microdiscectomy,66-80,8,2,1.6,None,Success,N/A
+VM-2023-1691,2023,Microdiscectomy,51-65,8,1,1.7,None,Success,N/A
+VM-2022-1692,2022,Laminectomy,18-35,7,6,4.2,None,Partial Improvement,N/A
+VM-2024-1693,2024,Lumbar Fusion (Minimally Invasive),51-65,8,1,20.7,None,Success,N/A
+VM-2020-1694,2020,ACDF,51-65,8,0,4.1,None,Success,N/A
+VM-2023-1695,2023,ACDF,51-65,9,0,5.1,None,Success,N/A
+VM-2021-1696,2021,Microdiscectomy,51-65,8,0,1.4,None,Success,N/A
+VM-2026-1697,2026,ACDF,66-80,7,0,4.7,None,Success,N/A
+VM-2020-1698,2020,Microdiscectomy,18-35,9,1,2.4,None,Success,N/A
+VM-2024-1699,2024,ACDF,36-50,8,0,4.4,None,Success,N/A
+VM-2026-1700,2026,Microdiscectomy,36-50,9,0,1.6,None,Success,N/A
+VM-2023-1701,2023,Lumbar Fusion (Minimally Invasive),51-65,7,2,22.7,None,Success,N/A
+VM-2021-1702,2021,Laminectomy,36-50,9,0,3.0,None,Success,N/A
+VM-2021-1703,2021,Laminectomy,36-50,7,0,4.0,None,Success,N/A
+VM-2024-1704,2024,ACDF,51-65,7,2,4.4,None,Success,N/A
+VM-2023-1705,2023,Robotic-Assisted Spinal Fusion,66-80,7,2,29.5,None,Success,99.8%
+VM-2026-1706,2026,ACDF,66-80,7,0,6.3,None,Success,N/A
+VM-2025-1707,2025,Microdiscectomy,51-65,9,2,1.9,None,Success,N/A
+VM-2022-1708,2022,ACDF,51-65,10,1,4.9,None,Success,N/A
+VM-2023-1709,2023,ACDF,36-50,8,0,3.6,None,Success,N/A
+VM-2020-1710,2020,Microdiscectomy,18-35,8,1,2.4,None,Success,N/A
+VM-2024-1711,2024,Lumbar Fusion (Minimally Invasive),66-80,7,2,14.4,None,Success,N/A
+VM-2024-1712,2024,Laminectomy,66-80,8,2,4.7,None,Success,N/A
+VM-2025-1713,2025,Robotic-Assisted Spinal Fusion,66-80,9,1,20.6,None,Success,99.6%
+VM-2024-1714,2024,Microdiscectomy,51-65,9,1,2.3,None,Success,N/A
+VM-2025-1715,2025,Laminectomy,51-65,10,2,4.3,None,Success,N/A
+VM-2025-1716,2025,ACDF,36-50,8,7,5.7,Minor Infection,Complication/Revision,N/A
+VM-2024-1717,2024,Microdiscectomy,51-65,7,0,2.0,None,Success,N/A
+VM-2024-1718,2024,Lumbar Fusion (Minimally Invasive),36-50,10,1,19.2,None,Success,N/A
+VM-2022-1719,2022,Laminectomy,51-65,9,1,4.0,None,Success,N/A
+VM-2025-1720,2025,Microdiscectomy,66-80,9,2,1.8,None,Success,N/A
+VM-2023-1721,2023,ACDF,36-50,10,9,4.5,Hematoma,Complication/Revision,N/A
+VM-2025-1722,2025,Microdiscectomy,66-80,7,2,1.8,None,Success,N/A
+VM-2024-1723,2024,Lumbar Fusion (Minimally Invasive),36-50,10,0,21.1,None,Success,N/A
+VM-2026-1724,2026,ACDF,66-80,8,1,4.2,None,Success,N/A
+VM-2022-1725,2022,Lumbar Fusion (Minimally Invasive),36-50,7,2,21.2,None,Success,N/A
+VM-2021-1726,2021,ACDF,18-35,8,2,4.2,None,Success,N/A
+VM-2022-1727,2022,Microdiscectomy,51-65,10,2,2.2,None,Success,N/A
+VM-2023-1728,2023,Microdiscectomy,36-50,10,2,2.0,None,Success,N/A
+VM-2023-1729,2023,Microdiscectomy,51-65,9,2,1.5,None,Success,N/A
+VM-2026-1730,2026,Lumbar Fusion (Minimally Invasive),36-50,8,1,19.6,None,Success,N/A
+VM-2025-1731,2025,ACDF,66-80,8,2,3.5,None,Success,N/A
+VM-2023-1732,2023,Craniotomy,80+,8,1,35.2,None,Success,N/A
+VM-2025-1733,2025,Laminectomy,80+,10,0,4.9,None,Success,N/A
+VM-2020-1734,2020,ACDF,36-50,9,1,4.0,None,Success,N/A
+VM-2021-1735,2021,Microdiscectomy,36-50,8,2,2.4,None,Success,N/A
+VM-2024-1736,2024,Microdiscectomy,18-35,8,1,2.8,None,Success,N/A
+VM-2021-1737,2021,Microdiscectomy,51-65,10,1,2.3,None,Success,N/A
+VM-2024-1738,2024,ACDF,66-80,9,1,4.3,None,Success,N/A
+VM-2022-1739,2022,Robotic-Assisted Spinal Fusion,18-35,10,1,16.0,None,Success,98.9%
+VM-2020-1740,2020,Craniotomy,36-50,10,2,48.6,None,Success,N/A
+VM-2024-1741,2024,Microdiscectomy,51-65,7,1,2.0,None,Success,N/A
+VM-2024-1742,2024,ACDF,51-65,9,0,4.2,None,Success,N/A
+VM-2025-1743,2025,Laminectomy,51-65,8,2,3.5,None,Success,N/A
+VM-2020-1744,2020,Microdiscectomy,36-50,7,0,2.1,None,Success,N/A
+VM-2021-1745,2021,Laminectomy,66-80,10,1,2.6,None,Success,N/A
+VM-2024-1746,2024,Microdiscectomy,36-50,10,0,2.0,None,Success,N/A
+VM-2025-1747,2025,Robotic-Assisted Spinal Fusion,51-65,7,6,20.4,Hematoma,Complication/Revision,99.5%
+VM-2023-1748,2023,Microdiscectomy,66-80,7,2,2.1,None,Success,N/A
+VM-2025-1749,2025,ACDF,51-65,8,1,3.8,None,Success,N/A
+VM-2025-1750,2025,Laminectomy,66-80,10,1,3.5,None,Success,N/A
+VM-2023-1751,2023,Microdiscectomy,36-50,7,1,1.7,None,Success,N/A
+VM-2024-1752,2024,ACDF,36-50,7,2,4.3,None,Success,N/A
+VM-2023-1753,2023,Robotic-Assisted Spinal Fusion,18-35,10,0,17.5,None,Success,98.7%
+VM-2024-1754,2024,Laminectomy,36-50,8,1,3.8,None,Success,N/A
+VM-2021-1755,2021,ACDF,66-80,9,2,4.6,None,Success,N/A
+VM-2020-1756,2020,ACDF,36-50,9,2,2.8,None,Success,N/A
+VM-2025-1757,2025,Microdiscectomy,51-65,8,1,1.8,None,Success,N/A
+VM-2026-1758,2026,Microdiscectomy,36-50,9,0,3.0,None,Success,N/A
+VM-2023-1759,2023,Laminectomy,36-50,10,1,3.5,None,Success,N/A
+VM-2020-1760,2020,Craniotomy,51-65,9,2,44.4,None,Success,N/A
+VM-2021-1761,2021,Microdiscectomy,51-65,9,0,1.4,None,Success,N/A
+VM-2023-1762,2023,Lumbar Fusion (Minimally Invasive),51-65,9,1,19.0,None,Success,N/A
+VM-2023-1763,2023,Lumbar Fusion (Minimally Invasive),51-65,8,2,14.1,None,Success,N/A
+VM-2022-1764,2022,ACDF,36-50,10,0,4.6,None,Success,N/A
+VM-2023-1765,2023,Microdiscectomy,66-80,8,2,1.8,None,Success,N/A
+VM-2022-1766,2022,ACDF,80+,8,6,3.5,None,Partial Improvement,N/A
+VM-2020-1767,2020,Craniotomy,36-50,7,0,39.9,None,Success,N/A
+VM-2021-1768,2021,Microdiscectomy,51-65,7,1,2.7,None,Success,N/A
+VM-2023-1769,2023,Microdiscectomy,66-80,7,2,2.2,None,Success,N/A
+VM-2023-1770,2023,Robotic-Assisted Spinal Fusion,51-65,8,0,19.3,None,Success,98.9%
+VM-2025-1771,2025,ACDF,36-50,10,1,4.8,None,Success,N/A
+VM-2023-1772,2023,ACDF,18-35,9,2,4.6,None,Success,N/A
+VM-2023-1773,2023,Microdiscectomy,36-50,8,0,2.4,None,Success,N/A
+VM-2022-1774,2022,ACDF,36-50,7,1,6.3,None,Success,N/A
+VM-2023-1775,2023,ACDF,51-65,7,3,5.8,None,Partial Improvement,N/A
+VM-2020-1776,2020,Lumbar Fusion (Minimally Invasive),36-50,9,2,17.4,None,Success,N/A
+VM-2023-1777,2023,Robotic-Assisted Spinal Fusion,51-65,7,2,25.6,None,Success,99.7%
+VM-2024-1778,2024,Laminectomy,36-50,7,2,3.8,None,Success,N/A
+VM-2024-1779,2024,Lumbar Fusion (Minimally Invasive),51-65,7,1,19.2,None,Success,N/A
+VM-2024-1780,2024,Microdiscectomy,51-65,7,0,2.9,None,Success,N/A
+VM-2023-1781,2023,Lumbar Fusion (Minimally Invasive),51-65,7,0,22.7,None,Success,N/A
+VM-2025-1782,2025,Microdiscectomy,80+,7,1,2.4,None,Success,N/A
+VM-2024-1783,2024,Microdiscectomy,51-65,7,1,2.1,None,Success,N/A
+VM-2025-1784,2025,ACDF,36-50,7,1,4.8,None,Success,N/A
+VM-2025-1785,2025,ACDF,51-65,9,0,4.0,None,Success,N/A
+VM-2021-1786,2021,Microdiscectomy,36-50,10,0,2.5,None,Success,N/A
+VM-2025-1787,2025,ACDF,18-35,7,6,4.3,Hematoma,Complication/Revision,N/A
+VM-2020-1788,2020,Lumbar Fusion (Minimally Invasive),51-65,10,1,22.4,None,Success,N/A
+VM-2025-1789,2025,ACDF,36-50,7,1,4.0,None,Success,N/A
+VM-2023-1790,2023,Lumbar Fusion (Minimally Invasive),66-80,9,1,22.5,None,Success,N/A
+VM-2023-1791,2023,Lumbar Fusion (Minimally Invasive),36-50,9,0,25.9,None,Success,N/A
+VM-2023-1792,2023,Microdiscectomy,36-50,10,0,1.5,None,Success,N/A
+VM-2021-1793,2021,Microdiscectomy,36-50,8,0,2.3,None,Success,N/A
+VM-2022-1794,2022,Craniotomy,80+,8,2,54.4,None,Success,N/A
+VM-2024-1795,2024,ACDF,66-80,7,0,4.1,None,Success,N/A
+VM-2023-1796,2023,Laminectomy,36-50,10,2,3.2,None,Success,N/A
+VM-2020-1797,2020,Microdiscectomy,80+,9,0,1.5,None,Success,N/A
+VM-2024-1798,2024,Lumbar Fusion (Minimally Invasive),66-80,9,0,21.1,None,Success,N/A
+VM-2024-1799,2024,ACDF,51-65,7,1,4.4,None,Success,N/A
+VM-2024-1800,2024,Microdiscectomy,36-50,10,0,2.8,None,Success,N/A
+VM-2022-1801,2022,ACDF,51-65,8,0,4.0,None,Success,N/A
+VM-2025-1802,2025,Laminectomy,51-65,10,1,3.0,None,Success,N/A
+VM-2023-1803,2023,Craniotomy,36-50,8,2,46.4,None,Success,N/A
+VM-2021-1804,2021,ACDF,18-35,7,0,4.9,None,Success,N/A
+VM-2022-1805,2022,Robotic-Assisted Spinal Fusion,36-50,8,0,22.9,None,Success,99.2%
+VM-2025-1806,2025,Lumbar Fusion (Minimally Invasive),66-80,7,2,21.2,None,Success,N/A
+VM-2023-1807,2023,Microdiscectomy,18-35,10,1,1.7,None,Success,N/A
+VM-2023-1808,2023,Laminectomy,80+,7,1,3.6,None,Success,N/A
+VM-2021-1809,2021,ACDF,80+,8,0,6.3,None,Success,N/A
+VM-2023-1810,2023,ACDF,36-50,9,0,4.7,None,Success,N/A
+VM-2020-1811,2020,Robotic-Assisted Spinal Fusion,18-35,10,2,22.8,None,Success,98.8%
+VM-2020-1812,2020,ACDF,66-80,7,1,5.2,None,Success,N/A
+VM-2025-1813,2025,Lumbar Fusion (Minimally Invasive),51-65,9,2,20.8,None,Success,N/A
+VM-2024-1814,2024,Robotic-Assisted Spinal Fusion,51-65,9,1,23.2,None,Success,99.6%
+VM-2023-1815,2023,Microdiscectomy,51-65,7,1,2.3,None,Success,N/A
+VM-2025-1816,2025,ACDF,66-80,10,0,6.4,None,Success,N/A
+VM-2025-1817,2025,Laminectomy,51-65,7,2,3.5,None,Success,N/A
+VM-2024-1818,2024,ACDF,51-65,8,2,3.4,None,Success,N/A
+VM-2024-1819,2024,Laminectomy,51-65,10,1,3.5,None,Success,N/A
+VM-2024-1820,2024,Microdiscectomy,36-50,9,2,2.3,None,Success,N/A
+VM-2026-1821,2026,Craniotomy,36-50,9,2,70.1,None,Success,N/A
+VM-2020-1822,2020,Microdiscectomy,51-65,8,0,2.2,None,Success,N/A
+VM-2025-1823,2025,Lumbar Fusion (Minimally Invasive),66-80,8,4,12.4,None,Partial Improvement,N/A
+VM-2022-1824,2022,Lumbar Fusion (Minimally Invasive),51-65,8,2,28.7,None,Success,N/A
+VM-2023-1825,2023,Robotic-Assisted Spinal Fusion,51-65,9,6,21.9,None,Partial Improvement,98.7%
+VM-2024-1826,2024,Microdiscectomy,36-50,8,2,1.5,None,Success,N/A
+VM-2023-1827,2023,Laminectomy,18-35,7,1,2.9,None,Success,N/A
+VM-2024-1828,2024,ACDF,51-65,8,1,3.5,None,Success,N/A
+VM-2025-1829,2025,Microdiscectomy,36-50,8,2,1.5,None,Success,N/A
+VM-2025-1830,2025,ACDF,36-50,7,1,4.7,None,Success,N/A
+VM-2021-1831,2021,ACDF,51-65,9,1,3.5,None,Success,N/A
+VM-2023-1832,2023,Robotic-Assisted Spinal Fusion,18-35,7,1,19.2,None,Success,98.7%
+VM-2025-1833,2025,ACDF,51-65,8,0,4.4,None,Success,N/A
+VM-2025-1834,2025,Laminectomy,66-80,9,1,3.9,None,Success,N/A
+VM-2026-1835,2026,ACDF,51-65,7,5,5.1,None,Partial Improvement,N/A
+VM-2021-1836,2021,Microdiscectomy,18-35,8,2,1.4,None,Success,N/A
+VM-2025-1837,2025,Microdiscectomy,36-50,8,2,2.7,None,Success,N/A
+VM-2025-1838,2025,Microdiscectomy,51-65,9,1,2.5,None,Success,N/A
+VM-2022-1839,2022,Microdiscectomy,36-50,8,2,1.9,None,Success,N/A
+VM-2025-1840,2025,Microdiscectomy,66-80,9,3,1.7,None,Partial Improvement,N/A
+VM-2025-1841,2025,ACDF,36-50,7,2,5.5,None,Success,N/A
+VM-2022-1842,2022,Laminectomy,18-35,8,0,3.3,None,Success,N/A
+VM-2023-1843,2023,Microdiscectomy,51-65,7,2,2.0,None,Success,N/A
+VM-2024-1844,2024,Microdiscectomy,51-65,9,1,2.2,None,Success,N/A
+VM-2022-1845,2022,ACDF,36-50,8,1,5.0,None,Success,N/A
+VM-2020-1846,2020,Laminectomy,36-50,10,2,4.2,None,Success,N/A
+VM-2020-1847,2020,Microdiscectomy,36-50,7,0,2.4,None,Success,N/A
+VM-2023-1848,2023,Lumbar Fusion (Minimally Invasive),66-80,9,1,19.7,None,Success,N/A
+VM-2024-1849,2024,Laminectomy,51-65,9,0,4.7,None,Success,N/A
+VM-2020-1850,2020,Microdiscectomy,51-65,7,1,1.8,None,Success,N/A
+VM-2022-1851,2022,Lumbar Fusion (Minimally Invasive),66-80,8,1,21.5,None,Success,N/A
+VM-2025-1852,2025,Microdiscectomy,36-50,10,2,1.1,None,Success,N/A
+VM-2022-1853,2022,Robotic-Assisted Spinal Fusion,36-50,10,2,20.3,None,Success,98.4%
+VM-2024-1854,2024,Microdiscectomy,66-80,8,0,2.4,None,Success,N/A
+VM-2024-1855,2024,ACDF,36-50,8,0,4.2,None,Success,N/A
+VM-2023-1856,2023,Microdiscectomy,51-65,9,0,2.0,None,Success,N/A
+VM-2020-1857,2020,Robotic-Assisted Spinal Fusion,51-65,10,4,30.5,None,Partial Improvement,98.3%
+VM-2020-1858,2020,ACDF,66-80,9,0,4.4,None,Success,N/A
+VM-2025-1859,2025,Microdiscectomy,36-50,10,0,2.7,None,Success,N/A
+VM-2023-1860,2023,ACDF,51-65,9,0,5.1,None,Success,N/A
+VM-2025-1861,2025,Microdiscectomy,66-80,9,0,1.6,None,Success,N/A
+VM-2021-1862,2021,Microdiscectomy,51-65,10,1,1.5,None,Success,N/A
+VM-2021-1863,2021,ACDF,51-65,8,2,4.0,None,Success,N/A
+VM-2024-1864,2024,Microdiscectomy,36-50,10,2,2.0,None,Success,N/A
+VM-2024-1865,2024,Laminectomy,66-80,10,1,2.6,None,Success,N/A
+VM-2023-1866,2023,Microdiscectomy,18-35,9,2,2.8,None,Success,N/A
+VM-2024-1867,2024,Microdiscectomy,51-65,9,0,1.4,None,Success,N/A
+VM-2020-1868,2020,Lumbar Fusion (Minimally Invasive),36-50,9,0,26.5,None,Success,N/A
+VM-2021-1869,2021,Microdiscectomy,51-65,8,2,2.4,None,Success,N/A
+VM-2023-1870,2023,Laminectomy,51-65,7,0,3.5,None,Success,N/A
+VM-2021-1871,2021,Microdiscectomy,51-65,9,0,2.1,None,Success,N/A
+VM-2024-1872,2024,Microdiscectomy,66-80,10,2,2.1,None,Success,N/A
+VM-2025-1873,2025,ACDF,36-50,8,2,5.5,None,Success,N/A
+VM-2020-1874,2020,ACDF,66-80,10,2,4.0,None,Success,N/A
+VM-2022-1875,2022,Lumbar Fusion (Minimally Invasive),36-50,8,2,22.8,None,Success,N/A
+VM-2022-1876,2022,Microdiscectomy,18-35,8,0,2.0,None,Success,N/A
+VM-2024-1877,2024,Lumbar Fusion (Minimally Invasive),51-65,8,2,13.2,None,Success,N/A
+VM-2025-1878,2025,Laminectomy,36-50,8,0,3.6,None,Success,N/A
+VM-2020-1879,2020,Lumbar Fusion (Minimally Invasive),80+,9,2,27.4,None,Success,N/A
+VM-2022-1880,2022,Lumbar Fusion (Minimally Invasive),18-35,8,0,19.3,None,Success,N/A
+VM-2024-1881,2024,Laminectomy,51-65,10,0,4.3,None,Success,N/A
+VM-2026-1882,2026,Laminectomy,36-50,10,1,3.0,None,Success,N/A
+VM-2025-1883,2025,Lumbar Fusion (Minimally Invasive),66-80,9,0,17.6,None,Success,N/A
+VM-2023-1884,2023,ACDF,80+,10,1,3.8,None,Success,N/A
+VM-2023-1885,2023,Lumbar Fusion (Minimally Invasive),36-50,9,0,26.3,None,Success,N/A
+VM-2023-1886,2023,Microdiscectomy,66-80,7,6,1.8,Dural Tear (Repaired intraop),Complication/Revision,N/A
+VM-2021-1887,2021,Microdiscectomy,36-50,7,1,2.2,None,Success,N/A
+VM-2022-1888,2022,Microdiscectomy,51-65,9,1,1.4,None,Success,N/A
+VM-2021-1889,2021,Microdiscectomy,51-65,9,2,2.2,None,Success,N/A
+VM-2023-1890,2023,Craniotomy,18-35,10,1,50.4,None,Success,N/A
+VM-2025-1891,2025,Lumbar Fusion (Minimally Invasive),51-65,9,0,24.3,None,Success,N/A
+VM-2022-1892,2022,Microdiscectomy,36-50,8,0,1.8,None,Success,N/A
+VM-2022-1893,2022,ACDF,36-50,10,1,3.4,None,Success,N/A
+VM-2022-1894,2022,Laminectomy,51-65,10,2,3.7,None,Success,N/A
+VM-2025-1895,2025,Robotic-Assisted Spinal Fusion,51-65,7,2,20.9,None,Success,100.0%
+VM-2025-1896,2025,ACDF,18-35,8,0,4.5,None,Success,N/A
+VM-2022-1897,2022,Craniotomy,66-80,10,0,74.7,None,Success,N/A
+VM-2024-1898,2024,Lumbar Fusion (Minimally Invasive),66-80,9,1,19.6,None,Success,N/A
+VM-2021-1899,2021,ACDF,51-65,7,0,4.0,None,Success,N/A
+VM-2025-1900,2025,Microdiscectomy,51-65,10,0,1.7,None,Success,N/A
+VM-2025-1901,2025,Lumbar Fusion (Minimally Invasive),18-35,8,1,22.2,None,Success,N/A
+VM-2025-1902,2025,Robotic-Assisted Spinal Fusion,66-80,10,1,22.5,None,Success,99.3%
+VM-2020-1903,2020,Lumbar Fusion (Minimally Invasive),18-35,10,2,17.8,None,Success,N/A
+VM-2023-1904,2023,Microdiscectomy,51-65,9,0,2.1,None,Success,N/A
+VM-2023-1905,2023,Microdiscectomy,18-35,7,0,2.0,None,Success,N/A
+VM-2021-1906,2021,ACDF,36-50,7,1,4.8,None,Success,N/A
+VM-2023-1907,2023,Craniotomy,66-80,7,0,37.6,None,Success,N/A
+VM-2025-1908,2025,ACDF,51-65,10,0,6.8,None,Success,N/A
+VM-2024-1909,2024,Lumbar Fusion (Minimally Invasive),51-65,10,2,21.6,None,Success,N/A
+VM-2025-1910,2025,Laminectomy,51-65,9,1,3.2,None,Success,N/A
+VM-2025-1911,2025,ACDF,51-65,7,2,4.6,None,Success,N/A
+VM-2024-1912,2024,Microdiscectomy,51-65,9,2,1.9,None,Success,N/A
+VM-2022-1913,2022,ACDF,51-65,7,0,3.9,None,Success,N/A
+VM-2021-1914,2021,ACDF,66-80,8,2,3.6,None,Success,N/A
+VM-2021-1915,2021,Craniotomy,51-65,9,6,57.0,None,Partial Improvement,N/A
+VM-2023-1916,2023,ACDF,36-50,9,1,5.3,None,Success,N/A
+VM-2022-1917,2022,Microdiscectomy,51-65,9,1,2.2,None,Success,N/A
+VM-2024-1918,2024,Microdiscectomy,18-35,10,2,1.9,None,Success,N/A
+VM-2020-1919,2020,Laminectomy,66-80,10,2,4.6,None,Success,N/A
+VM-2025-1920,2025,ACDF,51-65,8,2,4.8,None,Success,N/A
+VM-2024-1921,2024,Microdiscectomy,66-80,7,0,2.6,None,Success,N/A
+VM-2025-1922,2025,Laminectomy,51-65,7,0,3.5,None,Success,N/A
+VM-2022-1923,2022,Microdiscectomy,36-50,10,4,1.8,None,Partial Improvement,N/A
+VM-2023-1924,2023,ACDF,51-65,9,1,2.6,None,Success,N/A
+VM-2026-1925,2026,Microdiscectomy,66-80,8,2,1.6,None,Success,N/A
+VM-2024-1926,2024,Craniotomy,51-65,7,2,37.4,None,Success,N/A
+VM-2023-1927,2023,Microdiscectomy,51-65,8,0,1.4,None,Success,N/A
+VM-2021-1928,2021,ACDF,36-50,8,1,5.8,None,Success,N/A
+VM-2020-1929,2020,Laminectomy,51-65,10,0,1.6,None,Success,N/A
+VM-2023-1930,2023,Craniotomy,18-35,7,0,42.6,None,Success,N/A
+VM-2025-1931,2025,Laminectomy,51-65,8,2,3.7,None,Success,N/A
+VM-2022-1932,2022,Microdiscectomy,51-65,10,4,1.8,None,Partial Improvement,N/A
+VM-2025-1933,2025,Lumbar Fusion (Minimally Invasive),36-50,8,0,28.6,None,Success,N/A
+VM-2022-1934,2022,ACDF,51-65,7,2,4.1,None,Success,N/A
+VM-2022-1935,2022,Microdiscectomy,51-65,8,0,2.2,None,Success,N/A
+VM-2024-1936,2024,Microdiscectomy,51-65,9,0,1.5,None,Success,N/A
+VM-2025-1937,2025,Microdiscectomy,36-50,7,1,2.2,None,Success,N/A
+VM-2021-1938,2021,Craniotomy,51-65,7,0,37.9,None,Success,N/A
+VM-2023-1939,2023,Lumbar Fusion (Minimally Invasive),51-65,7,2,26.4,None,Success,N/A
+VM-2022-1940,2022,Microdiscectomy,36-50,7,0,1.9,None,Success,N/A
+VM-2024-1941,2024,Lumbar Fusion (Minimally Invasive),51-65,10,1,19.3,None,Success,N/A
+VM-2025-1942,2025,ACDF,18-35,7,1,3.4,None,Success,N/A
+VM-2022-1943,2022,Lumbar Fusion (Minimally Invasive),36-50,9,0,18.8,None,Success,N/A
+VM-2024-1944,2024,Microdiscectomy,51-65,10,0,2.7,None,Success,N/A
+VM-2024-1945,2024,Laminectomy,36-50,8,0,3.3,None,Success,N/A
+VM-2026-1946,2026,ACDF,51-65,9,1,3.5,None,Success,N/A
+VM-2024-1947,2024,Laminectomy,66-80,10,1,3.8,None,Success,N/A
+VM-2022-1948,2022,Lumbar Fusion (Minimally Invasive),66-80,9,0,29.9,None,Success,N/A
+VM-2023-1949,2023,ACDF,36-50,7,0,5.2,None,Success,N/A
+VM-2025-1950,2025,Lumbar Fusion (Minimally Invasive),66-80,8,2,22.1,None,Success,N/A
+VM-2021-1951,2021,ACDF,18-35,9,1,4.4,None,Success,N/A
+VM-2023-1952,2023,Lumbar Fusion (Minimally Invasive),18-35,9,1,20.3,None,Success,N/A
+VM-2022-1953,2022,Microdiscectomy,36-50,10,5,2.2,None,Partial Improvement,N/A
+VM-2024-1954,2024,ACDF,51-65,9,2,6.4,None,Success,N/A
+VM-2023-1955,2023,Microdiscectomy,51-65,9,1,2.2,None,Success,N/A
+VM-2023-1956,2023,ACDF,51-65,8,2,4.5,None,Success,N/A
+VM-2023-1957,2023,Laminectomy,36-50,7,0,2.6,None,Success,N/A
+VM-2025-1958,2025,ACDF,18-35,8,0,4.5,None,Success,N/A
+VM-2025-1959,2025,ACDF,51-65,8,2,4.8,None,Success,N/A
+VM-2022-1960,2022,ACDF,66-80,10,0,4.6,None,Success,N/A
+VM-2025-1961,2025,ACDF,36-50,7,0,5.2,None,Success,N/A
+VM-2024-1962,2024,Microdiscectomy,36-50,10,3,2.3,None,Partial Improvement,N/A
+VM-2024-1963,2024,Lumbar Fusion (Minimally Invasive),18-35,7,0,27.7,None,Success,N/A
+VM-2020-1964,2020,Lumbar Fusion (Minimally Invasive),51-65,9,0,21.6,None,Success,N/A
+VM-2024-1965,2024,Microdiscectomy,51-65,8,1,2.3,None,Success,N/A
+VM-2020-1966,2020,ACDF,51-65,9,1,3.2,None,Success,N/A
+VM-2023-1967,2023,Microdiscectomy,66-80,7,6,2.0,None,Partial Improvement,N/A
+VM-2023-1968,2023,Microdiscectomy,66-80,8,1,2.2,None,Success,N/A
+VM-2024-1969,2024,Microdiscectomy,36-50,7,0,2.0,None,Success,N/A
+VM-2020-1970,2020,Laminectomy,66-80,9,1,3.5,None,Success,N/A
+VM-2025-1971,2025,Microdiscectomy,18-35,10,0,1.9,None,Success,N/A
+VM-2024-1972,2024,ACDF,36-50,7,0,4.7,None,Success,N/A
+VM-2025-1973,2025,Laminectomy,18-35,8,2,5.0,None,Success,N/A
+VM-2025-1974,2025,ACDF,36-50,8,0,4.5,None,Success,N/A
+VM-2023-1975,2023,Microdiscectomy,18-35,7,0,1.3,None,Success,N/A
+VM-2025-1976,2025,ACDF,51-65,8,2,5.3,None,Success,N/A
+VM-2020-1977,2020,ACDF,66-80,8,1,5.2,None,Success,N/A
+VM-2022-1978,2022,Lumbar Fusion (Minimally Invasive),51-65,8,0,24.3,None,Success,N/A
+VM-2021-1979,2021,Microdiscectomy,36-50,10,2,1.9,None,Success,N/A
+VM-2021-1980,2021,ACDF,36-50,7,0,4.5,None,Success,N/A
+VM-2024-1981,2024,Microdiscectomy,51-65,10,2,1.8,None,Success,N/A
+VM-2025-1982,2025,Microdiscectomy,51-65,7,1,2.2,None,Success,N/A
+VM-2024-1983,2024,Lumbar Fusion (Minimally Invasive),36-50,9,0,23.3,None,Success,N/A
+VM-2023-1984,2023,Microdiscectomy,36-50,8,0,1.6,None,Success,N/A
+VM-2026-1985,2026,Laminectomy,51-65,9,0,3.6,None,Success,N/A
+VM-2024-1986,2024,Microdiscectomy,66-80,10,0,2.4,None,Success,N/A
+VM-2025-1987,2025,Microdiscectomy,18-35,7,2,2.0,None,Success,N/A
+VM-2025-1988,2025,Microdiscectomy,51-65,10,2,2.0,None,Success,N/A
+VM-2021-1989,2021,Lumbar Fusion (Minimally Invasive),51-65,10,0,17.8,None,Success,N/A
+VM-2024-1990,2024,Laminectomy,36-50,8,2,4.3,None,Success,N/A
+VM-2024-1991,2024,Microdiscectomy,36-50,10,2,2.5,None,Success,N/A
+VM-2023-1992,2023,ACDF,18-35,10,1,5.3,None,Success,N/A
+VM-2025-1993,2025,ACDF,66-80,8,2,4.0,None,Success,N/A
+VM-2025-1994,2025,Microdiscectomy,51-65,9,2,1.8,None,Success,N/A
+VM-2025-1995,2025,Microdiscectomy,51-65,8,0,1.8,None,Success,N/A
+VM-2023-1996,2023,Robotic-Assisted Spinal Fusion,36-50,10,0,20.8,None,Success,100.0%
+VM-2020-1997,2020,ACDF,18-35,8,0,4.3,None,Success,N/A
+VM-2025-1998,2025,Lumbar Fusion (Minimally Invasive),36-50,10,0,22.4,None,Success,N/A
+VM-2025-1999,2025,Laminectomy,36-50,10,0,2.8,None,Success,N/A
+VM-2023-2000,2023,ACDF,36-50,8,1,3.6,None,Success,N/A
+VM-2021-2001,2021,ACDF,36-50,7,0,4.6,None,Success,N/A
+VM-2021-2002,2021,Lumbar Fusion (Minimally Invasive),51-65,7,1,22.1,None,Success,N/A
+VM-2025-2003,2025,Microdiscectomy,36-50,10,1,2.3,None,Success,N/A
+VM-2025-2004,2025,Microdiscectomy,51-65,10,0,1.3,None,Success,N/A
+VM-2020-2005,2020,Lumbar Fusion (Minimally Invasive),18-35,10,2,21.5,None,Success,N/A
+VM-2022-2006,2022,Microdiscectomy,51-65,7,2,1.9,None,Success,N/A
+VM-2021-2007,2021,Laminectomy,66-80,8,1,3.9,None,Success,N/A
+VM-2023-2008,2023,ACDF,51-65,7,2,4.1,None,Success,N/A
+VM-2025-2009,2025,Laminectomy,51-65,10,0,3.8,None,Success,N/A
+VM-2024-2010,2024,Microdiscectomy,51-65,9,0,2.5,None,Success,N/A
+VM-2024-2011,2024,Robotic-Assisted Spinal Fusion,51-65,10,9,14.5,Hematoma,Complication/Revision,99.8%
+VM-2025-2012,2025,Microdiscectomy,36-50,7,0,2.4,None,Success,N/A
+VM-2023-2013,2023,ACDF,51-65,10,0,5.7,None,Success,N/A
+VM-2023-2014,2023,Microdiscectomy,51-65,10,0,2.5,None,Success,N/A
+VM-2022-2015,2022,Lumbar Fusion (Minimally Invasive),51-65,10,0,24.0,None,Success,N/A
+VM-2020-2016,2020,ACDF,51-65,8,1,3.6,None,Success,N/A
+VM-2022-2017,2022,Lumbar Fusion (Minimally Invasive),66-80,8,2,25.1,None,Success,N/A
+VM-2020-2018,2020,ACDF,51-65,8,1,5.3,None,Success,N/A
+VM-2024-2019,2024,Laminectomy,51-65,9,2,4.0,None,Success,N/A
+VM-2023-2020,2023,Microdiscectomy,18-35,8,6,1.5,None,Partial Improvement,N/A
+VM-2026-2021,2026,Lumbar Fusion (Minimally Invasive),18-35,8,0,27.1,None,Success,N/A
+VM-2022-2022,2022,Microdiscectomy,51-65,7,0,2.5,None,Success,N/A
+VM-2020-2023,2020,Lumbar Fusion (Minimally Invasive),36-50,10,0,20.4,None,Success,N/A
+VM-2023-2024,2023,ACDF,36-50,8,1,4.8,None,Success,N/A
+VM-2023-2025,2023,ACDF,18-35,10,1,5.0,None,Success,N/A
+VM-2023-2026,2023,Lumbar Fusion (Minimally Invasive),51-65,9,1,25.6,None,Success,N/A
+VM-2023-2027,2023,Laminectomy,18-35,9,2,4.1,None,Success,N/A
+VM-2025-2028,2025,Microdiscectomy,51-65,10,2,2.5,None,Success,N/A
+VM-2023-2029,2023,Laminectomy,36-50,10,2,4.1,None,Success,N/A
+VM-2020-2030,2020,Lumbar Fusion (Minimally Invasive),51-65,10,0,23.9,None,Success,N/A
+VM-2025-2031,2025,Lumbar Fusion (Minimally Invasive),36-50,9,1,30.3,None,Success,N/A
+VM-2023-2032,2023,Lumbar Fusion (Minimally Invasive),51-65,9,0,19.8,None,Success,N/A
+VM-2023-2033,2023,ACDF,51-65,8,1,5.2,None,Success,N/A
+VM-2020-2034,2020,Microdiscectomy,36-50,8,1,2.4,None,Success,N/A
+VM-2026-2035,2026,Laminectomy,36-50,7,1,3.7,None,Success,N/A
+VM-2026-2036,2026,Microdiscectomy,66-80,10,1,3.0,None,Success,N/A
+VM-2022-2037,2022,Robotic-Assisted Spinal Fusion,36-50,7,2,16.1,None,Success,98.7%
+VM-2023-2038,2023,ACDF,18-35,7,1,5.3,None,Success,N/A
+VM-2020-2039,2020,ACDF,51-65,7,1,3.9,None,Success,N/A
+VM-2022-2040,2022,Microdiscectomy,36-50,10,0,3.0,None,Success,N/A
+VM-2023-2041,2023,Lumbar Fusion (Minimally Invasive),18-35,9,1,14.3,None,Success,N/A
+VM-2023-2042,2023,Microdiscectomy,36-50,10,0,2.6,None,Success,N/A
+VM-2023-2043,2023,ACDF,18-35,9,2,4.0,None,Success,N/A
+VM-2025-2044,2025,Microdiscectomy,36-50,9,0,2.5,None,Success,N/A
+VM-2020-2045,2020,Lumbar Fusion (Minimally Invasive),66-80,9,2,20.1,None,Success,N/A
+VM-2021-2046,2021,Robotic-Assisted Spinal Fusion,51-65,10,2,18.4,None,Success,99.9%
+VM-2020-2047,2020,Laminectomy,36-50,7,2,3.4,None,Success,N/A
+VM-2022-2048,2022,ACDF,51-65,10,1,4.8,None,Success,N/A
+VM-2022-2049,2022,Lumbar Fusion (Minimally Invasive),51-65,8,2,17.9,None,Success,N/A
+VM-2020-2050,2020,Laminectomy,51-65,8,1,3.8,None,Success,N/A
+VM-2021-2051,2021,ACDF,80+,7,1,3.4,None,Success,N/A
+VM-2023-2052,2023,ACDF,51-65,7,2,4.7,None,Success,N/A
+VM-2023-2053,2023,Lumbar Fusion (Minimally Invasive),51-65,7,0,21.0,None,Success,N/A
+VM-2026-2054,2026,Microdiscectomy,66-80,9,2,2.4,None,Success,N/A
+VM-2026-2055,2026,Lumbar Fusion (Minimally Invasive),51-65,7,1,17.7,None,Success,N/A
+VM-2022-2056,2022,Microdiscectomy,36-50,10,0,2.2,None,Success,N/A
+VM-2023-2057,2023,Laminectomy,51-65,9,0,3.3,None,Success,N/A
+VM-2026-2058,2026,Microdiscectomy,51-65,9,2,1.8,None,Success,N/A
+VM-2022-2059,2022,ACDF,36-50,10,4,5.2,None,Partial Improvement,N/A
+VM-2024-2060,2024,ACDF,66-80,10,0,5.8,None,Success,N/A
+VM-2025-2061,2025,Microdiscectomy,66-80,7,1,2.0,None,Success,N/A
+VM-2022-2062,2022,Laminectomy,51-65,9,2,3.4,None,Success,N/A
+VM-2024-2063,2024,Microdiscectomy,18-35,10,2,2.1,None,Success,N/A
+VM-2023-2064,2023,Microdiscectomy,51-65,8,0,2.1,None,Success,N/A
+VM-2020-2065,2020,ACDF,51-65,8,1,3.6,None,Success,N/A
+VM-2026-2066,2026,ACDF,51-65,10,0,3.4,None,Success,N/A
+VM-2021-2067,2021,Laminectomy,36-50,8,0,3.6,None,Success,N/A
+VM-2020-2068,2020,ACDF,51-65,9,0,5.1,None,Success,N/A
+VM-2025-2069,2025,Lumbar Fusion (Minimally Invasive),36-50,7,1,15.6,None,Success,N/A
+VM-2022-2070,2022,Microdiscectomy,36-50,8,2,2.2,None,Success,N/A
+VM-2026-2071,2026,Microdiscectomy,36-50,8,0,2.4,None,Success,N/A
+VM-2020-2072,2020,Lumbar Fusion (Minimally Invasive),18-35,7,1,30.4,None,Success,N/A
+VM-2021-2073,2021,ACDF,51-65,10,2,5.1,None,Success,N/A
+VM-2024-2074,2024,Lumbar Fusion (Minimally Invasive),66-80,8,0,25.3,None,Success,N/A
+VM-2023-2075,2023,Laminectomy,66-80,8,1,2.2,None,Success,N/A
+VM-2025-2076,2025,Microdiscectomy,80+,10,0,2.2,None,Success,N/A
+VM-2024-2077,2024,Microdiscectomy,66-80,10,2,1.8,None,Success,N/A
+VM-2025-2078,2025,ACDF,18-35,7,0,4.6,None,Success,N/A
+VM-2022-2079,2022,ACDF,51-65,10,6,3.5,None,Partial Improvement,N/A
+VM-2022-2080,2022,Craniotomy,36-50,9,2,42.8,None,Success,N/A
+VM-2024-2081,2024,ACDF,36-50,10,2,5.6,None,Success,N/A
+VM-2020-2082,2020,Laminectomy,36-50,8,2,2.9,None,Success,N/A
+VM-2020-2083,2020,ACDF,36-50,7,2,5.5,None,Success,N/A
+VM-2021-2084,2021,ACDF,51-65,10,5,4.1,None,Partial Improvement,N/A
+VM-2023-2085,2023,Microdiscectomy,36-50,10,2,2.1,None,Success,N/A
+VM-2022-2086,2022,Microdiscectomy,36-50,10,1,2.4,None,Success,N/A
+VM-2026-2087,2026,ACDF,51-65,10,2,4.6,None,Success,N/A
+VM-2020-2088,2020,ACDF,51-65,8,1,4.8,None,Success,N/A
+VM-2025-2089,2025,Laminectomy,51-65,7,2,4.1,None,Success,N/A
+VM-2025-2090,2025,ACDF,80+,8,0,4.9,None,Success,N/A
+VM-2023-2091,2023,Lumbar Fusion (Minimally Invasive),36-50,8,2,21.5,None,Success,N/A
+VM-2022-2092,2022,ACDF,51-65,10,2,4.7,None,Success,N/A
+VM-2025-2093,2025,ACDF,36-50,8,2,4.3,None,Success,N/A
+VM-2021-2094,2021,Microdiscectomy,51-65,9,1,2.0,None,Success,N/A
+VM-2022-2095,2022,Laminectomy,80+,10,1,3.6,None,Success,N/A
+VM-2026-2096,2026,Lumbar Fusion (Minimally Invasive),51-65,9,2,19.8,None,Success,N/A
+VM-2024-2097,2024,Lumbar Fusion (Minimally Invasive),51-65,10,3,23.9,None,Partial Improvement,N/A
+VM-2025-2098,2025,Lumbar Fusion (Minimally Invasive),36-50,10,0,23.6,None,Success,N/A
+VM-2024-2099,2024,ACDF,51-65,10,1,3.7,None,Success,N/A
+VM-2021-2100,2021,Lumbar Fusion (Minimally Invasive),36-50,7,1,26.2,None,Success,N/A
+VM-2023-2101,2023,Lumbar Fusion (Minimally Invasive),66-80,10,2,25.6,None,Success,N/A
+VM-2021-2102,2021,Microdiscectomy,51-65,7,0,2.0,None,Success,N/A
+VM-2023-2103,2023,Microdiscectomy,51-65,7,2,1.6,None,Success,N/A
+VM-2021-2104,2021,Lumbar Fusion (Minimally Invasive),51-65,10,2,14.9,None,Success,N/A
+VM-2026-2105,2026,Laminectomy,80+,8,0,3.1,None,Success,N/A
+VM-2024-2106,2024,Microdiscectomy,51-65,9,2,2.4,None,Success,N/A
+VM-2020-2107,2020,Microdiscectomy,18-35,7,1,2.2,None,Success,N/A
+VM-2020-2108,2020,Laminectomy,51-65,8,0,3.2,None,Success,N/A
+VM-2024-2109,2024,Lumbar Fusion (Minimally Invasive),51-65,7,0,19.7,None,Success,N/A
+VM-2023-2110,2023,Laminectomy,36-50,8,2,3.7,None,Success,N/A
+VM-2022-2111,2022,Microdiscectomy,51-65,10,0,2.5,None,Success,N/A
+VM-2024-2112,2024,Microdiscectomy,66-80,9,0,2.9,None,Success,N/A
+VM-2021-2113,2021,Microdiscectomy,51-65,10,1,2.0,None,Success,N/A
+VM-2023-2114,2023,Lumbar Fusion (Minimally Invasive),51-65,7,0,20.6,None,Success,N/A
+VM-2020-2115,2020,ACDF,18-35,8,0,4.0,None,Success,N/A
+VM-2021-2116,2021,ACDF,51-65,7,1,5.0,None,Success,N/A
+VM-2026-2117,2026,Microdiscectomy,51-65,8,0,2.3,None,Success,N/A
+VM-2025-2118,2025,ACDF,51-65,7,1,4.5,None,Success,N/A
+VM-2021-2119,2021,ACDF,66-80,9,3,3.4,None,Partial Improvement,N/A
+VM-2022-2120,2022,Lumbar Fusion (Minimally Invasive),66-80,8,2,25.5,None,Success,N/A
+VM-2025-2121,2025,Laminectomy,36-50,10,2,2.6,None,Success,N/A
+VM-2022-2122,2022,Microdiscectomy,51-65,7,2,2.5,None,Success,N/A
+VM-2020-2123,2020,Microdiscectomy,36-50,8,1,2.4,None,Success,N/A
+VM-2022-2124,2022,Robotic-Assisted Spinal Fusion,36-50,10,0,23.0,None,Success,99.4%
+VM-2024-2125,2024,Microdiscectomy,36-50,7,1,2.4,None,Success,N/A
+VM-2022-2126,2022,ACDF,18-35,10,2,6.2,None,Success,N/A
+VM-2023-2127,2023,Microdiscectomy,36-50,9,0,1.8,None,Success,N/A
+VM-2023-2128,2023,Craniotomy,51-65,7,2,39.0,None,Success,N/A
+VM-2024-2129,2024,ACDF,51-65,10,1,3.9,None,Success,N/A
+VM-2021-2130,2021,Laminectomy,18-35,9,2,2.5,None,Success,N/A
+VM-2024-2131,2024,Microdiscectomy,80+,10,0,2.8,None,Success,N/A
+VM-2021-2132,2021,Lumbar Fusion (Minimally Invasive),51-65,7,2,14.9,None,Success,N/A
+VM-2020-2133,2020,Robotic-Assisted Spinal Fusion,36-50,7,6,22.3,None,Partial Improvement,99.1%
+VM-2025-2134,2025,Microdiscectomy,80+,7,1,1.7,None,Success,N/A
+VM-2025-2135,2025,ACDF,36-50,8,0,4.1,None,Success,N/A
+VM-2024-2136,2024,Lumbar Fusion (Minimally Invasive),66-80,8,0,22.1,None,Success,N/A
+VM-2023-2137,2023,ACDF,80+,8,1,4.3,None,Success,N/A
+VM-2024-2138,2024,Robotic-Assisted Spinal Fusion,66-80,10,1,15.7,None,Success,98.7%
+VM-2020-2139,2020,Microdiscectomy,36-50,10,1,2.1,None,Success,N/A
+VM-2020-2140,2020,Microdiscectomy,36-50,9,2,2.4,None,Success,N/A
+VM-2020-2141,2020,Robotic-Assisted Spinal Fusion,51-65,7,1,22.2,None,Success,98.1%
+VM-2022-2142,2022,ACDF,66-80,8,2,4.0,None,Success,N/A
+VM-2025-2143,2025,Microdiscectomy,36-50,8,2,2.3,None,Success,N/A
+VM-2025-2144,2025,Laminectomy,51-65,10,1,3.4,None,Success,N/A
+VM-2023-2145,2023,ACDF,51-65,9,2,5.0,None,Success,N/A
+VM-2021-2146,2021,ACDF,51-65,9,2,5.0,None,Success,N/A
+VM-2020-2147,2020,Lumbar Fusion (Minimally Invasive),36-50,8,2,20.4,None,Success,N/A
+VM-2024-2148,2024,Lumbar Fusion (Minimally Invasive),18-35,7,1,21.6,None,Success,N/A
+VM-2023-2149,2023,Lumbar Fusion (Minimally Invasive),36-50,7,0,19.5,None,Success,N/A
+VM-2025-2150,2025,Microdiscectomy,18-35,9,1,2.2,None,Success,N/A
+VM-2021-2151,2021,Laminectomy,51-65,10,2,4.0,None,Success,N/A
+VM-2024-2152,2024,Microdiscectomy,36-50,8,0,1.9,None,Success,N/A
+VM-2023-2153,2023,ACDF,51-65,7,0,2.6,None,Success,N/A
+VM-2021-2154,2021,ACDF,36-50,7,2,5.1,None,Success,N/A
+VM-2023-2155,2023,Craniotomy,51-65,10,0,53.0,None,Success,N/A
+VM-2025-2156,2025,Microdiscectomy,51-65,10,2,2.1,None,Success,N/A
+VM-2025-2157,2025,Microdiscectomy,51-65,7,2,1.3,None,Success,N/A
+VM-2020-2158,2020,ACDF,51-65,8,0,4.6,None,Success,N/A
+VM-2022-2159,2022,ACDF,36-50,7,2,6.2,None,Success,N/A
+VM-2023-2160,2023,ACDF,36-50,8,0,3.7,None,Success,N/A
+VM-2020-2161,2020,ACDF,36-50,10,0,5.4,None,Success,N/A
+VM-2021-2162,2021,ACDF,36-50,7,4,4.8,None,Partial Improvement,N/A
+VM-2023-2163,2023,Microdiscectomy,36-50,10,0,1.8,None,Success,N/A
+VM-2023-2164,2023,Lumbar Fusion (Minimally Invasive),51-65,8,0,25.2,None,Success,N/A
+VM-2025-2165,2025,Lumbar Fusion (Minimally Invasive),36-50,9,2,28.3,None,Success,N/A
+VM-2024-2166,2024,ACDF,18-35,9,2,3.7,None,Success,N/A
+VM-2024-2167,2024,Microdiscectomy,66-80,9,5,2.7,None,Partial Improvement,N/A
+VM-2025-2168,2025,ACDF,51-65,10,0,5.1,None,Success,N/A
+VM-2022-2169,2022,Lumbar Fusion (Minimally Invasive),36-50,8,1,25.7,None,Success,N/A
+VM-2021-2170,2021,Lumbar Fusion (Minimally Invasive),66-80,9,6,23.6,None,Partial Improvement,N/A
+VM-2022-2171,2022,Microdiscectomy,51-65,7,0,2.0,None,Success,N/A
+VM-2021-2172,2021,ACDF,36-50,7,2,4.2,None,Success,N/A
+VM-2023-2173,2023,ACDF,51-65,8,1,4.9,None,Success,N/A
+VM-2023-2174,2023,Microdiscectomy,51-65,7,1,2.7,None,Success,N/A
+VM-2021-2175,2021,Laminectomy,51-65,9,2,3.7,None,Success,N/A
+VM-2021-2176,2021,Lumbar Fusion (Minimally Invasive),80+,7,1,24.8,None,Success,N/A
+VM-2023-2177,2023,Microdiscectomy,36-50,10,1,2.2,None,Success,N/A
+VM-2023-2178,2023,Microdiscectomy,18-35,10,4,2.7,None,Partial Improvement,N/A
+VM-2023-2179,2023,Microdiscectomy,51-65,7,0,2.2,None,Success,N/A
+VM-2024-2180,2024,ACDF,51-65,7,2,4.2,None,Success,N/A
+VM-2024-2181,2024,Microdiscectomy,51-65,7,1,1.5,None,Success,N/A
+VM-2023-2182,2023,Laminectomy,51-65,7,2,3.7,None,Success,N/A
+VM-2020-2183,2020,Lumbar Fusion (Minimally Invasive),51-65,7,1,23.0,None,Success,N/A
+VM-2021-2184,2021,Microdiscectomy,36-50,9,1,2.6,None,Success,N/A
+VM-2020-2185,2020,Microdiscectomy,66-80,10,0,1.9,None,Success,N/A
+VM-2025-2186,2025,Lumbar Fusion (Minimally Invasive),36-50,10,0,23.1,None,Success,N/A
+VM-2021-2187,2021,Microdiscectomy,66-80,7,2,2.1,None,Success,N/A
+VM-2021-2188,2021,Robotic-Assisted Spinal Fusion,66-80,9,0,26.6,None,Success,98.6%
+VM-2023-2189,2023,Microdiscectomy,36-50,8,2,1.8,None,Success,N/A
+VM-2020-2190,2020,Laminectomy,36-50,7,2,3.6,None,Success,N/A
+VM-2020-2191,2020,Lumbar Fusion (Minimally Invasive),51-65,7,2,24.2,None,Success,N/A
+VM-2022-2192,2022,Microdiscectomy,51-65,10,1,2.5,None,Success,N/A
+VM-2021-2193,2021,ACDF,36-50,8,2,4.9,None,Success,N/A
+VM-2026-2194,2026,Laminectomy,18-35,10,2,4.0,None,Success,N/A
+VM-2025-2195,2025,Craniotomy,51-65,10,1,29.8,None,Success,N/A
+VM-2020-2196,2020,ACDF,36-50,8,0,3.3,None,Success,N/A
+VM-2021-2197,2021,Microdiscectomy,36-50,9,0,2.3,None,Success,N/A
+VM-2024-2198,2024,ACDF,51-65,9,2,3.7,None,Success,N/A
+VM-2023-2199,2023,Lumbar Fusion (Minimally Invasive),18-35,7,1,32.9,None,Success,N/A
+VM-2023-2200,2023,Microdiscectomy,18-35,8,0,2.7,None,Success,N/A
+VM-2020-2201,2020,Robotic-Assisted Spinal Fusion,36-50,10,2,19.7,None,Success,98.6%
+VM-2026-2202,2026,Lumbar Fusion (Minimally Invasive),51-65,10,1,31.6,None,Success,N/A
+VM-2024-2203,2024,Microdiscectomy,51-65,7,0,2.0,None,Success,N/A
+VM-2021-2204,2021,Microdiscectomy,36-50,7,1,1.1,None,Success,N/A
+VM-2025-2205,2025,Craniotomy,36-50,7,0,45.2,None,Success,N/A
+VM-2025-2206,2025,ACDF,51-65,7,1,4.3,None,Success,N/A
+VM-2024-2207,2024,ACDF,36-50,8,2,4.1,None,Success,N/A
+VM-2025-2208,2025,Microdiscectomy,66-80,9,1,2.3,None,Success,N/A
+VM-2025-2209,2025,Lumbar Fusion (Minimally Invasive),51-65,8,0,19.6,None,Success,N/A
+VM-2023-2210,2023,Microdiscectomy,36-50,8,7,2.2,Dural Tear (Repaired intraop),Complication/Revision,N/A
+VM-2024-2211,2024,ACDF,51-65,7,0,4.7,None,Success,N/A
+VM-2025-2212,2025,Craniotomy,66-80,9,0,46.9,None,Success,N/A
+VM-2025-2213,2025,ACDF,51-65,9,2,5.5,None,Success,N/A
+VM-2025-2214,2025,Microdiscectomy,36-50,8,1,2.7,None,Success,N/A
+VM-2025-2215,2025,Lumbar Fusion (Minimally Invasive),51-65,10,1,24.8,None,Success,N/A
+VM-2020-2216,2020,Microdiscectomy,66-80,9,1,2.0,None,Success,N/A
+VM-2023-2217,2023,Robotic-Assisted Spinal Fusion,36-50,8,1,25.7,None,Success,99.9%
+VM-2025-2218,2025,Laminectomy,36-50,8,2,3.0,None,Success,N/A
+VM-2023-2219,2023,ACDF,36-50,9,1,4.1,None,Success,N/A
+VM-2025-2220,2025,ACDF,36-50,10,2,4.5,None,Success,N/A
+VM-2022-2221,2022,ACDF,18-35,10,1,4.8,None,Success,N/A
+VM-2025-2222,2025,ACDF,66-80,7,2,5.9,None,Success,N/A
+VM-2020-2223,2020,Laminectomy,51-65,9,1,3.0,None,Success,N/A
+VM-2022-2224,2022,Lumbar Fusion (Minimally Invasive),51-65,10,1,27.8,None,Success,N/A
+VM-2023-2225,2023,Lumbar Fusion (Minimally Invasive),66-80,10,2,18.3,None,Success,N/A
+VM-2021-2226,2021,ACDF,66-80,10,0,5.1,None,Success,N/A
+VM-2024-2227,2024,Laminectomy,51-65,10,1,3.4,None,Success,N/A
+VM-2020-2228,2020,Laminectomy,66-80,8,2,4.7,None,Success,N/A
+VM-2025-2229,2025,Microdiscectomy,36-50,8,2,2.5,None,Success,N/A
+VM-2024-2230,2024,Laminectomy,36-50,9,0,3.1,None,Success,N/A
+VM-2025-2231,2025,Microdiscectomy,51-65,10,2,1.8,None,Success,N/A
+VM-2021-2232,2021,Laminectomy,36-50,8,3,2.5,None,Partial Improvement,N/A
+VM-2020-2233,2020,ACDF,66-80,8,2,3.9,None,Success,N/A
+VM-2023-2234,2023,Microdiscectomy,18-35,10,0,1.5,None,Success,N/A
+VM-2024-2235,2024,ACDF,36-50,9,0,4.7,None,Success,N/A
+VM-2022-2236,2022,Laminectomy,51-65,8,0,2.8,None,Success,N/A
+VM-2020-2237,2020,ACDF,51-65,9,2,4.4,None,Success,N/A
+VM-2021-2238,2021,Microdiscectomy,51-65,7,1,2.1,None,Success,N/A
+VM-2023-2239,2023,Microdiscectomy,36-50,8,0,1.6,None,Success,N/A
+VM-2025-2240,2025,ACDF,36-50,7,0,5.2,None,Success,N/A
+VM-2025-2241,2025,ACDF,66-80,9,0,3.3,None,Success,N/A
+VM-2023-2242,2023,Lumbar Fusion (Minimally Invasive),18-35,9,2,24.9,None,Success,N/A
+VM-2023-2243,2023,Microdiscectomy,36-50,9,0,2.0,None,Success,N/A
+VM-2025-2244,2025,ACDF,18-35,8,5,3.2,None,Partial Improvement,N/A
+VM-2020-2245,2020,ACDF,36-50,9,1,3.7,None,Success,N/A
+VM-2020-2246,2020,ACDF,36-50,8,0,4.6,None,Success,N/A
+VM-2025-2247,2025,Microdiscectomy,18-35,10,0,1.9,None,Success,N/A
+VM-2020-2248,2020,Laminectomy,66-80,10,1,4.4,None,Success,N/A
+VM-2024-2249,2024,Microdiscectomy,36-50,7,6,2.3,Minor Infection,Complication/Revision,N/A
+VM-2022-2250,2022,ACDF,51-65,10,1,3.4,None,Success,N/A
+VM-2023-2251,2023,Microdiscectomy,36-50,7,1,2.0,None,Success,N/A
+VM-2021-2252,2021,Laminectomy,36-50,7,0,4.4,None,Success,N/A
+VM-2023-2253,2023,ACDF,51-65,10,0,3.2,None,Success,N/A
+VM-2024-2254,2024,Lumbar Fusion (Minimally Invasive),36-50,10,2,17.1,None,Success,N/A
+VM-2024-2255,2024,Robotic-Assisted Spinal Fusion,36-50,8,2,28.7,None,Success,99.3%
+VM-2024-2256,2024,Microdiscectomy,51-65,7,1,2.6,None,Success,N/A
+VM-2020-2257,2020,Craniotomy,80+,7,2,24.2,None,Success,N/A
+VM-2022-2258,2022,Laminectomy,51-65,7,2,3.8,None,Success,N/A
+VM-2025-2259,2025,Lumbar Fusion (Minimally Invasive),36-50,9,1,12.7,None,Success,N/A
+VM-2020-2260,2020,Microdiscectomy,66-80,10,0,2.5,None,Success,N/A
+VM-2020-2261,2020,Lumbar Fusion (Minimally Invasive),36-50,10,2,25.7,None,Success,N/A
+VM-2025-2262,2025,ACDF,51-65,7,2,5.2,None,Success,N/A
+VM-2024-2263,2024,Microdiscectomy,51-65,7,2,2.1,None,Success,N/A
+VM-2024-2264,2024,Lumbar Fusion (Minimally Invasive),36-50,7,1,23.3,None,Success,N/A
+VM-2024-2265,2024,Laminectomy,36-50,9,2,3.0,None,Success,N/A
+VM-2025-2266,2025,Lumbar Fusion (Minimally Invasive),18-35,10,1,16.6,None,Success,N/A
+VM-2025-2267,2025,Laminectomy,36-50,10,2,4.1,None,Success,N/A
+VM-2025-2268,2025,ACDF,66-80,7,1,3.9,None,Success,N/A
+VM-2022-2269,2022,Laminectomy,51-65,9,2,3.4,None,Success,N/A
+VM-2022-2270,2022,Microdiscectomy,80+,8,0,1.7,None,Success,N/A
+VM-2025-2271,2025,ACDF,66-80,10,1,5.1,None,Success,N/A
+VM-2021-2272,2021,Microdiscectomy,66-80,9,2,2.1,None,Success,N/A
+VM-2025-2273,2025,Microdiscectomy,51-65,8,0,1.5,None,Success,N/A
+VM-2024-2274,2024,ACDF,36-50,7,2,5.3,None,Success,N/A
+VM-2026-2275,2026,Lumbar Fusion (Minimally Invasive),51-65,9,0,25.9,None,Success,N/A
+VM-2023-2276,2023,Lumbar Fusion (Minimally Invasive),18-35,9,0,19.5,None,Success,N/A
+VM-2023-2277,2023,ACDF,51-65,7,2,3.4,None,Success,N/A
+VM-2024-2278,2024,Microdiscectomy,51-65,8,2,1.4,None,Success,N/A
+VM-2024-2279,2024,Microdiscectomy,51-65,9,0,2.1,None,Success,N/A
+VM-2023-2280,2023,ACDF,51-65,7,1,4.8,None,Success,N/A
+VM-2024-2281,2024,Microdiscectomy,36-50,10,1,2.4,None,Success,N/A
+VM-2022-2282,2022,Microdiscectomy,51-65,9,0,2.0,None,Success,N/A
+VM-2025-2283,2025,Microdiscectomy,51-65,7,2,2.3,None,Success,N/A
+VM-2021-2284,2021,Microdiscectomy,18-35,9,0,1.7,None,Success,N/A
+VM-2024-2285,2024,Laminectomy,36-50,9,2,4.1,None,Success,N/A
+VM-2022-2286,2022,ACDF,51-65,7,0,6.1,None,Success,N/A
+VM-2022-2287,2022,Microdiscectomy,51-65,8,0,1.9,None,Success,N/A
+VM-2024-2288,2024,Microdiscectomy,51-65,8,0,2.1,None,Success,N/A
+VM-2025-2289,2025,ACDF,66-80,9,0,5.0,None,Success,N/A
+VM-2022-2290,2022,ACDF,36-50,8,0,5.1,None,Success,N/A
+VM-2024-2291,2024,Microdiscectomy,36-50,9,1,3.2,None,Success,N/A
+VM-2022-2292,2022,Microdiscectomy,51-65,7,0,2.5,None,Success,N/A
+VM-2022-2293,2022,Lumbar Fusion (Minimally Invasive),80+,8,2,27.9,None,Success,N/A
+VM-2024-2294,2024,ACDF,18-35,9,0,4.4,None,Success,N/A
+VM-2022-2295,2022,Microdiscectomy,36-50,9,1,2.2,None,Success,N/A
+VM-2022-2296,2022,Lumbar Fusion (Minimally Invasive),51-65,9,2,22.0,None,Success,N/A
+VM-2020-2297,2020,Microdiscectomy,51-65,10,1,1.9,None,Success,N/A
+VM-2025-2298,2025,Microdiscectomy,36-50,10,1,1.9,None,Success,N/A
+VM-2024-2299,2024,ACDF,18-35,9,1,4.0,None,Success,N/A
+VM-2024-2300,2024,Laminectomy,36-50,9,2,4.1,None,Success,N/A
+VM-2024-2301,2024,Laminectomy,36-50,8,1,2.6,None,Success,N/A
+VM-2026-2302,2026,Microdiscectomy,36-50,7,5,2.4,None,Partial Improvement,N/A
+VM-2023-2303,2023,Craniotomy,66-80,8,0,55.1,None,Success,N/A
+VM-2024-2304,2024,Robotic-Assisted Spinal Fusion,51-65,7,1,22.1,None,Success,99.9%
+VM-2022-2305,2022,ACDF,36-50,7,2,5.6,None,Success,N/A
+VM-2024-2306,2024,Microdiscectomy,36-50,10,2,2.5,None,Success,N/A
+VM-2020-2307,2020,ACDF,18-35,7,1,4.3,None,Success,N/A
+VM-2023-2308,2023,Robotic-Assisted Spinal Fusion,36-50,8,2,20.6,None,Success,99.0%
+VM-2024-2309,2024,Craniotomy,36-50,9,0,39.2,None,Success,N/A
+VM-2023-2310,2023,Microdiscectomy,51-65,10,2,2.1,None,Success,N/A
+VM-2023-2311,2023,Microdiscectomy,18-35,8,0,1.6,None,Success,N/A
+VM-2023-2312,2023,Laminectomy,51-65,8,0,4.4,None,Success,N/A
+VM-2022-2313,2022,Microdiscectomy,51-65,9,0,2.2,None,Success,N/A
+VM-2024-2314,2024,Lumbar Fusion (Minimally Invasive),51-65,10,2,21.4,None,Success,N/A
+VM-2022-2315,2022,Microdiscectomy,36-50,10,2,2.1,None,Success,N/A
+VM-2021-2316,2021,ACDF,51-65,8,1,5.0,None,Success,N/A
+VM-2022-2317,2022,Robotic-Assisted Spinal Fusion,18-35,9,1,26.4,None,Success,99.8%
+VM-2024-2318,2024,ACDF,18-35,10,1,4.2,None,Success,N/A
+VM-2022-2319,2022,ACDF,51-65,10,1,3.0,None,Success,N/A
+VM-2025-2320,2025,Microdiscectomy,51-65,9,0,1.2,None,Success,N/A
+VM-2022-2321,2022,Robotic-Assisted Spinal Fusion,36-50,10,1,21.2,None,Success,98.2%
+VM-2022-2322,2022,Laminectomy,80+,8,0,3.3,None,Success,N/A
+VM-2025-2323,2025,Microdiscectomy,51-65,7,0,2.5,None,Success,N/A
+VM-2023-2324,2023,Microdiscectomy,36-50,7,1,1.8,None,Success,N/A
+VM-2025-2325,2025,Robotic-Assisted Spinal Fusion,36-50,9,1,24.9,None,Success,99.1%
+VM-2021-2326,2021,Microdiscectomy,36-50,7,0,2.0,None,Success,N/A
+VM-2022-2327,2022,Microdiscectomy,51-65,8,2,1.9,None,Success,N/A
+VM-2025-2328,2025,ACDF,80+,8,0,4.1,None,Success,N/A
+VM-2021-2329,2021,ACDF,66-80,10,1,3.7,None,Success,N/A
+VM-2020-2330,2020,Microdiscectomy,51-65,10,1,2.3,None,Success,N/A
+VM-2020-2331,2020,Microdiscectomy,51-65,8,1,2.3,None,Success,N/A
+VM-2021-2332,2021,Microdiscectomy,18-35,10,2,1.6,None,Success,N/A
+VM-2021-2333,2021,Microdiscectomy,51-65,8,2,1.8,None,Success,N/A
+VM-2022-2334,2022,Microdiscectomy,51-65,7,0,2.3,None,Success,N/A
+VM-2024-2335,2024,Lumbar Fusion (Minimally Invasive),36-50,8,1,18.4,None,Success,N/A
+VM-2024-2336,2024,Lumbar Fusion (Minimally Invasive),36-50,10,1,26.7,None,Success,N/A
+VM-2024-2337,2024,ACDF,18-35,10,2,4.7,None,Success,N/A
+VM-2023-2338,2023,Microdiscectomy,51-65,10,0,1.5,None,Success,N/A
+VM-2023-2339,2023,Microdiscectomy,36-50,8,0,1.8,None,Success,N/A
+VM-2020-2340,2020,Microdiscectomy,66-80,8,0,2.2,None,Success,N/A
+VM-2024-2341,2024,Microdiscectomy,51-65,7,1,2.1,None,Success,N/A
+VM-2024-2342,2024,Microdiscectomy,66-80,10,2,1.6,None,Success,N/A
+VM-2023-2343,2023,ACDF,51-65,9,1,4.6,None,Success,N/A
+VM-2026-2344,2026,Laminectomy,51-65,10,1,3.3,None,Success,N/A
+VM-2026-2345,2026,ACDF,36-50,10,2,3.9,None,Success,N/A
+VM-2024-2346,2024,Microdiscectomy,36-50,10,2,2.6,None,Success,N/A
+VM-2024-2347,2024,Microdiscectomy,51-65,7,2,2.7,None,Success,N/A
+VM-2021-2348,2021,Microdiscectomy,36-50,10,1,1.6,None,Success,N/A
+VM-2024-2349,2024,Microdiscectomy,51-65,10,2,2.3,None,Success,N/A
+VM-2026-2350,2026,ACDF,51-65,10,1,2.9,None,Success,N/A
+VM-2024-2351,2024,Robotic-Assisted Spinal Fusion,51-65,7,2,17.6,None,Success,98.1%
+VM-2020-2352,2020,Microdiscectomy,51-65,9,1,2.2,None,Success,N/A
+VM-2022-2353,2022,ACDF,18-35,9,1,3.6,None,Success,N/A
+VM-2025-2354,2025,Microdiscectomy,36-50,10,0,2.4,None,Success,N/A
+VM-2022-2355,2022,Microdiscectomy,51-65,7,0,2.2,None,Success,N/A
+VM-2021-2356,2021,Lumbar Fusion (Minimally Invasive),36-50,7,0,24.2,None,Success,N/A
+VM-2025-2357,2025,Laminectomy,36-50,10,2,3.4,None,Success,N/A
+VM-2020-2358,2020,ACDF,36-50,10,0,4.8,None,Success,N/A
+VM-2025-2359,2025,Microdiscectomy,51-65,9,2,2.1,None,Success,N/A
+VM-2023-2360,2023,Laminectomy,51-65,8,0,3.9,None,Success,N/A
+VM-2021-2361,2021,Microdiscectomy,51-65,7,2,1.8,None,Success,N/A
+VM-2026-2362,2026,ACDF,51-65,9,2,4.5,None,Success,N/A
+VM-2024-2363,2024,Microdiscectomy,66-80,9,1,1.1,None,Success,N/A
+VM-2024-2364,2024,Robotic-Assisted Spinal Fusion,51-65,10,1,23.9,None,Success,98.5%
+VM-2021-2365,2021,Lumbar Fusion (Minimally Invasive),51-65,7,2,19.1,None,Success,N/A
+VM-2023-2366,2023,ACDF,51-65,8,1,5.8,None,Success,N/A
+VM-2025-2367,2025,Microdiscectomy,36-50,9,0,1.9,None,Success,N/A
+VM-2020-2368,2020,Microdiscectomy,66-80,8,0,1.9,None,Success,N/A
+VM-2022-2369,2022,ACDF,51-65,9,1,3.8,None,Success,N/A
+VM-2020-2370,2020,ACDF,51-65,8,2,4.5,None,Success,N/A
+VM-2021-2371,2021,Microdiscectomy,36-50,7,1,2.4,None,Success,N/A
+VM-2025-2372,2025,Lumbar Fusion (Minimally Invasive),18-35,9,1,31.5,None,Success,N/A
+VM-2024-2373,2024,Microdiscectomy,36-50,9,2,2.4,None,Success,N/A
+VM-2020-2374,2020,Microdiscectomy,36-50,9,1,2.2,None,Success,N/A
+VM-2021-2375,2021,Microdiscectomy,18-35,8,1,2.2,None,Success,N/A
+VM-2025-2376,2025,Laminectomy,80+,7,1,4.1,None,Success,N/A
+VM-2025-2377,2025,Lumbar Fusion (Minimally Invasive),51-65,8,2,23.4,None,Success,N/A
+VM-2024-2378,2024,Microdiscectomy,36-50,9,4,2.6,None,Partial Improvement,N/A
+VM-2022-2379,2022,Laminectomy,80+,10,2,3.8,None,Success,N/A
+VM-2025-2380,2025,Microdiscectomy,36-50,8,2,2.5,None,Success,N/A
+VM-2021-2381,2021,Laminectomy,51-65,7,0,4.0,None,Success,N/A
+VM-2025-2382,2025,Microdiscectomy,51-65,9,1,1.6,None,Success,N/A
+VM-2020-2383,2020,Microdiscectomy,51-65,8,1,2.4,None,Success,N/A
+VM-2025-2384,2025,Lumbar Fusion (Minimally Invasive),51-65,10,1,15.7,None,Success,N/A
+VM-2021-2385,2021,Microdiscectomy,36-50,10,0,2.3,None,Success,N/A
+VM-2021-2386,2021,Lumbar Fusion (Minimally Invasive),36-50,8,1,16.9,None,Success,N/A
+VM-2025-2387,2025,Microdiscectomy,51-65,7,0,1.9,None,Success,N/A
+VM-2025-2388,2025,ACDF,36-50,8,1,3.9,None,Success,N/A
+VM-2023-2389,2023,Microdiscectomy,36-50,7,0,2.0,None,Success,N/A
+VM-2026-2390,2026,Microdiscectomy,66-80,10,0,2.0,None,Success,N/A
+VM-2024-2391,2024,Microdiscectomy,66-80,7,2,1.7,None,Success,N/A
+VM-2023-2392,2023,Microdiscectomy,51-65,10,2,1.8,None,Success,N/A
+VM-2025-2393,2025,Lumbar Fusion (Minimally Invasive),36-50,9,2,20.4,None,Success,N/A
+VM-2021-2394,2021,Microdiscectomy,66-80,8,0,1.7,None,Success,N/A
+VM-2025-2395,2025,Lumbar Fusion (Minimally Invasive),36-50,8,2,25.4,None,Success,N/A
+VM-2020-2396,2020,Craniotomy,66-80,10,1,45.3,None,Success,N/A
+VM-2024-2397,2024,ACDF,36-50,7,0,4.7,None,Success,N/A
+VM-2021-2398,2021,Lumbar Fusion (Minimally Invasive),51-65,7,0,25.3,None,Success,N/A
+VM-2025-2399,2025,Lumbar Fusion (Minimally Invasive),66-80,10,1,24.3,None,Success,N/A
+VM-2020-2400,2020,Laminectomy,36-50,8,1,4.8,None,Success,N/A
+VM-2021-2401,2021,Craniotomy,18-35,8,1,47.9,None,Success,N/A
+VM-2025-2402,2025,Lumbar Fusion (Minimally Invasive),36-50,8,2,20.3,None,Success,N/A
+VM-2023-2403,2023,Lumbar Fusion (Minimally Invasive),66-80,8,0,20.4,None,Success,N/A
+VM-2026-2404,2026,Robotic-Assisted Spinal Fusion,36-50,7,3,20.8,None,Partial Improvement,98.3%
+VM-2021-2405,2021,ACDF,51-65,10,2,3.9,None,Success,N/A
+VM-2025-2406,2025,ACDF,51-65,10,2,4.4,None,Success,N/A
+VM-2021-2407,2021,Microdiscectomy,51-65,8,0,1.3,None,Success,N/A
+VM-2021-2408,2021,ACDF,18-35,10,0,4.3,None,Success,N/A
+VM-2020-2409,2020,Microdiscectomy,51-65,10,1,2.5,None,Success,N/A
+VM-2022-2410,2022,Microdiscectomy,18-35,7,0,2.4,None,Success,N/A
+VM-2021-2411,2021,Lumbar Fusion (Minimally Invasive),18-35,8,1,25.7,None,Success,N/A
+VM-2024-2412,2024,Laminectomy,36-50,9,1,4.0,None,Success,N/A
+VM-2023-2413,2023,ACDF,18-35,8,2,5.5,None,Success,N/A
+VM-2021-2414,2021,Microdiscectomy,36-50,9,2,1.8,None,Success,N/A
+VM-2021-2415,2021,Microdiscectomy,66-80,10,1,2.1,None,Success,N/A
+VM-2022-2416,2022,ACDF,51-65,10,1,5.2,None,Success,N/A
+VM-2025-2417,2025,Microdiscectomy,51-65,10,1,2.3,None,Success,N/A
+VM-2025-2418,2025,Microdiscectomy,51-65,9,2,1.7,None,Success,N/A
